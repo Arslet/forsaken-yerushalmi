@@ -1,0 +1,120 @@
+{
+    "title": "Rashi on Megillah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Megilah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Megilla"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על מגילה",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Megillah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Megillah",
+        "heTitle": "רש\"י על מגילה",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Megillah"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1485",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Soncino",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Megillah",
+            "he": "מגילה"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על מגילה",
+    "titleVariants": [
+        "Rashi on Megilah",
+        "Rashi on Tractate Megillah",
+        "Rashi on Masekhet Megillah",
+        "Rashi on Talmud Megillah",
+        "Rashi on Megilla",
+        "Rashi on Megillah"
+    ],
+    "heTitleVariants": [
+        "רש\"י על מגילה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

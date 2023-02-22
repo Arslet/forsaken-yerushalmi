@@ -1,0 +1,69 @@
+{
+    "title": "Avodat HaKodesh (Gabbai)",
+    "categories": [
+        "Kabbalah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Section",
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "עבודת הקודש (גבאי)",
+                "primary": true
+            },
+            {
+                "text": "Avodat HaKodesh (Gabbai)",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Avodat HaKodesh (Gabbai)",
+        "heTitle": "עבודת הקודש (גבאי)",
+        "heSectionNames": [
+            "חלק",
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Avodat HaKodesh (Gabbai)"
+    },
+    "authors": [
+        "Meir ben Ezekiel ibn Gabbai"
+    ],
+    "enDesc": "A work that seeks to systemize the kabbalistic system, precursing the work of Rabbi Moshe Cordovero and Rabbi Yitzchak Ashkenazi (ARI). In response to the philosophical arguments against kabbalah, he takes on the views of Maimonides and argues against them.",
+    "pubDate": "1567",
+    "compDate": "1527",
+    "pubPlace": "Venice",
+    "errorMargin": "4",
+    "era": "AH",
+    "heTitle": "עבודת הקודש (גבאי)",
+    "titleVariants": [
+        "Avodat HaKodesh (Gabbai)"
+    ],
+    "heTitleVariants": [
+        "עבודת הקודש (גבאי)"
+    ],
+    "sectionNames": [
+        "Section",
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "קבלה"
+    ],
+    "compDateString": {
+        "en": " (c.1523  - c.1531 CE)",
+        "he": " (1523 - 1531 לספירה בקירוב)"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Tosefta Sanhedrin",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            14
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tosefta Sandhedrin"
+            },
+            {
+                "lang": "en",
+                "text": "T. Sanhedrin"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Sanhedrin"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא סנהדרין",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Snh."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Sanhedrin",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Sanhedrin",
+        "heTitle": "תוספתא סנהדרין",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Sanhedrin"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Sanhedrin (The Synod) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the rules of court proceedings in the Sanhedrin, the death penalty, and other criminal matters. It has fourteen chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא סנהדרין",
+    "titleVariants": [
+        "Tosefta Sandhedrin",
+        "T. Sanhedrin",
+        "Tos. Sanhedrin",
+        "Tosef. Snh.",
+        "Tosefta Sanhedrin"
+    ],
+    "heTitleVariants": [
+        "תוספתא סנהדרין"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Berakhot",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            7
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Berachot"
+            },
+            {
+                "lang": "en",
+                "text": "T. Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Brachot"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Berachot"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא ברכות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Ber."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Berakhot",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Berakhot",
+        "heTitle": "תוספתא ברכות",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Berakhot"
+    },
+    "order": [
+        1
+    ],
+    "authors": [],
+    "enDesc": "Berakhot (Blessings) belongs to the first order, Zera'im (seeds) and discusses the rules of blessings and prayers, particularly the Shema and the Amidah. It consists of six chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא ברכות",
+    "titleVariants": [
+        "Tos. Berakhot",
+        "Tosefta Berachot",
+        "T. Berakhot",
+        "Tosefta Brachot",
+        "Tos. Berachot",
+        "Tosef. Ber.",
+        "Tosefta Berakhot"
+    ],
+    "heTitleVariants": [
+        "תוספתא ברכות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

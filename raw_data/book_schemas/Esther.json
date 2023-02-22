@@ -1,0 +1,108 @@
+{
+    "title": "Esther",
+    "categories": [
+        "Tanakh",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            10,
+            167
+        ],
+        "titles": [
+            {
+                "text": "Est.",
+                "lang": "en"
+            },
+            {
+                "text": "Est",
+                "lang": "en"
+            },
+            {
+                "text": "Ester",
+                "lang": "en"
+            },
+            {
+                "text": "Esth.",
+                "lang": "en"
+            },
+            {
+                "text": "Esth",
+                "lang": "en"
+            },
+            {
+                "text": "אסתר",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "מגילת אסתר",
+                "lang": "he"
+            },
+            {
+                "text": "Esther",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Esther",
+        "heTitle": "אסתר",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Esther"
+    },
+    "order": [
+        34,
+        8
+    ],
+    "authors": [],
+    "enDesc": "Esther (Book of Esther ) is the fifth of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). Esther was a Jewish queen of the Persian king Achashverosh. Ahaverosh is traditionally identified with Xerxes I during the time of the Achaemenid Empire. The King is angered by with his Queen Vashti refusal to obey his orders and he has here replaced with Esther. Esther cousin Mordecai became chief minister of Ahaverosh and lived in the Persian capital of Susa. One day, while sitting at the gate of the king's palace. He uncovers a plot by Haman to wipe out all the Jews in the Persian Empire. Esther uses her political position to save all the Jews. The Jews established an annual feast, the feast of Purim, in memory of their deliverance. Haman set the date of Adar 13 to commence his campaign against the Jews. This determined the date of the festival of Purim.",
+    "pubDate": "1488",
+    "compDate": "-300",
+    "compPlace": "Shushan",
+    "pubPlace": "Soncino",
+    "errorMargin": "100",
+    "is_cited": true,
+    "heTitle": "אסתר",
+    "titleVariants": [
+        "Est.",
+        "Est",
+        "Ester",
+        "Esth.",
+        "Esth",
+        "Esther"
+    ],
+    "heTitleVariants": [
+        "אסתר",
+        "מגילת אסתר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.400  - c.200 BCE)",
+        "he": " (400 - 200 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Shushan",
+        "he": "שושן"
+    }
+}

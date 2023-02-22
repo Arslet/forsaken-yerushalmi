@@ -1,0 +1,130 @@
+{
+    "title": "Rashi on Makkot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Makot"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על מכות",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Makkot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Makkot",
+        "heTitle": "רש\"י על מכות",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Makkot"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Makkot",
+            "he": "מכות"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על מכות",
+    "titleVariants": [
+        "Rashi on Tractate Makkot",
+        "Rashi on Talmud Makkot",
+        "Rashi on Masekhet Makkot",
+        "Rashi on Makkos",
+        "Rashi on Talmud Makkos",
+        "Rashi on Tractate Makkos",
+        "Rashi on Makot",
+        "Rashi on Makkot"
+    ],
+    "heTitleVariants": [
+        "רש\"י על מכות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

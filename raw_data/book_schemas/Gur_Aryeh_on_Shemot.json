@@ -1,0 +1,99 @@
+{
+    "title": "Gur Aryeh on Shemot",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Gur Aryeh",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Gur Aryeh on Exod."
+            },
+            {
+                "lang": "he",
+                "text": "גור אריה על שמות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Gur Aryeh on Shemot",
+                "primary": true
+            }
+        ],
+        "title": "Gur Aryeh on Shemot",
+        "heTitle": "גור אריה על שמות",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פסקה"
+        ],
+        "key": "Gur Aryeh on Shemot"
+    },
+    "authors": [
+        "Maharal"
+    ],
+    "enDesc": "Maharal's supercommentary to Rashi's Torah commentary.",
+    "heDesc": "פירושו של המהר\"ל מפראג לפירוש רש\"י על התורה.",
+    "pubDate": "1578",
+    "compDate": "1563",
+    "compPlace": "Prague",
+    "pubPlace": "Prague",
+    "errorMargin": "15",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Exodus",
+            "he": "ספר שמות"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Gur Aryeh",
+        "he": "גור אריה"
+    },
+    "is_cited": true,
+    "heTitle": "גור אריה על שמות",
+    "titleVariants": [
+        "Gur Aryeh on Exod.",
+        "Gur Aryeh on Shemot"
+    ],
+    "heTitleVariants": [
+        "גור אריה על שמות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "גור אריה",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1548  - c.1578 CE)",
+        "he": " (1548 - 1578 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Prague",
+        "he": "פראג"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Chidushim of Machaneh Ephraim on Mishneh Torah, Creditor and Debtor",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Commentary",
+        "Chidushim of Machaneh Ephraim",
+        "Sefer Mishpatim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מלווה ולווה",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Chidushim of Machaneh Ephraim on Mishneh Torah, Creditor and Debtor",
+                "lang": "en"
+            }
+        ],
+        "title": "Chidushim of Machaneh Ephraim on Mishneh Torah, Creditor and Debtor",
+        "heTitle": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מלווה ולווה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Chidushim of Machaneh Ephraim on Mishneh Torah, Creditor and Debtor"
+    },
+    "authors": [
+        "Ephraim Navon"
+    ],
+    "pubDate": "1738",
+    "compDate": "1720",
+    "pubPlace": "Constantinople",
+    "errorMargin": "15",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Mishneh Torah, Creditor and Debtor",
+            "he": "משנה תורה, הלכות מלווה ולווה"
+        }
+    ],
+    "collective_title": {
+        "en": "Chidushim of Machaneh Ephraim",
+        "he": "חידושים מהגאון בעל מחנה אפרים"
+    },
+    "heTitle": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מלווה ולווה",
+    "titleVariants": [
+        "Chidushim of Machaneh Ephraim on Mishneh Torah, Creditor and Debtor"
+    ],
+    "heTitleVariants": [
+        "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מלווה ולווה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "מפרשים",
+        "חידושים מהגאון בעל מחנה אפרים",
+        "ספר משפטים"
+    ],
+    "compDateString": {
+        "en": " (c.1705  - c.1735 CE)",
+        "he": " (1705 - 1735 לספירה בקירוב)"
+    }
+}

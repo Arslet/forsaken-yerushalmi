@@ -1,0 +1,63 @@
+{
+    "title": "Musafia Teshuvot HaGeonim",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מוספיה תשובות הגאונים",
+                "primary": true
+            },
+            {
+                "text": "Musafia Teshuvot HaGeonim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Musafia Teshuvot HaGeonim",
+        "heTitle": "מוספיה תשובות הגאונים",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Musafia Teshuvot HaGeonim"
+    },
+    "authors": [],
+    "enDesc": "A collection of responsa from the Geonim.",
+    "pubDate": "1864",
+    "compDate": "900",
+    "pubPlace": "Elk, Poland",
+    "errorMargin": "100",
+    "era": "GN",
+    "heTitle": "מוספיה תשובות הגאונים",
+    "titleVariants": [
+        "Musafia Teshuvot HaGeonim"
+    ],
+    "heTitleVariants": [
+        "מוספיה תשובות הגאונים"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.800  - c.1000 CE)",
+        "he": " (800 - 1000 לספירה בקירוב)"
+    }
+}

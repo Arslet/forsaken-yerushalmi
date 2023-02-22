@@ -1,0 +1,105 @@
+{
+    "title": "Mateh Efrayim",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Seif"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Seif"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "סימן",
+                    "סעיף"
+                ],
+                "key": "default"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Laws of Kaddish",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "דיני קדיש",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Laws of Kaddish",
+                "heTitle": "דיני קדיש",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "Laws of Kaddish"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "מטה אפרים",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Mateh Efrayim",
+                "lang": "en"
+            }
+        ],
+        "title": "Mateh Efrayim",
+        "heTitle": "מטה אפרים",
+        "key": "Mateh Efrayim"
+    },
+    "authors": [
+        "Ephraim Zalman Margoliot"
+    ],
+    "enDesc": "Comprehensive compendium of laws related to the High Holy Days and the festival of Sukkot, following the order of the Shulchan Arukh, as well as the laws pertaining to the orphan's Kaddish.",
+    "heDesc": "הלכות ומנהגים הנהוגים מראש חודש אלול עד אחר יום כיפור וקצת מדיני סוכות לפי סדר סימני השלחן ערוך. גם נכלל בו דיני קדיש יתום.",
+    "pubDate": "1834",
+    "compDate": "1810",
+    "compPlace": "Brody",
+    "pubPlace": "Zolkiev",
+    "errorMargin": "15",
+    "era": "AH",
+    "heTitle": "מטה אפרים",
+    "titleVariants": [
+        "Mateh Efrayim"
+    ],
+    "heTitleVariants": [
+        "מטה אפרים"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1795  - c.1825 CE)",
+        "he": " (1795 - 1825 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Brody",
+        "he": "בראָד"
+    }
+}

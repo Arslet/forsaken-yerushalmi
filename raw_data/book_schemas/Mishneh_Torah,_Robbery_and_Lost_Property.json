@@ -1,0 +1,162 @@
+{
+    "title": "Mishneh Torah, Robbery and Lost Property",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Nezikim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            18
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Robbery and Lost Property"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Robbery and Lost Property"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Robbery and Lost Property"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Gezelah va'Avedah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, <i>Hilkhot Gezelah ve-Avedah</i>"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Gezelah ve-Avedah"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות גזילה ואבידה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות גזילה ואבידה"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' גזילה ואבידה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' גזילה ואבידה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות גזילה ואבידה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' גזילה ואבידה"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Robbery and Lost Property",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Robbery and Lost Property",
+        "heTitle": "משנה תורה, הלכות גזילה ואבידה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Robbery and Lost Property"
+    },
+    "order": [
+        71,
+        3
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The eleventh book is Sefer Nezikim (Injuries: criminal and tort law). Hilchot Gezelah Veavidah. The eleventh book is Sefer Nezikim (Injuries: criminal and tort law). Hilchot Gezelah Veavidah.",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות גזילה ואבידה",
+    "titleVariants": [
+        "Mishneh Torah, Gezelah va'Avedah",
+        "Mishneh Torah, Laws of Robbery and Lost Property",
+        "Rambam, Hilchot Gezelah va'Avedah",
+        "Mishneh Torah, Hilchot Gezelah va'Avedah",
+        "Rambam, Laws of Robbery and Lost Property",
+        "Rambam, Robbery and Lost Property",
+        "Rambam, Gezelah va'Avedah",
+        "Rambam, Hilkhot Gezelah va'Avedah",
+        "Mishneh Torah, Hilkhot Gezelah va'Avedah",
+        "Rambam, <i>Hilkhot Gezelah ve-Avedah</i>",
+        "Rambam, Hilkhot Gezelah ve-Avedah",
+        "Mishneh Torah, Robbery and Lost Property"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות גזילה ואבידה",
+        "רמב\"ם, הלכות גזילה ואבידה",
+        "משנה תורה, הל' גזילה ואבידה",
+        "רמב\"ם, הל' גזילה ואבידה",
+        "רמב\"ם הלכות גזילה ואבידה",
+        "רמב\"ם הל' גזילה ואבידה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

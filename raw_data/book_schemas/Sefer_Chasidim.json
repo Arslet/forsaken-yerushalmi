@@ -1,0 +1,81 @@
+{
+    "title": "Sefer Chasidim",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Siman",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "text": "Sefer Chassidim",
+                "lang": "en"
+            },
+            {
+                "text": "Sefer Hasidim",
+                "lang": "en"
+            },
+            {
+                "text": "ספר חסידים",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "ספר החסידים",
+                "lang": "he"
+            },
+            {
+                "text": "Sefer Chasidim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sefer Chasidim",
+        "heTitle": "ספר חסידים",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Sefer Chasidim"
+    },
+    "authors": [
+        "Judah HeHasid"
+    ],
+    "enDesc": "A classic and the most important work of the medieval Chassidei Ashkenaz, it was written as a comprehensive guide to Jewish life. As such, it is a book of both ethical instruction and legal information. Given that the author was a pietist, he tends towards more stringent views in his legal opinions.",
+    "heDesc": "",
+    "pubDate": "1487",
+    "compDate": "",
+    "compPlace": "Middle-Age Germany",
+    "pubPlace": "Bologna",
+    "era": "RI",
+    "heTitle": "ספר חסידים",
+    "titleVariants": [
+        "Sefer Chassidim",
+        "Sefer Hasidim",
+        "Sefer Chasidim"
+    ],
+    "heTitleVariants": [
+        "ספר חסידים",
+        "ספר החסידים"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compPlaceString": {
+        "en": "Middle-Age Germany",
+        "he": "גרמניה של ימי הביניים"
+    }
+}

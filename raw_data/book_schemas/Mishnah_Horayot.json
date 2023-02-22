@@ -1,0 +1,104 @@
+{
+    "title": "Mishnah Horayot",
+    "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Mishnah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Mishnah"
+        ],
+        "lengths": [
+            3,
+            20
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "M. Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "M Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Mishna Horayot"
+            },
+            {
+                "lang": "he",
+                "text": "משנה הוריות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Mishnah Hor."
+            },
+            {
+                "lang": "en",
+                "text": "Mishnah Horayoth"
+            },
+            {
+                "lang": "en",
+                "text": "Mishnah Horayot",
+                "primary": true
+            }
+        ],
+        "title": "Mishnah Horayot",
+        "heTitle": "משנה הוריות",
+        "heSectionNames": [
+            "פרק",
+            "משנה"
+        ],
+        "key": "Mishnah Horayot"
+    },
+    "order": [
+        40,
+        10
+    ],
+    "authors": [],
+    "enDesc": "Horayot (Decisions) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the communal sin-offering brought for major errors by the Sanhedrin. It has three chapters.",
+    "pubDate": "1492",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Naples",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "משנה הוריות",
+    "titleVariants": [
+        "M. Horayot",
+        "M Horayot",
+        "Mishna Horayot",
+        "Mishnah Hor.",
+        "Mishnah Horayoth",
+        "Mishnah Horayot"
+    ],
+    "heTitleVariants": [
+        "משנה הוריות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Mishnah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "משנה",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "title": "Sefer HaMitzvot HaKatzar",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Positive Commandment",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "מצות עשה",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Positive Commandment",
+                "heTitle": "מצות עשה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Positive Commandment"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Negative Commandments",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "מצות לא תעשה",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Negative Commandments",
+                "heTitle": "מצות לא תעשה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Negative Commandments"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "ספר המצות הקצר",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Sefer HaMitzvot HaKatzar",
+                "lang": "en"
+            }
+        ],
+        "title": "Sefer HaMitzvot HaKatzar",
+        "heTitle": "ספר המצות הקצר",
+        "key": "Sefer HaMitzvot HaKatzar"
+    },
+    "authors": [
+        "Israel Meir Kagan"
+    ],
+    "enDesc": "A compilation of all the Biblical commandments which are applicable in the post-Temple era, with a brief elaboration of each.",
+    "heDesc": "חיבור קטן מאת ר' ישראל מאיר הכהן מראדין, בעל ה'חפץ חיים', בו נאספו ונלקטו כל המצוות עשה ולא תעשה שאפשר לקיימן בזמן הזה, עם ביאור קצר ותמציתית.",
+    "pubDate": "1931",
+    "compDate": "1925",
+    "compPlace": "Radun",
+    "pubPlace": "Vilna",
+    "errorMargin": "5",
+    "era": "AH",
+    "heTitle": "ספר המצות הקצר",
+    "titleVariants": [
+        "Sefer HaMitzvot HaKatzar"
+    ],
+    "heTitleVariants": [
+        "ספר המצות הקצר"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1920  - c.1930 CE)",
+        "he": " (1920 - 1930 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Radun",
+        "he": "ראדין"
+    }
+}

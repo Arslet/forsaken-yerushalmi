@@ -1,0 +1,128 @@
+{
+    "title": "Devarim Nichumim on Lamentations",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Alshich",
+        "Writings"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Introduction",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "הקדמה",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Perek",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Comment"
+                ],
+                "toc_zoom": 2,
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פירוש"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "text": "Alshich on Lamentations",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "דברים ניחומים על איכה",
+                "lang": "he"
+            },
+            {
+                "text": "אלשיך על איכה",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Devarim Nichumim on Lamentations",
+                "lang": "en"
+            }
+        ],
+        "title": "Devarim Nichumim on Lamentations",
+        "heTitle": "דברים ניחומים על איכה",
+        "key": "Devarim Nichumim on Lamentations"
+    },
+    "authors": [
+        "Alshikh"
+    ],
+    "enDesc": "Commentary of R' Moshe Alshikh on Lamentations.",
+    "heDesc": "פירושו של ר' משה אלשיך על מגילת איכה.",
+    "pubDate": "1601",
+    "compDate": "1567",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Lamentations",
+            "he": "איכה"
+        }
+    ],
+    "collective_title": {
+        "en": "Alshich",
+        "he": "אלשיך"
+    },
+    "heTitle": "דברים ניחומים על איכה",
+    "titleVariants": [
+        "Alshich on Lamentations",
+        "Devarim Nichumim on Lamentations"
+    ],
+    "heTitleVariants": [
+        "דברים ניחומים על איכה",
+        "אלשיך על איכה"
+    ],
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "אלשיך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.1542  - c.1592 CE)",
+        "he": " (1542 - 1592 לספירה בקירוב)"
+    }
+}

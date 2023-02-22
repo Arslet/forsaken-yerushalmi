@@ -1,0 +1,69 @@
+{
+    "title": "Teshuvot HaRitva",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תשובות הריטב\"א",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Teshuvot HaRitva",
+                "primary": true
+            }
+        ],
+        "title": "Teshuvot HaRitva",
+        "heTitle": "תשובות הריטב\"א",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot HaRitva"
+    },
+    "authors": [
+        "Ritva"
+    ],
+    "pubDate": "1490",
+    "compDate": "1300",
+    "compPlace": "Middle-Age Spain",
+    "pubPlace": "Naples",
+    "errorMargin": "20",
+    "era": "RI",
+    "heTitle": "תשובות הריטב\"א",
+    "titleVariants": [
+        "Teshuvot HaRitva"
+    ],
+    "heTitleVariants": [
+        "תשובות הריטב\"א"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1280  - c.1320 CE)",
+        "he": " (1280 - 1320 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Spain",
+        "he": "ספרד של ימי הביניים"
+    }
+}

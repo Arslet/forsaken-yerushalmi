@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Terumot",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            10
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tosefta Trumot"
+            },
+            {
+                "lang": "en",
+                "text": "T. Terumot"
+            },
+            {
+                "lang": "en",
+                "text": "T. Trumot"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Trumot"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Terumot"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא תרומות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Ter."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Terumot",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Terumot",
+        "heTitle": "תוספתא תרומות",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Terumot"
+    },
+    "order": [
+        4
+    ],
+    "authors": [],
+    "enDesc": "Terumot (Donations) belongs to the first order, Zera'im (seeds) and discusses it the laws regarding the terumah donation given to the Kohanim (Jewish priests), as stated in Numbers 18:8-20, Deuteronomy 18:4. It consists of ten chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא תרומות",
+    "titleVariants": [
+        "Tosefta Trumot",
+        "T. Terumot",
+        "T. Trumot",
+        "Tos. Trumot",
+        "Tos. Terumot",
+        "Tosef. Ter.",
+        "Tosefta Terumot"
+    ],
+    "heTitleVariants": [
+        "תוספתא תרומות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

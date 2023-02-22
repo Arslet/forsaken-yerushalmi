@@ -1,0 +1,113 @@
+{
+    "title": "Sforno on Numbers",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Sforno",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Sforno on Num."
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Num"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Bamidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Bemidbar"
+            },
+            {
+                "lang": "he",
+                "text": "ספורנו על במדבר",
+                "primary": true
+            },
+            {
+                "text": "Sforno on Numbers",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sforno on Numbers",
+        "heTitle": "ספורנו על במדבר",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Sforno on Numbers"
+    },
+    "authors": [
+        "Sforno"
+    ],
+    "enDesc": "Commentary on the Torah by Rabbi Ovadiah ben Jacob Sforno, a 16th-century Italian rabbi and physician.  ",
+    "pubDate": "1567",
+    "compDate": "1525",
+    "compPlace": "Bologna",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Numbers",
+            "he": "במדבר"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Sforno",
+        "he": "ספורנו"
+    },
+    "is_cited": true,
+    "heTitle": "ספורנו על במדבר",
+    "titleVariants": [
+        "Sforno on Num.",
+        "Sforno on Num",
+        "Sforno on Bamidbar",
+        "Sforno on Bemidbar",
+        "Sforno on Numbers"
+    ],
+    "heTitleVariants": [
+        "ספורנו על במדבר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "ספורנו",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1500  - c.1550 CE)",
+        "he": " (1500 - 1550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Bologna",
+        "he": "בולוניה"
+    }
+}

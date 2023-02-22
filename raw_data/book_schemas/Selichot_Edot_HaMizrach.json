@@ -1,0 +1,52 @@
+{
+    "title": "Selichot Edot HaMizrach",
+    "categories": [
+        "Liturgy",
+        "High Holidays"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "text": "סליחות נוסח עדות המזרח",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Selichot Edot HaMizrach",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Selichot Edot HaMizrach",
+        "heTitle": "סליחות נוסח עדות המזרח",
+        "heSectionNames": [
+            "פסקה"
+        ],
+        "key": "Selichot Edot HaMizrach"
+    },
+    "authors": [],
+    "enDesc": "The prayers and eligies to mourn the destruction of the Temple and the exile on the 9th of Av as recited in most Sephardi communities.",
+    "heTitle": "סליחות נוסח עדות המזרח",
+    "titleVariants": [
+        "Selichot Edot HaMizrach"
+    ],
+    "heTitleVariants": [
+        "סליחות נוסח עדות המזרח"
+    ],
+    "sectionNames": [
+        "Paragraph"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "סדר התפילה",
+        "ימים נוראים"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Joshua",
+    "categories": [
+        "Tanakh",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            24,
+            658
+        ],
+        "titles": [
+            {
+                "text": "Jos",
+                "lang": "en"
+            },
+            {
+                "text": "Yehoshua",
+                "lang": "en"
+            },
+            {
+                "text": "Jos.",
+                "lang": "en"
+            },
+            {
+                "text": "Josh",
+                "lang": "en"
+            },
+            {
+                "text": "Josh.",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "יהושע",
+                "lang": "he"
+            },
+            {
+                "text": "יהושוע",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Joshua",
+                "lang": "en"
+            }
+        ],
+        "title": "Joshua",
+        "heTitle": "יהושע",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Joshua"
+    },
+    "order": [
+        6,
+        1
+    ],
+    "enDesc": "The first of the four books making up the Neviim Rishonim (Early Prophets) - Joshua begins with a commandment to take possession of Canaan and a warning to Joshua to keep faith with the Covenant. Then the Israelites cross the Jordan through the miraculous intervention of God and the Ark of the Covenant and are circumcised. The conquest of Canaan begins with Jericho and Ai and renewal of the Berit (Covenant). The book continues with the conquest of the south of country before the narratives moves on to the northern campaign. Joshua defeats a multi-ethic coalition headed by the King of Hazor. The book shifts from the conquest of the land to its division between the tribes. The book concludes with Joshua charging the leaders of Israel to remain faithful to God and a warning of the consequences of not doing so.",
+    "pubDate": "1488",
+    "compDate": "-900",
+    "compPlace": "Canaan",
+    "pubPlace": "Soncino",
+    "errorMargin": "400",
+    "is_cited": true,
+    "heTitle": "יהושע",
+    "titleVariants": [
+        "Jos",
+        "Yehoshua",
+        "Jos.",
+        "Josh",
+        "Josh.",
+        "Joshua"
+    ],
+    "heTitleVariants": [
+        "יהושע",
+        "יהושוע"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "נביאים"
+    ],
+    "compDateString": {
+        "en": " (c.1300  - c.500 BCE)",
+        "he": " (1300 - 500 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Canaan",
+        "he": "כנען"
+    }
+}

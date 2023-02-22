@@ -1,0 +1,64 @@
+{
+    "title": "Psalm 151",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תהילים קנ\"א",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "מזמור קנ\"א"
+            },
+            {
+                "text": "Psalm 151",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Psalm 151",
+        "heTitle": "תהילים קנ\"א",
+        "heSectionNames": [
+            "פסוק"
+        ],
+        "key": "Psalm 151"
+    },
+    "authors": [],
+    "enDesc": "Psalm 151 discusses the slaying of Goliath and is attributed to King David. However, it does not appear in the Masoretic text and appears to be a much later composition.",
+    "heDesc": "מזמור קנ\"א אינו מופיע בנוסח המסורה העברי של התהלים ומקורו הוא בתרגום השבעים, ולכן נחשב הוא כחלק מספרים החיצוניים. המזמור מיוחס לדוד המלך ועוסק בנצחונו על גלית, אבל לשונו של המזמור וסגנונו הפשוט מעידים על חיבור מאוחר יותר. ",
+    "compDate": "250 BCE",
+    "compPlace": "Judea/Israel",
+    "errorMargin": "150",
+    "is_cited": true,
+    "heTitle": "תהילים קנ\"א",
+    "titleVariants": [
+        "Psalm 151"
+    ],
+    "heTitleVariants": [
+        "תהילים קנ\"א",
+        "מזמור קנ\"א"
+    ],
+    "sectionNames": [
+        "Verse"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "ספרים חיצונים"
+    ],
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

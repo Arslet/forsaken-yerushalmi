@@ -1,0 +1,569 @@
+{
+    "title": "Shev Shmat'ta",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 1",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא א",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 1",
+                "heTitle": "שמעתתא א",
+                "key": "Shmatta 1"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 2",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ב",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 2",
+                "heTitle": "שמעתתא ב",
+                "key": "Shmatta 2"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 3",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ג",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 3",
+                "heTitle": "שמעתתא ג",
+                "key": "Shmatta 3"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 4",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ד",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 4",
+                "heTitle": "שמעתתא ד",
+                "key": "Shmatta 4"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 5",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ה",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 5",
+                "heTitle": "שמעתתא ה",
+                "key": "Shmatta 5"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 6",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ו",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 6",
+                "heTitle": "שמעתתא ו",
+                "key": "Shmatta 6"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Subject",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "נושא",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Subject",
+                        "heTitle": "נושא",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Subject"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Shmatta 7",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "שמעתתא ז",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmatta 7",
+                "heTitle": "שמעתתא ז",
+                "key": "Shmatta 7"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "שב שמעתתא",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Shev Shmatta"
+            },
+            {
+                "lang": "en",
+                "text": "Shev Shmatsa"
+            },
+            {
+                "lang": "en",
+                "text": "Shev Shmat'sa"
+            },
+            {
+                "lang": "en",
+                "text": "Shev Shmata"
+            },
+            {
+                "text": "Shev Shmat'ta",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shev Shmat'ta",
+        "heTitle": "שב שמעתתא",
+        "key": "Shev Shmat'ta"
+    },
+    "authors": [
+        "Aryeh Leib Heller"
+    ],
+    "enDesc": "A classic of yeshiva study, in which the author deals at length with some of the most complicated and yet central topics in the Talmud.",
+    "pubDate": "1804",
+    "compDate": "1785",
+    "pubPlace": "Lemberg",
+    "errorMargin": "20",
+    "era": "AH",
+    "dedication": {
+        "en": "Dedicated in honor of Arlene Heller Doft by her children and grandchildren.",
+        "he": "מוקדש לכבוד יעל הלר־דופט, על ידי ילדיה ונכדיה"
+    },
+    "heTitle": "שב שמעתתא",
+    "titleVariants": [
+        "Shev Shmatta",
+        "Shev Shmatsa",
+        "Shev Shmat'sa",
+        "Shev Shmata",
+        "Shev Shmat'ta"
+    ],
+    "heTitleVariants": [
+        "שב שמעתתא"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1765  - c.1805 CE)",
+        "he": " (1765 - 1805 לספירה בקירוב)"
+    }
+}

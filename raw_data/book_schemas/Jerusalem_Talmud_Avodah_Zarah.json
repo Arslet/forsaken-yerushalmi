@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Avodah Zarah",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            74,
+            185
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Avodah Zarah"
+            },
+            {
+                "lang": "en",
+                "text": "JT Avodah Zarah"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Avodah Zarah"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי עבודה זרה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי עבודה זרה"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Ab. Zar."
+            },
+            {
+                "text": "Jerusalem Talmud Avodah Zarah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Avodah Zarah",
+        "heTitle": "תלמוד ירושלמי עבודה זרה",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Avodah Zarah"
+    },
+    "order": [
+        36
+    ],
+    "authors": [],
+    "enDesc": "Avodah Zarah (Foreign worship) belongs to the fourth order, Nezikin (The Order of Damages) and presents the laws of interactions between Jews and Gentiles and/or idolaters (from a Jewish perspective). It has five chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי עבודה זרה",
+    "titleVariants": [
+        "Talmud Yerushalmi Avodah Zarah",
+        "JT Avodah Zarah",
+        "Yerushalmi Avodah Zarah",
+        "Y. Ab. Zar.",
+        "Jerusalem Talmud Avodah Zarah"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי עבודה זרה",
+        "ירושלמי עבודה זרה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

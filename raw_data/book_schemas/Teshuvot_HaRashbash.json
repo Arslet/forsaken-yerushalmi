@@ -1,0 +1,72 @@
+{
+    "title": "Teshuvot HaRashbash",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashbash"
+            },
+            {
+                "lang": "he",
+                "text": "תשובות הרשב\"ש",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רשב\"ש"
+            },
+            {
+                "text": "Teshuvot HaRashbash",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Teshuvot HaRashbash",
+        "heTitle": "תשובות הרשב\"ש",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot HaRashbash"
+    },
+    "authors": [
+        "Shlomo ben Shimon Duran"
+    ],
+    "compDate": "1450",
+    "errorMargin": "15",
+    "era": "RI",
+    "heTitle": "תשובות הרשב\"ש",
+    "titleVariants": [
+        "Rashbash",
+        "Teshuvot HaRashbash"
+    ],
+    "heTitleVariants": [
+        "תשובות הרשב\"ש",
+        "רשב\"ש"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1435  - c.1465 CE)",
+        "he": " (1435 - 1465 לספירה בקירוב)"
+    }
+}

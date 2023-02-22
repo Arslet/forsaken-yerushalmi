@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Sanhedrin",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            114,
+            281
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Sanhedrin"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Sanhedrin"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Sanhedrin"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי סנהדרין",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי סנהדרין"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Snh."
+            },
+            {
+                "text": "Jerusalem Talmud Sanhedrin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Sanhedrin",
+        "heTitle": "תלמוד ירושלמי סנהדרין",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Sanhedrin"
+    },
+    "order": [
+        34
+    ],
+    "authors": [],
+    "enDesc": "Sanhedrin (The Synod) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the rules of court proceedings in the Sanhedrin, the death penalty, and other criminal matters. It has eleven chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי סנהדרין",
+    "titleVariants": [
+        "JT Sanhedrin",
+        "Yerushalmi Sanhedrin",
+        "Talmud Yerushalmi Sanhedrin",
+        "Y. Snh.",
+        "Jerusalem Talmud Sanhedrin"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי סנהדרין",
+        "ירושלמי סנהדרין"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

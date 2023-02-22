@@ -1,0 +1,438 @@
+{
+    "title": "Keritot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line"
+        ],
+        "lengths": [
+            54,
+            3648
+        ],
+        "titles": [
+            {
+                "text": "Talmud Keritot",
+                "lang": "en"
+            },
+            {
+                "text": "Masekhet Keritot",
+                "lang": "en"
+            },
+            {
+                "text": "Tractate Keritot",
+                "lang": "en"
+            },
+            {
+                "text": "Keritut",
+                "lang": "en"
+            },
+            {
+                "text": "Talmud Keritut",
+                "lang": "en"
+            },
+            {
+                "text": "Masekhet Keritut",
+                "lang": "en"
+            },
+            {
+                "text": "Tractate Keritut",
+                "lang": "en"
+            },
+            {
+                "text": "כריתות",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "Ker.",
+                "lang": "en"
+            },
+            {
+                "text": "K’rithoth",
+                "lang": "en"
+            },
+            {
+                "text": "Kerith.",
+                "lang": "en"
+            },
+            {
+                "text": "BT Keritot",
+                "lang": "en"
+            },
+            {
+                "text": "Keritot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Keritot",
+        "heTitle": "כריתות",
+        "heSectionNames": [
+            "דף",
+            "שורה"
+        ],
+        "key": "Keritot",
+        "checkFirst": {
+            "en": "Mishnah Keritot",
+            "he": "משנה כריתות"
+        }
+    },
+    "default_struct": "Chapters",
+    "order": [
+        34,
+        7
+    ],
+    "authors": [],
+    "enDesc": "Keritot (Excisions) belongs to the fifth order, Kodshim (Holy things) and discusses the commandments for which the penalty is karet \"excision\") as well as the sacrifices associated with their (mostly unwitting) transgression. It has six chapters.",
+    "pubDate": "1523",
+    "compDate": "500",
+    "compPlace": "Talmudic Babylon",
+    "pubPlace": "Venice",
+    "errorMargin": "50",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "כריתות",
+    "titleVariants": [
+        "Talmud Keritot",
+        "Masekhet Keritot",
+        "Tractate Keritot",
+        "Keritut",
+        "Talmud Keritut",
+        "Masekhet Keritut",
+        "Tractate Keritut",
+        "Ker.",
+        "K’rithoth",
+        "Kerith.",
+        "BT Keritot",
+        "Keritot"
+    ],
+    "heTitleVariants": [
+        "כריתות"
+    ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 2a:1-8b:3",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "שלשים ושש",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1",
+                    "heTitle": "שלשים ושש",
+                    "refs": [
+                        "Keritot 2a:1-5",
+                        "Keritot 2b",
+                        "Keritot 3a",
+                        "Keritot 3b",
+                        "Keritot 4a",
+                        "Keritot 4b",
+                        "Keritot 5a",
+                        "Keritot 5b",
+                        "Keritot 6a",
+                        "Keritot 6b",
+                        "Keritot 7a",
+                        "Keritot 7b",
+                        "Keritot 8a",
+                        "Keritot 8b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 8b:4-11b:5",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ארבעה מחוסרי כפרה",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2",
+                    "heTitle": "ארבעה מחוסרי כפרה",
+                    "refs": [
+                        "Keritot 8b:4-21",
+                        "Keritot 9a",
+                        "Keritot 9b",
+                        "Keritot 10a",
+                        "Keritot 10b",
+                        "Keritot 11a",
+                        "Keritot 11b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 15
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 11b:6-17a:25",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אמרו לו",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3",
+                    "heTitle": "אמרו לו",
+                    "refs": [
+                        "Keritot 11b:6-21",
+                        "Keritot 12a",
+                        "Keritot 12b",
+                        "Keritot 13a",
+                        "Keritot 13b",
+                        "Keritot 14a",
+                        "Keritot 14b",
+                        "Keritot 15a",
+                        "Keritot 15b",
+                        "Keritot 16a",
+                        "Keritot 16b",
+                        "Keritot 17a:1-25"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 21
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 17a:26-20b:6",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ספק אכל חלב",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4",
+                    "heTitle": "ספק אכל חלב",
+                    "refs": [
+                        "Keritot 17a:26",
+                        "Keritot 17b",
+                        "Keritot 18a",
+                        "Keritot 18b",
+                        "Keritot 19a",
+                        "Keritot 19b",
+                        "Keritot 20a",
+                        "Keritot 20b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 20b:7-23b:11",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "דם שחיטה",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5",
+                    "heTitle": "דם שחיטה",
+                    "refs": [
+                        "Keritot 20b:7-11",
+                        "Keritot 21a",
+                        "Keritot 21b",
+                        "Keritot 22a",
+                        "Keritot 22b",
+                        "Keritot 23a",
+                        "Keritot 23b:1-11"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 39
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Keritot 23b:12-28b:9",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 6",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "המביא אשם",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 6",
+                    "heTitle": "המביא אשם",
+                    "refs": [
+                        "Keritot 23b:12-21",
+                        "Keritot 24a",
+                        "Keritot 24b",
+                        "Keritot 25a",
+                        "Keritot 25b",
+                        "Keritot 26a",
+                        "Keritot 26b",
+                        "Keritot 27a",
+                        "Keritot 27b",
+                        "Keritot 28a",
+                        "Keritot 28b:1-9"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 45
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Talmud Keritot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Masekhet Keritot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Tractate Keritot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Keritut",
+                    "lang": "en"
+                },
+                {
+                    "text": "Talmud Keritut",
+                    "lang": "en"
+                },
+                {
+                    "text": "Masekhet Keritut",
+                    "lang": "en"
+                },
+                {
+                    "text": "Tractate Keritut",
+                    "lang": "en"
+                },
+                {
+                    "text": "כריתות",
+                    "primary": true,
+                    "lang": "he"
+                },
+                {
+                    "text": "Ker.",
+                    "lang": "en"
+                },
+                {
+                    "text": "K’rithoth",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kerith.",
+                    "lang": "en"
+                },
+                {
+                    "text": "BT Keritot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Keritot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Keritot",
+            "heTitle": "כריתות"
+        }
+    },
+    "sectionNames": [
+        "Daf",
+        "Line"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "סדר קדשים"
+    ],
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)",
+        "he": " (450 - 550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Babylon",
+        "he": "בבל התלמודית"
+    }
+}

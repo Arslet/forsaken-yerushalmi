@@ -1,0 +1,100 @@
+{
+    "title": "Pesikta D'Rav Kahanna",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph",
+            "Ot"
+        ],
+        "titles": [
+            {
+                "text": "Pesikta D'Rav Kahana",
+                "lang": "en"
+            },
+            {
+                "text": "Pesik.",
+                "lang": "en"
+            },
+            {
+                "text": "P’siḳta d’R. Kahãna",
+                "lang": "en"
+            },
+            {
+                "text": "Pesikta de Rav Kahana",
+                "lang": "en"
+            },
+            {
+                "text": "פסיקתא דרב כהנא",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "פסיקתא דר\"כ",
+                "lang": "he"
+            },
+            {
+                "text": "פסיקתא",
+                "lang": "he"
+            },
+            {
+                "text": "Pesikta D'Rav Kahanna",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Pesikta D'Rav Kahanna",
+        "heTitle": "פסיקתא דרב כהנא",
+        "heSectionNames": [
+            "פסקה",
+            ""
+        ],
+        "key": "Pesikta D'Rav Kahanna"
+    },
+    "authors": [],
+    "enDesc": "A volume of midrash arranged according to special and festival Torah readings, haftarot of the mourning and consolation period before and after Tisha b'Av and penetential readings.",
+    "pubDate": "1868",
+    "compDate": "550",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Elk, Poland",
+    "errorMargin": "150",
+    "is_cited": true,
+    "heTitle": "פסיקתא דרב כהנא",
+    "titleVariants": [
+        "Pesikta D'Rav Kahana",
+        "Pesik.",
+        "P’siḳta d’R. Kahãna",
+        "Pesikta de Rav Kahana",
+        "Pesikta D'Rav Kahanna"
+    ],
+    "heTitleVariants": [
+        "פסיקתא דרב כהנא",
+        "פסיקתא דר\"כ",
+        "פסיקתא"
+    ],
+    "sectionNames": [
+        "Paragraph",
+        "Ot"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה"
+    ],
+    "compDateString": {
+        "en": " (c.400  - c.700 CE)",
+        "he": " (400 - 700 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

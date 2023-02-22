@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Kiddushin",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            96,
+            175
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Yerushalmi Kiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Kiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "JT Kiddushin"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי קידושין",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי קידושין"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Kidd."
+            },
+            {
+                "text": "Jerusalem Talmud Kiddushin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Kiddushin",
+        "heTitle": "תלמוד ירושלמי קידושין",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Kiddushin"
+    },
+    "order": [
+        30
+    ],
+    "authors": [],
+    "enDesc": "Kiddushin (Documents) belongs to the third order, Nashim (Women) and discusses the initial stage of marriage – betrothal, as well as the laws of Jewish lineages. It has four chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי קידושין",
+    "titleVariants": [
+        "Yerushalmi Kiddushin",
+        "Talmud Yerushalmi Kiddushin",
+        "JT Kiddushin",
+        "Y. Kidd.",
+        "Jerusalem Talmud Kiddushin"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי קידושין",
+        "ירושלמי קידושין"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Targum Jonathan on Ezekiel",
+    "categories": [
+        "Tanakh",
+        "Targum",
+        "Targum Jonathan",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "תרגום יונתן על יחזקאל"
+            },
+            {
+                "lang": "en",
+                "text": "Targ. Ez."
+            },
+            {
+                "lang": "en",
+                "text": "Targ. Ezek."
+            },
+            {
+                "text": "Targum Jonathan on Ezekiel",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Targum Jonathan on Ezekiel",
+        "heTitle": "תרגום יונתן על יחזקאל",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Targum Jonathan on Ezekiel"
+    },
+    "authors": [],
+    "enDesc": "Targum Jonathan is an Aramaic translation of the Neviim (Prophets). Authorship of the Targum is attributed to Jonathan ben Uzziel, a prime student of the great Talmudic sage Hillel. In Talmudic times, the Targum was read verse-by-verse, alternating with the Hebrew text of the haftarah.  ",
+    "compDate": "",
+    "era": "T",
+    "dependence": "Targum",
+    "base_text_titles": [
+        {
+            "en": "Ezekiel",
+            "he": "יחזקאל"
+        }
+    ],
+    "base_text_mapping": "one_to_one",
+    "collective_title": {
+        "en": "Targum Jonathan",
+        "he": "תרגום יונתן"
+    },
+    "is_cited": true,
+    "heTitle": "תרגום יונתן על יחזקאל",
+    "titleVariants": [
+        "Targ. Ez.",
+        "Targ. Ezek.",
+        "Targum Jonathan on Ezekiel"
+    ],
+    "heTitleVariants": [
+        "תרגום יונתן על יחזקאל"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "תרגומים",
+        "תרגום יונתן",
+        "נביאים"
+    ]
+}

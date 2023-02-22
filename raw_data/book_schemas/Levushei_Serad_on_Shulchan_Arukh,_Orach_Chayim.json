@@ -1,0 +1,70 @@
+{
+    "title": "Levushei Serad on Shulchan Arukh, Orach Chayim",
+    "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Levushei Serad"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Siman",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "primary": true,
+                "text": "לבושי שרד על שלחן ערוך אורח חיים"
+            },
+            {
+                "text": "Levushei Serad on Shulchan Arukh, Orach Chayim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Levushei Serad on Shulchan Arukh, Orach Chayim",
+        "heTitle": "לבושי שרד על שלחן ערוך אורח חיים",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Levushei Serad on Shulchan Arukh, Orach Chayim"
+    },
+    "authors": [
+        "David Solomon Eibeschutz"
+    ],
+    "enDesc": "An independent and insightful commentary on Shluchan Arukh, focusing primarily on the understandings of the Magen Avraham and Turei Zahav (Taz) commentaries.",
+    "pubDate": "1818",
+    "pubPlace": "Mahilyow / Mogilov",
+    "era": "AH",
+    "dependence": "Commentary",
+    "collective_title": {
+        "en": "Levushei Serad",
+        "he": "לבושי שרד"
+    },
+    "heTitle": "לבושי שרד על שלחן ערוך אורח חיים",
+    "titleVariants": [
+        "Levushei Serad on Shulchan Arukh, Orach Chayim"
+    ],
+    "heTitleVariants": [
+        "לבושי שרד על שלחן ערוך אורח חיים"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "שולחן ערוך",
+        "מפרשים",
+        "לבושי שרד"
+    ]
+}

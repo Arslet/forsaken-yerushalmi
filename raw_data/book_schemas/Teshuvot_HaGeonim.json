@@ -1,0 +1,68 @@
+{
+    "title": "Teshuvot HaGeonim",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תשובות הגאונים",
+                "primary": true
+            },
+            {
+                "text": "Teshuvot HaGeonim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Teshuvot HaGeonim",
+        "heTitle": "תשובות הגאונים",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot HaGeonim"
+    },
+    "authors": [],
+    "enDesc": "A collection of responsa from the Geonim.",
+    "pubDate": "1871",
+    "compDate": "900",
+    "compPlace": "Ottoman Palestine",
+    "pubPlace": "Vienna",
+    "errorMargin": "100",
+    "era": "GN",
+    "heTitle": "תשובות הגאונים",
+    "titleVariants": [
+        "Teshuvot HaGeonim"
+    ],
+    "heTitleVariants": [
+        "תשובות הגאונים"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.800  - c.1000 CE)",
+        "he": " (800 - 1000 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Ottoman Palestine",
+        "he": "פלשתינה העותמאנית"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Job",
+    "categories": [
+        "Tanakh",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            42,
+            1070
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Iyov"
+            },
+            {
+                "lang": "en",
+                "text": "Iyyov"
+            },
+            {
+                "lang": "he",
+                "primary": true,
+                "text": "איוב"
+            },
+            {
+                "lang": "en",
+                "primary": true,
+                "text": "Job"
+            }
+        ],
+        "title": "Job",
+        "heTitle": "איוב",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Job"
+    },
+    "order": [
+        29,
+        3
+    ],
+    "enDesc": "The Book of Job is the third book of Ketuvim (Writings). Addressing the theme of God's justice in the face of human suffering – or more simply, \"Why do the righteous suffer?\" It is a rich theological work setting out a variety of perspectives. It has been widely and often extravagantly praised for its literary qualities. It consists of; a prologue on earth and in heaven, Job's opening monologue, three cycles of dialogues between Job and his three friends Eliphaz, Bildad and Zophar, three monologues, two speeches by God and an epilogue.",
+    "pubDate": "1488",
+    "compDate": "-800",
+    "compPlace": "Judea/Israel",
+    "pubPlace": "Soncino",
+    "errorMargin": "500",
+    "is_cited": true,
+    "heTitle": "איוב",
+    "titleVariants": [
+        "Iyov",
+        "Iyyov",
+        "Job"
+    ],
+    "heTitleVariants": [
+        "איוב"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.1300  - c.300 BCE)",
+        "he": " (1300 - 300 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Sotah",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            93,
+            229
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Yerushalmi Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "JT Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Sotah"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי סוטה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי סוטה"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Sot."
+            },
+            {
+                "text": "Jerusalem Talmud Sotah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Sotah",
+        "heTitle": "תלמוד ירושלמי סוטה",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Sotah"
+    },
+    "order": [
+        25
+    ],
+    "authors": [],
+    "enDesc": "Sotah (Wayward Wife) belongs to the third order, Nashim (Women) and discusses the ritual of the Sotah – the woman suspected of adultery (Num 5) as well as other rituals involving a spoken formula (such as breaking the heifer's neck, the King's septa-annual public Torah reading, the Blessings and Curses of Mount Gerizim and Mount Ebal, etc...). It has nine chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי סוטה",
+    "titleVariants": [
+        "Yerushalmi Sotah",
+        "JT Sotah",
+        "Talmud Yerushalmi Sotah",
+        "Y. Sot.",
+        "Jerusalem Talmud Sotah"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי סוטה",
+        "ירושלמי סוטה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

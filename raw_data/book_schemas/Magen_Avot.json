@@ -1,0 +1,120 @@
+{
+    "title": "Magen Avot",
+    "categories": [
+        "Mishnah",
+        "Commentary",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Perek",
+                    "Mishnah",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Mishnah",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "משנה",
+                    "פסקה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מגן אבות",
+                "primary": true
+            },
+            {
+                "text": "Magen Avot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Magen Avot",
+        "heTitle": "מגן אבות",
+        "key": "Magen Avot"
+    },
+    "authors": [
+        "Shimon ben Tzemach Duran"
+    ],
+    "enDesc": "Magen Avot is R’ Simeon ben Zemah Duran’s (Rashbaz) commentary on Avot. The commentary is the fourth part of his elaborate philosophical work of the same title.",
+    "heDesc": "ביאור לפרקי אבות משמעון בן צמח דוראן (רשב\"ץ). הביאור הוא חלק רביעי מספרו הגדול \"מגן אבות\" בעניני פילוסופיה.",
+    "pubDate": "1762",
+    "compDate": "1415",
+    "compPlace": "Algiers",
+    "pubPlace": "Livorno, Italy",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Pirkei Avot",
+            "he": "פרקי אבות"
+        }
+    ],
+    "collective_title": {
+        "en": "Magen Avot",
+        "he": "מגן אבות"
+    },
+    "heTitle": "מגן אבות",
+    "titleVariants": [
+        "Magen Avot"
+    ],
+    "heTitleVariants": [
+        "מגן אבות"
+    ],
+    "heCategories": [
+        "משנה",
+        "מפרשים",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.1390  - c.1440 CE)",
+        "he": " (1390 - 1440 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Algiers",
+        "he": "אלג'יר"
+    }
+}

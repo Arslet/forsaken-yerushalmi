@@ -1,0 +1,117 @@
+{
+    "title": "Ralbag on Job",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Ralbag",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Ralbag on Iyov"
+            },
+            {
+                "lang": "en",
+                "text": "Ralbag on Iyyov"
+            },
+            {
+                "lang": "en",
+                "text": "Gersonides on Iyov"
+            },
+            {
+                "lang": "en",
+                "text": "Gersonides on Iyyov"
+            },
+            {
+                "lang": "en",
+                "text": "Gersonides on Job"
+            },
+            {
+                "lang": "he",
+                "text": "רלב\"ג על איוב",
+                "primary": true
+            },
+            {
+                "text": "Ralbag on Job",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ralbag on Job",
+        "heTitle": "רלב\"ג על איוב",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Ralbag on Job"
+    },
+    "authors": [
+        "Ralbag"
+    ],
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot).",
+    "pubDate": "1477",
+    "compDate": "1335",
+    "compPlace": "Provence, France",
+    "pubPlace": "Ferrara",
+    "errorMargin": "10",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Job",
+            "he": "איוב"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Ralbag",
+        "he": "רלב\"ג"
+    },
+    "heTitle": "רלב\"ג על איוב",
+    "titleVariants": [
+        "Ralbag on Iyov",
+        "Ralbag on Iyyov",
+        "Gersonides on Iyov",
+        "Gersonides on Iyyov",
+        "Gersonides on Job",
+        "Ralbag on Job"
+    ],
+    "heTitleVariants": [
+        "רלב\"ג על איוב"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "רלב\"ג",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)",
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Provence, France",
+        "he": "פרובנס, צרפת"
+    }
+}

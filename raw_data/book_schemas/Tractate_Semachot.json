@@ -1,0 +1,125 @@
+{
+    "title": "Tractate Semachot",
+    "categories": [
+        "Tanaitic",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Introduction",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "פתיחה",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "פתיחה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Halakhah"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Halakhah"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "הלכה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "מסכת שמחות",
+                "lang": "he"
+            },
+            {
+                "text": "אבל רבתי",
+                "lang": "he"
+            },
+            {
+                "text": "Evel Rabbati",
+                "lang": "en"
+            },
+            {
+                "text": "Masechet Semachot",
+                "lang": "en"
+            },
+            {
+                "text": "Treat. S’maḥ.",
+                "lang": "en"
+            },
+            {
+                "text": "Treat. S’maḥoth",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "Tractate Semachot",
+                "lang": "en"
+            }
+        ],
+        "title": "Tractate Semachot",
+        "heTitle": "מסכת שמחות",
+        "key": "Tractate Semachot"
+    },
+    "authors": [],
+    "enDesc": "The minor tractates (Masekhtot Ketanot) are essays from the Tannaitic period or later dealing with topics about which no formal tractate exists in the Mishnah. The first eight or so contain much original material; the last seven or so are collections of material scattered throughout the Talmud.  Tractate Semachot discusses the laws of Aveilut (Death and Mourning).",
+    "heDesc": "אחד ממסכתות הקטנות. עוסק בדינים הנוגעים למיתה ואבילות.",
+    "compDate": "750",
+    "compPlace": "Talmudic Israel/Babylon",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "מסכת שמחות",
+    "titleVariants": [
+        "Evel Rabbati",
+        "Masechet Semachot",
+        "Treat. S’maḥ.",
+        "Treat. S’maḥoth",
+        "Tractate Semachot"
+    ],
+    "heTitleVariants": [
+        "מסכת שמחות",
+        "אבל רבתי"
+    ],
+    "heCategories": [
+        "ספרות תנאית",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (750 CE)",
+        "he": " (750 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

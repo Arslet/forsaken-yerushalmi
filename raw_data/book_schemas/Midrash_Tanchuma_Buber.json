@@ -1,0 +1,1899 @@
+{
+    "title": "Midrash Tanchuma Buber",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Bereshit",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בראשית",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Bereshit",
+                "heTitle": "בראשית",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Bereshit"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Noach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "נח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Noach",
+                "heTitle": "נח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Noach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Lech Lecha",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "לך לך",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Lech Lecha",
+                "heTitle": "לך לך",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Lech Lecha"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayera",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "וירא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayera",
+                "heTitle": "וירא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayera"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Chayei Sara",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "חיי שרה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Chayei Sara",
+                "heTitle": "חיי שרה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Chayei Sara"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Toldot",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "תולדות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Toldot",
+                "heTitle": "תולדות",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Toldot"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayetzei",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויצא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayetzei",
+                "heTitle": "ויצא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayetzei"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayishlach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "וישלח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayishlach",
+                "heTitle": "וישלח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayishlach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayeshev",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "וישב",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayeshev",
+                "heTitle": "וישב",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayeshev"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Miketz",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מקץ",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Miketz",
+                "heTitle": "מקץ",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Miketz"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayigash",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויגש",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayigash",
+                "heTitle": "ויגש",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayigash"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayechi",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויחי",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayechi",
+                "heTitle": "ויחי",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayechi"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Shemot",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "שמות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Shemot",
+                "heTitle": "שמות",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Shemot"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vaera",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "וארא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vaera",
+                "heTitle": "וארא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vaera"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Bo",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Bo",
+                "heTitle": "בא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Bo"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Beshalach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בשלח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Beshalach",
+                "heTitle": "בשלח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Beshalach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Yitro",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "יתרו",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Yitro",
+                "heTitle": "יתרו",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Yitro"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Mishpatim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "משפטים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Mishpatim",
+                "heTitle": "משפטים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Mishpatim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Terumah",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "תרומה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Terumah",
+                "heTitle": "תרומה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Terumah"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Tetzaveh",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "תצוה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Tetzaveh",
+                "heTitle": "תצוה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Tetzaveh"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Ki Tisa",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "כי תשא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Ki Tisa",
+                "heTitle": "כי תשא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Ki Tisa"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayakhel",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויקהל",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayakhel",
+                "heTitle": "ויקהל",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayakhel"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Pekudei",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "פקודי",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Pekudei",
+                "heTitle": "פקודי",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Pekudei"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vayikra",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויקרא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vayikra",
+                "heTitle": "ויקרא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vayikra"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Tzav",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "צו",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Tzav",
+                "heTitle": "צו",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Tzav"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Shmini",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "שמיני",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Shmini",
+                "heTitle": "שמיני",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Shmini"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Tazria",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "תזריע",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Tazria",
+                "heTitle": "תזריע",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Tazria"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Metzora",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצורע",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Metzora",
+                "heTitle": "מצורע",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Metzora"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Achrei Mot",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "אחרי מות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Achrei Mot",
+                "heTitle": "אחרי מות",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Achrei Mot"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Kedoshim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "קדושים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Kedoshim",
+                "heTitle": "קדושים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Kedoshim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Emor",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "אמור",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Emor",
+                "heTitle": "אמור",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Emor"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Behar",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בהר",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Behar",
+                "heTitle": "בהר",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Behar"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Bechukotai",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בחוקתי",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Bechukotai",
+                "heTitle": "בחוקתי",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Bechukotai"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Bamidbar",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "במדבר",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Bamidbar",
+                "heTitle": "במדבר",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Bamidbar"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Nasso",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "נשא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Nasso",
+                "heTitle": "נשא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Nasso"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Beha'alotcha",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בהעלותך",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Beha'alotcha",
+                "heTitle": "בהעלותך",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Beha'alotcha"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Sh'lach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "שלח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Sh'lach",
+                "heTitle": "שלח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Sh'lach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Sh'lach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לשלח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Sh'lach",
+                "heTitle": "הוספה לשלח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Sh'lach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Korach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "קרח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Korach",
+                "heTitle": "קרח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Korach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Korach",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לקרח",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Korach",
+                "heTitle": "הוספה לקרח",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Korach"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Chukat",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "חקת",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Chukat",
+                "heTitle": "חקת",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Chukat"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Chukat",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לחקת",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Chukat",
+                "heTitle": "הוספה לחקת",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Chukat"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Balak",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בלק",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Balak",
+                "heTitle": "בלק",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Balak"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Pinchas",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "פנחס",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Pinchas",
+                "heTitle": "פנחס",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Pinchas"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Matot",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מטות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Matot",
+                "heTitle": "מטות",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Matot"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Masei",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מסעי",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Masei",
+                "heTitle": "מסעי",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Masei"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Devarim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "דברים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Devarim",
+                "heTitle": "דברים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Devarim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Devarim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לדברים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Devarim",
+                "heTitle": "הוספה לדברים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Devarim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Vaetchanan",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ואתחנן",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Vaetchanan",
+                "heTitle": "ואתחנן",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Vaetchanan"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Vaetchanan",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לואתחנן",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Vaetchanan",
+                "heTitle": "הוספה לואתחנן",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Vaetchanan"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Eikev",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "עקב",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Eikev",
+                "heTitle": "עקב",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Eikev"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Re'eh",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ראה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Re'eh",
+                "heTitle": "ראה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Re'eh"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Appendix to Re'eh",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "הוספה לראה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Appendix to Re'eh",
+                "heTitle": "הוספה לראה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Appendix to Re'eh"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Shoftim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "שופטים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Shoftim",
+                "heTitle": "שופטים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Shoftim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Ki Teitzei",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "כי תצא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Ki Teitzei",
+                "heTitle": "כי תצא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Ki Teitzei"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Ki Tavo",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "כי תבוא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Ki Tavo",
+                "heTitle": "כי תבוא",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Ki Tavo"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Nitzavim",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "נצבים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Nitzavim",
+                "heTitle": "נצבים",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Nitzavim"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Ha'Azinu",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "האזינו",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Ha'Azinu",
+                "heTitle": "האזינו",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "Ha'Azinu"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "V'Zot HaBerachah",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "וזאת הברכה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "V'Zot HaBerachah",
+                "heTitle": "וזאת הברכה",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "V'Zot HaBerachah"
+            }
+        ],
+        "titles": [
+            {
+                "text": "Tanḥ., ed. Bub",
+                "lang": "en"
+            },
+            {
+                "text": "תנחומא בובר",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "תנחומא - בובר",
+                "lang": "he"
+            },
+            {
+                "text": "תנחומא באבער",
+                "lang": "he"
+            },
+            {
+                "text": "Midrash Tanchuma Buber",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Midrash Tanchuma Buber",
+        "heTitle": "תנחומא בובר",
+        "key": "Midrash Tanchuma Buber"
+    },
+    "authors": [],
+    "enDesc": "Published by Salomon Buber, in 1885, based on material gathered from several manuscripts – this collection of aggadic midrashim is believed to be the oldest midrashic compilation of its kind.",
+    "heDesc": "מדרש אגדה על פרשיות התורה הקדום והמקורי ביותר, נדפס על ידי שלמה בובר ב-1885",
+    "pubDate": "1885",
+    "compDate": "450",
+    "compPlace": "Talmudic Israel/Babylon",
+    "pubPlace": "Vilna",
+    "errorMargin": "300",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תנחומא בובר",
+    "titleVariants": [
+        "Tanḥ., ed. Bub",
+        "Midrash Tanchuma Buber"
+    ],
+    "heTitleVariants": [
+        "תנחומא בובר",
+        "תנחומא - בובר",
+        "תנחומא באבער"
+    ],
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה"
+    ],
+    "compDateString": {
+        "en": " (c.150  - c.750 CE)",
+        "he": " (150 - 750 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

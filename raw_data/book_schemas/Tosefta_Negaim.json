@@ -1,0 +1,99 @@
+{
+    "title": "Tosefta Negaim",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Tahorot"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            9
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Negaim"
+            },
+            {
+                "lang": "en",
+                "text": "T. Negaim"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Nega'im"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא נגעים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Neg."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Negaim",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Negaim",
+        "heTitle": "תוספתא נגעים",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Negaim"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Negaim (Plagues) belongs to the sixth order, Tahorot (Purities) and discusses the uncleanness from a corpse and its peculiar property of defling people or objects either by the latter \"tenting\" over the corpse, or by the corpse \"tenting\" over them, or by the presence of both corpse and person or object under the same roof or tent. It has nine chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא נגעים",
+    "titleVariants": [
+        "Tos. Negaim",
+        "T. Negaim",
+        "Tosefta Nega'im",
+        "Tosef. Neg.",
+        "Tosefta Negaim"
+    ],
+    "heTitleVariants": [
+        "תוספתא נגעים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר טהרות"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

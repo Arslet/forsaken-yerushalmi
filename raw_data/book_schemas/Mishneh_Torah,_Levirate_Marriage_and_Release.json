@@ -1,0 +1,162 @@
+{
+    "title": "Mishneh Torah, Levirate Marriage and Release",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            8
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Levirate Marriage and Release"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Levirate Marriage and Release"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Levirate Marriage and Release"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Yibbum vChalitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, <i>Hilkhot Yivum ve-Halizah</i>"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Yivum ve-Halizah"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות יבום וחליצה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות יבום וחליצה"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' יבום וחליצה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' יבום וחליצה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות יבום וחליצה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' יבום וחליצה"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Levirate Marriage and Release",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Levirate Marriage and Release",
+        "heTitle": "משנה תורה, הלכות יבום וחליצה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Levirate Marriage and Release"
+    },
+    "order": [
+        29,
+        3
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The fourth book is Nashim (Women). Yibum Vahalizah: laws of levirate marriage.",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות יבום וחליצה",
+    "titleVariants": [
+        "Mishneh Torah, Hilchot Yibbum vChalitzah",
+        "Rambam, Levirate Marriage and Release",
+        "Mishneh Torah, Laws of Levirate Marriage and Release",
+        "Rambam, Hilchot Yibbum vChalitzah",
+        "Rambam, Yibbum vChalitzah",
+        "Mishneh Torah, Yibbum vChalitzah",
+        "Rambam, Laws of Levirate Marriage and Release",
+        "Mishneh Torah, Hilkhot Yibbum vChalitzah",
+        "Rambam, Hilkhot Yibbum vChalitzah",
+        "Rambam, <i>Hilkhot Yivum ve-Halizah</i>",
+        "Rambam, Hilkhot Yivum ve-Halizah",
+        "Mishneh Torah, Levirate Marriage and Release"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות יבום וחליצה",
+        "רמב\"ם, הלכות יבום וחליצה",
+        "משנה תורה, הל' יבום וחליצה",
+        "רמב\"ם, הל' יבום וחליצה",
+        "רמב\"ם הלכות יבום וחליצה",
+        "רמב\"ם הל' יבום וחליצה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

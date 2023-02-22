@@ -1,0 +1,115 @@
+{
+    "title": "Jerusalem Talmud Berakhot",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            135,
+            240
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Yerushalmi Berachot"
+            },
+            {
+                "lang": "en",
+                "text": "JT Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "JT Berachot"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Berakhot"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי ברכות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי ברכות"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Ber."
+            },
+            {
+                "text": "Jerusalem Talmud Berakhot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Berakhot",
+        "heTitle": "תלמוד ירושלמי ברכות",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Berakhot"
+    },
+    "order": [
+        1
+    ],
+    "authors": [],
+    "enDesc": "Berakhot (Blessings) belongs to the first order,  Zera'im (seeds) and discusses the rules of blessings and prayers, particularly the Shema and the Amidah. It consists of nine chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי ברכות",
+    "titleVariants": [
+        "Yerushalmi Berachot",
+        "JT Berakhot",
+        "JT Berachot",
+        "Talmud Yerushalmi Berakhot",
+        "Yerushalmi Berakhot",
+        "Y. Ber.",
+        "Jerusalem Talmud Berakhot"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי ברכות",
+        "ירושלמי ברכות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

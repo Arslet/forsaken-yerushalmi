@@ -1,0 +1,86 @@
+{
+    "title": "Joseph ibn Yahya on Daniel",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Joseph ibn Yahya",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "יוסף אבן יחיא על דניאל",
+                "lang": "he"
+            },
+            {
+                "text": "Joseph ibn Yahya on Daniel",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Joseph ibn Yahya on Daniel",
+        "heTitle": "יוסף אבן יחיא על דניאל",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Joseph ibn Yahya on Daniel"
+    },
+    "authors": [
+        "Joseph Ibn Yachya"
+    ],
+    "pubDate": "1538",
+    "compDate": "1524",
+    "pubPlace": "Bologna",
+    "errorMargin": "10",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Daniel",
+            "he": "דניאל"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Joseph ibn Yahya",
+        "he": "יוסף אבן יחיא"
+    },
+    "heTitle": "יוסף אבן יחיא על דניאל",
+    "titleVariants": [
+        "Joseph ibn Yahya on Daniel"
+    ],
+    "heTitleVariants": [
+        "יוסף אבן יחיא על דניאל"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "יוסף אבן יחיא",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.1514  - c.1534 CE)",
+        "he": " (1514 - 1534 לספירה בקירוב)"
+    }
+}

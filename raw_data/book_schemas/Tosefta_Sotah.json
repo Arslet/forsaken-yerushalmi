@@ -1,0 +1,99 @@
+{
+    "title": "Tosefta Sotah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            15
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "T. Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Sota"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא סוטה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Sot."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Sotah",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Sotah",
+        "heTitle": "תוספתא סוטה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Sotah"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Sotah (Wayward Wife) belongs to the third order, Nashim (Women) and discusses the ritual of the Sotah – the woman suspected of adultery (Num 5) as well as other rituals involving a spoken formula (such as breaking the heifer's neck, the King's septa-annual public Torah reading, the Blessings and Curses of Mount Gerizim and Mount Ebal, etc...). It has fifteen chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא סוטה",
+    "titleVariants": [
+        "T. Sotah",
+        "Tos. Sotah",
+        "Tosefta Sota",
+        "Tosef. Sot.",
+        "Tosefta Sotah"
+    ],
+    "heTitleVariants": [
+        "תוספתא סוטה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

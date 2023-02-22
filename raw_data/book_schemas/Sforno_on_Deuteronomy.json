@@ -1,0 +1,128 @@
+{
+    "title": "Sforno on Deuteronomy",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Sforno",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Sforno on Deu."
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Devarim"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Deu"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Deut."
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Deut"
+            },
+            {
+                "lang": "he",
+                "text": "ספורנו על דברים",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ספורנו על דברי'"
+            },
+            {
+                "lang": "he",
+                "text": "ספורנו על דברי׳"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Deuteronomy",
+                "primary": true
+            }
+        ],
+        "title": "Sforno on Deuteronomy",
+        "heTitle": "ספורנו על דברים",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Sforno on Deuteronomy"
+    },
+    "authors": [
+        "Sforno"
+    ],
+    "enDesc": "Commentary on the Torah by Rabbi Ovadiah ben Jacob Sforno, a 16th-century Italian rabbi and physician.",
+    "pubDate": "1567",
+    "compDate": "1525",
+    "compPlace": "Bologna",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy",
+            "he": "ספר דברים"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Sforno",
+        "he": "ספורנו"
+    },
+    "is_cited": true,
+    "heTitle": "ספורנו על דברים",
+    "titleVariants": [
+        "Sforno on Deu.",
+        "Sforno on Devarim",
+        "Sforno on Deu",
+        "Sforno on Deut.",
+        "Sforno on Deut",
+        "Sforno on Deuteronomy"
+    ],
+    "heTitleVariants": [
+        "ספורנו על דברים",
+        "ספורנו על דברי'",
+        "ספורנו על דברי׳"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "ספורנו",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1500  - c.1550 CE)",
+        "he": " (1500 - 1550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Bologna",
+        "he": "בולוניה"
+    }
+}

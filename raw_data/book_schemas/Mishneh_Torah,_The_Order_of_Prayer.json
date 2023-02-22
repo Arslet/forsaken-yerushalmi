@@ -1,0 +1,107 @@
+{
+    "title": "Mishneh Torah, The Order of Prayer",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Ahavah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            5
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rambam, Seder heTefilah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Seder heTefilah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, The Order of Prayer"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, סדר התפילה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, סדר התפילה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם סדר התפילה"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, The Order of Prayer",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, The Order of Prayer",
+        "heTitle": "משנה תורה, סדר התפילה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, The Order of Prayer"
+    },
+    "order": [
+        16,
+        7
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The second book is Ahavah (Love): the precepts which must be observed at all times if the love due to God is to be remembered continually (prayer, tefillin).",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, סדר התפילה",
+    "titleVariants": [
+        "Rambam, Seder heTefilah",
+        "Mishneh Torah, Seder heTefilah",
+        "Rambam, The Order of Prayer",
+        "Mishneh Torah, The Order of Prayer"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, סדר התפילה",
+        "רמב\"ם, סדר התפילה",
+        "רמב\"ם סדר התפילה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר אהבה"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "title": "Rashi on Bava Metzia",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Bava Metzia"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Bava Metzia"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Bava Metzia"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Baba Metzia"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על בבא מציעא",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על ב\"מ"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על ב״מ"
+            },
+            {
+                "text": "Rashi on Bava Metzia",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Bava Metzia",
+        "heTitle": "רש\"י על בבא מציעא",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Bava Metzia"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Bava Metzia",
+            "he": "בבא מציעא"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על בבא מציעא",
+    "titleVariants": [
+        "Rashi on Masekhet Bava Metzia",
+        "Rashi on Talmud Bava Metzia",
+        "Rashi on Tractate Bava Metzia",
+        "Rashi on Baba Metzia",
+        "Rashi on Bava Metzia"
+    ],
+    "heTitleVariants": [
+        "רש\"י על בבא מציעא",
+        "רש\"י על ב\"מ",
+        "רש\"י על ב״מ"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

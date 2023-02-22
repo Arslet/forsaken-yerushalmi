@@ -1,0 +1,65 @@
+{
+    "title": "Mateh Levi",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מטה לוי",
+                "primary": true
+            },
+            {
+                "text": "Mateh Levi",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Mateh Levi",
+        "heTitle": "מטה לוי",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Mateh Levi"
+    },
+    "authors": [
+        "Marcus Horowitz"
+    ],
+    "enDesc": "This responsum discusses riding streetcars on Shabbat.",
+    "pubDate": "1891",
+    "compDate": "1885",
+    "pubPlace": "Frankfurt am Main, Germany",
+    "errorMargin": "6",
+    "era": "AH",
+    "heTitle": "מטה לוי",
+    "titleVariants": [
+        "Mateh Levi"
+    ],
+    "heTitleVariants": [
+        "מטה לוי"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1879  - c.1891 CE)",
+        "he": " (1879 - 1891 לספירה בקירוב)"
+    }
+}

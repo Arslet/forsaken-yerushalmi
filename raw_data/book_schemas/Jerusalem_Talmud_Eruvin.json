@@ -1,0 +1,120 @@
+{
+    "title": "Jerusalem Talmud Eruvin",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            130,
+            304
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Eiruvin"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Eruvin"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Eiruvin"
+            },
+            {
+                "lang": "en",
+                "text": "JT Eiruvin"
+            },
+            {
+                "lang": "en",
+                "text": "JT Eruvin"
+            },
+            {
+                "lang": "en",
+                "text": "Jerusalem Talmud Eiruvin"
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "תלמוד ירושלמי עירובין"
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי עירובין"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Erub."
+            },
+            {
+                "text": "Jerusalem Talmud Eruvin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Eruvin",
+        "heTitle": "תלמוד ירושלמי עירובין",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Eruvin"
+    },
+    "order": [
+        13
+    ],
+    "authors": [],
+    "enDesc": "Eruvim (Mixtures) belongs to the second order, Moed (Festivals) and discusses the Eruv or Sabbath-bound - a category of constructions/delineations that alter the domains of the Sabbath for carrying and travel. It has ten chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי עירובין",
+    "titleVariants": [
+        "Talmud Yerushalmi Eiruvin",
+        "Yerushalmi Eruvin",
+        "Yerushalmi Eiruvin",
+        "JT Eiruvin",
+        "JT Eruvin",
+        "Jerusalem Talmud Eiruvin",
+        "Y. Erub.",
+        "Jerusalem Talmud Eruvin"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי עירובין",
+        "ירושלמי עירובין"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

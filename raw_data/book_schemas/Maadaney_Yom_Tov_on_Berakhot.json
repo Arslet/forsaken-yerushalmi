@@ -1,0 +1,86 @@
+{
+    "title": "Maadaney Yom Tov on Berakhot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Maadaney Yom Tov",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Siman"
+        ],
+        "sectionNames": [
+            "Siman"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": " מעדני יום טוב על ברכות",
+                "primary": true
+            },
+            {
+                "text": "Maadaney Yom Tov on Berakhot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Maadaney Yom Tov on Berakhot",
+        "heTitle": " מעדני יום טוב על ברכות",
+        "heSectionNames": [
+            "סימן"
+        ],
+        "key": "Maadaney Yom Tov on Berakhot"
+    },
+    "authors": [
+        "Yom-Tov Lipmann Heller"
+    ],
+    "enDesc": "Commentary written by Rabbi Yom Tov Lipmann Heller on Rabbi Asher ben Yehiel’s \"Piskei HaRosh\".",
+    "pubDate": "1628",
+    "compDate": "1615",
+    "compPlace": "Prague",
+    "pubPlace": "Prague",
+    "errorMargin": "13",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Berakhot",
+            "he": "ברכות"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Maadaney Yom Tov",
+        "he": "מעדני יום טוב"
+    },
+    "heTitle": " מעדני יום טוב על ברכות",
+    "titleVariants": [
+        "Maadaney Yom Tov on Berakhot"
+    ],
+    "heTitleVariants": [
+        " מעדני יום טוב על ברכות"
+    ],
+    "sectionNames": [
+        "Siman"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "מעדני יום טוב",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.1602  - c.1628 CE)",
+        "he": " (1602 - 1628 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Prague",
+        "he": "פראג"
+    }
+}

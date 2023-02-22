@@ -1,0 +1,81 @@
+{
+    "title": "Rav Nissim Gaon on Berakhot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rav Nissim Gaon"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "רב נסים גאון על מסכת ברכות",
+                "primary": true
+            },
+            {
+                "text": "Rav Nissim Gaon on Berakhot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rav Nissim Gaon on Berakhot",
+        "heTitle": "רב נסים גאון על מסכת ברכות",
+        "heSectionNames": [
+            "דף",
+            "פירוש"
+        ],
+        "key": "Rav Nissim Gaon on Berakhot"
+    },
+    "authors": [
+        "Nissim Gaon"
+    ],
+    "pubDate": "1847",
+    "compDate": "940",
+    "pubPlace": "Vienna",
+    "errorMargin": "20",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Berakhot",
+            "he": "ברכות"
+        }
+    ],
+    "collective_title": {
+        "en": "Rav Nissim Gaon",
+        "he": "רב ניסים גאון"
+    },
+    "heTitle": "רב נסים גאון על מסכת ברכות",
+    "titleVariants": [
+        "Rav Nissim Gaon on Berakhot"
+    ],
+    "heTitleVariants": [
+        "רב נסים גאון על מסכת ברכות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Comment"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רב ניסים גאון"
+    ],
+    "compDateString": {
+        "en": " (c.920  - c.960 CE)",
+        "he": " (920 - 960 לספירה בקירוב)"
+    }
+}

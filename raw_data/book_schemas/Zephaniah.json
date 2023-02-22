@@ -1,0 +1,97 @@
+{
+    "title": "Zephaniah",
+    "categories": [
+        "Tanakh",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            3,
+            53
+        ],
+        "titles": [
+            {
+                "text": "Zeph.",
+                "lang": "en"
+            },
+            {
+                "text": "Tzephaniah",
+                "lang": "en"
+            },
+            {
+                "text": "Zeph",
+                "lang": "en"
+            },
+            {
+                "text": "Zephania",
+                "lang": "en"
+            },
+            {
+                "text": "צפניה",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Zephaniah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Zephaniah",
+        "heTitle": "צפניה",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Zephaniah"
+    },
+    "order": [
+        23,
+        18
+    ],
+    "enDesc": "The Book of Zephaniah is the ninth of the Tere Asar (Twelve Minor Prophets). The term denotes the short length of the text in relation to the longer prophetic texts known as the Major Prophets. The superscription attributes its authorship to Zephaniah son of Cushi son of Gedaliah son of Amariah son of Hezekiah. Zephaniah devotes most of his energies to accomplishing a change in the behaviour of Israel through the threat of future calamity. He conceives of a date in the future when the Lord will judge all the people of the earth. This coming judgment will affect all of the nations, including the author’s own nation of Judah . The threats made against Jerusalem, however, are much more specific than the prophecies concerning foreign nations. This strengthened the belief that the Israelites, God’s chosen nations, were even more culpable than other nations. The book concludes by extending a promise of deliverance to the remnant of Israel from Babylonian captivity.",
+    "pubDate": "1488",
+    "compDate": "-550",
+    "compPlace": "Judea/Israel",
+    "pubPlace": "Soncino",
+    "errorMargin": "100",
+    "is_cited": true,
+    "heTitle": "צפניה",
+    "titleVariants": [
+        "Zeph.",
+        "Tzephaniah",
+        "Zeph",
+        "Zephania",
+        "Zephaniah"
+    ],
+    "heTitleVariants": [
+        "צפניה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "נביאים"
+    ],
+    "compDateString": {
+        "en": " (c.650  - c.450 BCE)",
+        "he": " (650 - 450 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

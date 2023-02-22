@@ -1,0 +1,80 @@
+{
+    "title": "Teshuvot Maharik",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "text": "Responsa of Rabbi Joseph Colon",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "שו\"ת מהרי\"ק",
+                "lang": "he"
+            },
+            {
+                "text": "שאלות ותשובות מהרי\"ק",
+                "lang": "he"
+            },
+            {
+                "text": "שאלות ותשובות מהר\"י קולון",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Teshuvot Maharik",
+                "lang": "en"
+            }
+        ],
+        "title": "Teshuvot Maharik",
+        "heTitle": "שו\"ת מהרי\"ק",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot Maharik"
+    },
+    "authors": [
+        "Joseph Colon"
+    ],
+    "enDesc": "Responsa of noted Italian 15th century Halachic authority R' Joseph Colon, frequently quoted in Rabbinic literature and considered an important influence on the development of Jewish law.",
+    "pubDate": "1519",
+    "compDate": "1460",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "RI",
+    "heTitle": "שו\"ת מהרי\"ק",
+    "titleVariants": [
+        "Responsa of Rabbi Joseph Colon",
+        "Teshuvot Maharik"
+    ],
+    "heTitleVariants": [
+        "שו\"ת מהרי\"ק",
+        "שאלות ותשובות מהרי\"ק",
+        "שאלות ותשובות מהר\"י קולון"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1440  - c.1480 CE)",
+        "he": " (1440 - 1480 לספירה בקירוב)"
+    }
+}

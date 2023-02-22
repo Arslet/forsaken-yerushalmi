@@ -1,0 +1,65 @@
+{
+    "title": "Mahari Weil",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מהר\"י וייל",
+                "primary": true
+            },
+            {
+                "text": "Mahari Weil",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Mahari Weil",
+        "heTitle": "מהר\"י וייל",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Mahari Weil"
+    },
+    "authors": [
+        "Yaakov Weil"
+    ],
+    "enDesc": "A student of Maharil, this book of responsa was one of the important sources of subsequent Ashkenazi halacha.",
+    "pubDate": "1549",
+    "compDate": "1430",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "heTitle": "מהר\"י וייל",
+    "titleVariants": [
+        "Mahari Weil"
+    ],
+    "heTitleVariants": [
+        "מהר\"י וייל"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1405  - c.1455 CE)",
+        "he": " (1405 - 1455 לספירה בקירוב)"
+    }
+}

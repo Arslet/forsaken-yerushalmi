@@ -1,0 +1,123 @@
+{
+    "title": "Seder Olam Rabbah",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Introduction",
+                        "primary": true,
+                        "lang": "en"
+                    },
+                    {
+                        "text": "הקדמה",
+                        "primary": true,
+                        "lang": "he"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "text": "Seder Olam",
+                "lang": "en"
+            },
+            {
+                "text": "Olam Rabbah",
+                "lang": "en"
+            },
+            {
+                "text": "Seder ‘Olam Rab.",
+                "lang": "en"
+            },
+            {
+                "text": "סדר עולם רבה",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "סדר עולם",
+                "lang": "he"
+            },
+            {
+                "text": "Seder Olam Rabbah",
+                "primary": true,
+                "lang": "en"
+            }
+        ],
+        "title": "Seder Olam Rabbah",
+        "heTitle": "סדר עולם רבה",
+        "key": "Seder Olam Rabbah"
+    },
+    "authors": [],
+    "enDesc": "Seder Olam Rabbah (The Great Order of the World) is a 2nd-century CE Hebrew language chronology detailing the dates of biblical events from the Creation to Alexander the Great's conquest of Persia. Originally Seder Olam was a more extensive work dealing with the post-Alexandrian period. Instead the period from Alexander to Hadrian is condensed into the end of chapter 30. It adds no stories beyond what is in the biblical text, and addresses such questions as the age of Isaac at the binding and the number of years that Joshua led the Israelites. In its present form the Seder Olam Rabbah consists of 30 chapters, each 10 chapters forming a section, or gate. Tradition considers it to have been written about 160 CE by Yose ben Halafta, which is not unreasonable, but it was probably also supplemented and edited at a later period.",
+    "heDesc": "סדר עולם רבה הוא כרוניקה עברית מהמאה ה-2 לספירה, המפרט את התאריכים בהם אירעו מאורעות מקראיים שונים, החל בבריאת העולם וכלה בכיבוש פרס על ידי אלכסנדר מוקדון. במקור היה \"סדר עולם\" חיבור מקיף הרבה יותר, אשר עסק בתקופה הבתר-אלכסנדרונית, אך במתכונתו הנוכחית מקובצת התקופה מימי אלכסנדר ועד ימי אדריאנוס בסוף הפרק ה- 30 (והאחרון) של החיבור. הטקסט של \"סדר עולם\" אינו מוסיף סיפורים מעבר למה שמופיע בטקסט המקראי, ומתייחס לשאלות כגון גילו של יצחק בזמן העקידה ומספר השנים בהם הנהיג יהושע את עם ישראל. בצורתו הנוכחית כולל \"סדר עולם רבה\" שלושים פרקים, כאשר כל עשרה פרקים יוצרים \"חלק\" או \"שער\" נפרד. המסורת מתארכת את החיבור לשנת 160 לספירה לערך, וגורסת שחובר בידי ר' יוסי בן חלפתא, טענה שאיננה בלתי-סבירה, אך ככל הנראה נוספו לגרסה המקורית קטעים נוספים והוא הוהדר בתקופה מאוחרת יותר.",
+    "pubDate": "1513",
+    "compDate": "350",
+    "compPlace": "Talmudic Israel/Babylon",
+    "pubPlace": "Mantua",
+    "errorMargin": "150",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "סדר עולם רבה",
+    "titleVariants": [
+        "Seder Olam",
+        "Olam Rabbah",
+        "Seder ‘Olam Rab.",
+        "Seder Olam Rabbah"
+    ],
+    "heTitleVariants": [
+        "סדר עולם רבה",
+        "סדר עולם"
+    ],
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה"
+    ],
+    "compDateString": {
+        "en": " (c.200  - c.500 CE)",
+        "he": " (200 - 500 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

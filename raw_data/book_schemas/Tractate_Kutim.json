@@ -1,0 +1,74 @@
+{
+    "title": "Tractate Kutim",
+    "categories": [
+        "Tanaitic",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "מסכת כותים",
+                "lang": "he"
+            },
+            {
+                "text": "Treat. Kuthim",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "Tractate Kutim",
+                "lang": "en"
+            }
+        ],
+        "title": "Tractate Kutim",
+        "heTitle": "מסכת כותים",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Tractate Kutim"
+    },
+    "authors": [],
+    "enDesc": "The minor tractates (Masekhtot Ketanot) are essays from the Tannaitic period or later dealing with topics about which no formal tractate exists in the Mishnah. The first eight or so contain much original material; the last seven or so are collections of material scattered throughout the Talmud. Soferim (Scribes). Tractate Kutim discusses the laws related to interaction with Kutim (members of the Samaritan sect).",
+    "heDesc": "אחד ממסכתות הקטנות. עוסק בדינים הנוגעים לכת הכותים.",
+    "compDate": "750",
+    "compPlace": "Talmudic Israel/Babylon",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "מסכת כותים",
+    "titleVariants": [
+        "Treat. Kuthim",
+        "Tractate Kutim"
+    ],
+    "heTitleVariants": [
+        "מסכת כותים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (750 CE)",
+        "he": " (750 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

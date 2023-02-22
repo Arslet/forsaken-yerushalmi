@@ -1,0 +1,64 @@
+{
+    "title": "Yesh Seder LaMishnah Introduction",
+    "categories": [
+        "Mishnah",
+        "Commentary",
+        "Yesh Seder LaMishnah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "יש סדר למשנה הקדמה",
+                "primary": true
+            },
+            {
+                "text": "Yesh Seder LaMishnah Introduction",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Yesh Seder LaMishnah Introduction",
+        "heTitle": "יש סדר למשנה הקדמה",
+        "heSectionNames": [
+            "פסקה"
+        ],
+        "key": "Yesh Seder LaMishnah Introduction"
+    },
+    "authors": [
+        "Isaiah Berlin"
+    ],
+    "pubDate": "1886-1887",
+    "compDate": "1775",
+    "pubPlace": "Vilna",
+    "errorMargin": "24",
+    "era": "AH",
+    "heTitle": "יש סדר למשנה הקדמה",
+    "titleVariants": [
+        "Yesh Seder LaMishnah Introduction"
+    ],
+    "heTitleVariants": [
+        "יש סדר למשנה הקדמה"
+    ],
+    "sectionNames": [
+        "Paragraph"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "משנה",
+        "מפרשים",
+        "יש סדר למשנה"
+    ],
+    "compDateString": {
+        "en": " (c.1751  - c.1799 CE)",
+        "he": " (1751 - 1799 לספירה בקירוב)"
+    }
+}

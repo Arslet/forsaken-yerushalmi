@@ -1,0 +1,150 @@
+{
+    "title": "Rashi on Kiddushin",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Masechet Kiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Qiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Qiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Kiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Kiddushin"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Kiddushin"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קידושין",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קדושין"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קדושי'"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קידושי'"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קידושי׳"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על קדושי׳"
+            },
+            {
+                "text": "Rashi on Kiddushin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Kiddushin",
+        "heTitle": "רש\"י על קידושין",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Kiddushin"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Kiddushin",
+            "he": "קידושין"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על קידושין",
+    "titleVariants": [
+        "Rashi on Masechet Kiddushin",
+        "Rashi on Masekhet Qiddushin",
+        "Rashi on Qiddushin",
+        "Rashi on Tractate Kiddushin",
+        "Rashi on Talmud Kiddushin",
+        "Rashi on Masekhet Kiddushin",
+        "Rashi on Kiddushin"
+    ],
+    "heTitleVariants": [
+        "רש\"י על קידושין",
+        "רש\"י על קדושין",
+        "רש\"י על קדושי'",
+        "רש\"י על קידושי'",
+        "רש\"י על קידושי׳",
+        "רש\"י על קדושי׳"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

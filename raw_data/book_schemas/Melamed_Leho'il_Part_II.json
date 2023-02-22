@@ -1,0 +1,75 @@
+{
+    "title": "Melamed Leho'il Part II",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Melamed Leho'il"
+            },
+            {
+                "lang": "he",
+                "text": "מלמד להועיל חלק ב",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "מלמד להועיל"
+            },
+            {
+                "text": "Melamed Leho'il Part II",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Melamed Leho'il Part II",
+        "heTitle": "מלמד להועיל חלק ב",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Melamed Leho'il Part II"
+    },
+    "authors": [
+        "David Zvi Hoffmann"
+    ],
+    "enDesc": "Responsa from one of 19th and early 20th century Germany's foremost rabbis. From the responsa, one is able to see Rabbi Hoffman's sophistication and involvement in general culture.",
+    "pubDate": "1926",
+    "compDate": "1900",
+    "pubPlace": "Frankfurt am Main, Germany",
+    "errorMargin": "20",
+    "era": "AH",
+    "heTitle": "מלמד להועיל חלק ב",
+    "titleVariants": [
+        "Melamed Leho'il",
+        "Melamed Leho'il Part II"
+    ],
+    "heTitleVariants": [
+        "מלמד להועיל חלק ב",
+        "מלמד להועיל"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1880  - c.1920 CE)",
+        "he": " (1880 - 1920 לספירה בקירוב)"
+    }
+}

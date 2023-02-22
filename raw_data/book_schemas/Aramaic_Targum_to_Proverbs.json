@@ -1,0 +1,84 @@
+{
+    "title": "Aramaic Targum to Proverbs",
+    "categories": [
+        "Tanakh",
+        "Targum",
+        "Aramaic Targum",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תרגום משלי",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Targ. Prov."
+            },
+            {
+                "text": "Aramaic Targum to Proverbs",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Aramaic Targum to Proverbs",
+        "heTitle": "תרגום משלי",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Aramaic Targum to Proverbs"
+    },
+    "authors": [],
+    "compDate": "300",
+    "errorMargin": "300",
+    "era": "A",
+    "dependence": "Targum",
+    "base_text_titles": [
+        {
+            "en": "Proverbs",
+            "he": "משלי"
+        }
+    ],
+    "base_text_mapping": "one_to_one",
+    "collective_title": {
+        "en": "Aramaic Targum",
+        "he": "תרגום"
+    },
+    "is_cited": true,
+    "heTitle": "תרגום משלי",
+    "titleVariants": [
+        "Targ. Prov.",
+        "Aramaic Targum to Proverbs"
+    ],
+    "heTitleVariants": [
+        "תרגום משלי"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "תרגומים",
+        "תרגום",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.0  - c.600 CE)",
+        "he": " (0 - 600 לספירה בקירוב)"
+    }
+}

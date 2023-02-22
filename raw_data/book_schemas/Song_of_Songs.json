@@ -1,0 +1,157 @@
+{
+    "title": "Song of Songs",
+    "categories": [
+        "Tanakh",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            8,
+            117
+        ],
+        "titles": [
+            {
+                "text": "Shir HaShirim",
+                "lang": "en"
+            },
+            {
+                "text": "Canticles",
+                "lang": "en"
+            },
+            {
+                "text": "Song.",
+                "lang": "en"
+            },
+            {
+                "text": "Song",
+                "lang": "en"
+            },
+            {
+                "text": "Song of Solomon",
+                "lang": "en"
+            },
+            {
+                "text": "Cant.",
+                "lang": "en"
+            },
+            {
+                "text": "Canticum",
+                "lang": "en"
+            },
+            {
+                "text": "Songs",
+                "lang": "en"
+            },
+            {
+                "text": "Shir haShirim",
+                "lang": "en"
+            },
+            {
+                "text": "Shir Hashirim",
+                "lang": "en"
+            },
+            {
+                "text": "שיר השירים",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "שה\"ש",
+                "lang": "he"
+            },
+            {
+                "text": "שיר",
+                "lang": "he"
+            },
+            {
+                "text": "שה״ש",
+                "lang": "he"
+            },
+            {
+                "text": "שה''ש",
+                "lang": "he"
+            },
+            {
+                "text": "שיה\"ש",
+                "lang": "he"
+            },
+            {
+                "text": "שיה״ש",
+                "lang": "he"
+            },
+            {
+                "text": "Song of Songs",
+                "primary": true,
+                "lang": "en"
+            }
+        ],
+        "title": "Song of Songs",
+        "heTitle": "שיר השירים",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Song of Songs"
+    },
+    "order": [
+        30,
+        4
+    ],
+    "enDesc": "Shir Hashirim (The Song of Songs), also known as the Song of Solomon is the first of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). Scripturally, it is unique in its celebration of sexual love. It gives \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\". The two are in harmony, each desiring the other and rejoicing in sexual intimacy; the women (or \"daughters\") of Jerusalem form a chorus to the lovers, functioning as an audience whose participation in the lovers' erotic encounters facilitates the participation of the reader. Jewish tradition reads it as an allegory of the relationship between God and Israel. The story is read on the prior to Sabbath each week by Sephardim and on Shabbat during Pesah by Ashkenazim.",
+    "pubDate": "1488",
+    "compDate": "-500",
+    "compPlace": "Judea/Israel",
+    "pubPlace": "Soncino",
+    "errorMargin": "400",
+    "is_cited": true,
+    "heTitle": "שיר השירים",
+    "titleVariants": [
+        "Shir HaShirim",
+        "Canticles",
+        "Song.",
+        "Song",
+        "Song of Solomon",
+        "Cant.",
+        "Canticum",
+        "Songs",
+        "Shir haShirim",
+        "Shir Hashirim",
+        "Song of Songs"
+    ],
+    "heTitleVariants": [
+        "שיר השירים",
+        "שה\"ש",
+        "שיר",
+        "שה״ש",
+        "שה''ש",
+        "שיה\"ש",
+        "שיה״ש"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.900  - c.100 BCE)",
+        "he": " (900 - 100 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

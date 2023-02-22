@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Arakhin",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Kodashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            5
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "T. Arakhin"
+            },
+            {
+                "lang": "en",
+                "text": "T. Arachin"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Arakhin"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Arachin"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Arachin"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא ערכין",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Arakh."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Arakhin",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Arakhin",
+        "heTitle": "תוספתא ערכין",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Arakhin"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Arakhin (Dedications) belongs to the fifth order, Kodshim (Holy things) and discusses a person dedicating their value to the Temple or dedicating a field. It has five chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא ערכין",
+    "titleVariants": [
+        "T. Arakhin",
+        "T. Arachin",
+        "Tos. Arakhin",
+        "Tosefta Arachin",
+        "Tos. Arachin",
+        "Tosef. Arakh.",
+        "Tosefta Arakhin"
+    ],
+    "heTitleVariants": [
+        "תוספתא ערכין"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר קדשים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

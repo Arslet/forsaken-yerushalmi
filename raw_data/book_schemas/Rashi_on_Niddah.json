@@ -1,0 +1,115 @@
+{
+    "title": "Rashi on Niddah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Tahorot"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Niddah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Niddah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Niddah"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על נדה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על נידה"
+            },
+            {
+                "text": "Rashi on Niddah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Niddah",
+        "heTitle": "רש\"י על נדה",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Niddah"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Niddah",
+            "he": "נידה"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על נדה",
+    "titleVariants": [
+        "Rashi on Talmud Niddah",
+        "Rashi on Tractate Niddah",
+        "Rashi on Masekhet Niddah",
+        "Rashi on Niddah"
+    ],
+    "heTitleVariants": [
+        "רש\"י על נדה",
+        "רש\"י על נידה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר טהרות"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

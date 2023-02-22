@@ -1,0 +1,115 @@
+{
+    "title": "Perush Maharzu on Eichah Rabbah",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash",
+        "Midrash Rabbah",
+        "Commentary",
+        "Perush Maharzu"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph",
+                    "Comment"
+                ],
+                "titles": [
+                    {
+                        "text": "Petichta",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "פתיחתא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Petichta",
+                "heTitle": "פתיחתא",
+                "heSectionNames": [
+                    "פסקה",
+                    "פירוש"
+                ],
+                "key": "Petichta"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Parasha",
+                    "Paragraph",
+                    "Comment"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרשה",
+                    "פסקה",
+                    "פירוש"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "text": "פירוש מהרז״ו על איכה רבה",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Perush Maharzu on Eichah Rabbah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Perush Maharzu on Eichah Rabbah",
+        "heTitle": "פירוש מהרז״ו על איכה רבה",
+        "key": "Perush Maharzu on Eichah Rabbah"
+    },
+    "authors": [
+        "Zev Wolf Einhorn"
+    ],
+    "enDesc": "Classic 19th century commentary on Midrash Rabbah that analyzes midrash according to various patterns denoted by the author. In this way, the Midrash is presented as more rigorously attached to the verses of the Bible to which it serves as commentary.",
+    "pubDate": "1855",
+    "pubPlace": "Vilna",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Eichah Rabbah",
+            "he": "איכה רבה"
+        }
+    ],
+    "collective_title": {
+        "en": "Perush Maharzu",
+        "he": "פירוש מהרז״ו"
+    },
+    "heTitle": "פירוש מהרז״ו על איכה רבה",
+    "titleVariants": [
+        "Perush Maharzu on Eichah Rabbah"
+    ],
+    "heTitleVariants": [
+        "פירוש מהרז״ו על איכה רבה"
+    ],
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה",
+        "מדרש רבה",
+        "מפרשים",
+        "פירוש מהרז״ו"
+    ]
+}

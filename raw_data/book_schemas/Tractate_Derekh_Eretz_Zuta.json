@@ -1,0 +1,115 @@
+{
+    "title": "Tractate Derekh Eretz Zuta",
+    "categories": [
+        "Tanaitic",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Halakhah"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Halakhah"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "הלכה"
+                ],
+                "key": "default"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Halakhah"
+                ],
+                "sectionNames": [
+                    "Halakhah"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Section on Peace",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "פרק השלום",
+                        "primary": true
+                    }
+                ],
+                "title": "Section on Peace",
+                "heTitle": "פרק השלום",
+                "heSectionNames": [
+                    "הלכה"
+                ],
+                "key": "Section on Peace"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מסכת דרך ארץ זוטא",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Der. Er. Zuta"
+            },
+            {
+                "lang": "en",
+                "text": "Der. Er. Zutta"
+            },
+            {
+                "lang": "en",
+                "text": "Der. Er. Zut."
+            },
+            {
+                "lang": "en",
+                "text": "Der. Er. Zuṭṭa"
+            },
+            {
+                "text": "Tractate Derekh Eretz Zuta",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tractate Derekh Eretz Zuta",
+        "heTitle": "מסכת דרך ארץ זוטא",
+        "key": "Tractate Derekh Eretz Zuta"
+    },
+    "authors": [],
+    "enDesc": "The minor tractates (Masekhtot Ketanot) are essays from the Tannaitic period or later dealing with topics about which no formal tractate exists in the Mishnah. The first eight or so contain much original material; the last seven or so are collections of material scattered throughout the Talmud. Soferim (Scribes). This tractate deals with proper behavior.",
+    "compDate": "400",
+    "errorMargin": "500",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "מסכת דרך ארץ זוטא",
+    "titleVariants": [
+        "Der. Er. Zuta",
+        "Der. Er. Zutta",
+        "Der. Er. Zut.",
+        "Der. Er. Zuṭṭa",
+        "Tractate Derekh Eretz Zuta"
+    ],
+    "heTitleVariants": [
+        "מסכת דרך ארץ זוטא"
+    ],
+    "heCategories": [
+        "ספרות תנאית",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.100 BCE  - c.900 CE)",
+        "he": " (100 לפנה\"ס  - 900 לספירה בקירוב)"
+    }
+}

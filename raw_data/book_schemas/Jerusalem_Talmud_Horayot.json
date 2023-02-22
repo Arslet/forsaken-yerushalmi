@@ -1,0 +1,110 @@
+{
+    "title": "Jerusalem Talmud Horayot",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            38,
+            76
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Horayos"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Horayot"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי הוריות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי הוריות"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Hor."
+            },
+            {
+                "text": "Jerusalem Talmud Horayot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Horayot",
+        "heTitle": "תלמוד ירושלמי הוריות",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Horayot"
+    },
+    "order": [
+        38
+    ],
+    "authors": [],
+    "enDesc": "Horayot (Decisions) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the communal sin-offering brought for major errors by the Sanhedrin. It has three chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי הוריות",
+    "titleVariants": [
+        "JT Horayot",
+        "Yerushalmi Horayos",
+        "Talmud Yerushalmi Horayot",
+        "Yerushalmi Horayot",
+        "Y. Hor.",
+        "Jerusalem Talmud Horayot"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי הוריות",
+        "ירושלמי הוריות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

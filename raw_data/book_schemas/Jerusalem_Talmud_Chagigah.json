@@ -1,0 +1,115 @@
+{
+    "title": "Jerusalem Talmud Chagigah",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            44,
+            87
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Yerushalmi Hagigah"
+            },
+            {
+                "lang": "en",
+                "text": "JT Chagigah"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Chagigah"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Chagigah"
+            },
+            {
+                "lang": "en",
+                "text": "JT Hagigah"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי חגיגה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי חגיגה"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Ḥag."
+            },
+            {
+                "text": "Jerusalem Talmud Chagigah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Chagigah",
+        "heTitle": "תלמוד ירושלמי חגיגה",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Chagigah"
+    },
+    "order": [
+        22
+    ],
+    "authors": [],
+    "enDesc": "Haggadah (Festival Offering) belongs to the second order, Moed (Festivals) and the Three Pilgrimage Festivals (Passover, Shavuot, Sukkot) and the pilgrimage offering that men were supposed to bring in Jerusalem. It has three chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי חגיגה",
+    "titleVariants": [
+        "Yerushalmi Hagigah",
+        "JT Chagigah",
+        "Talmud Yerushalmi Chagigah",
+        "Yerushalmi Chagigah",
+        "JT Hagigah",
+        "Y. Ḥag.",
+        "Jerusalem Talmud Chagigah"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי חגיגה",
+        "ירושלמי חגיגה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Sforno on Leviticus",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Sforno",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Sforno on Vayikra"
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Lev."
+            },
+            {
+                "lang": "en",
+                "text": "Sforno on Lev"
+            },
+            {
+                "lang": "he",
+                "text": "ספורנו על ויקרא",
+                "primary": true
+            },
+            {
+                "text": "Sforno on Leviticus",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sforno on Leviticus",
+        "heTitle": "ספורנו על ויקרא",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Sforno on Leviticus"
+    },
+    "authors": [
+        "Sforno"
+    ],
+    "enDesc": "Commentary on the Torah by Rabbi Ovadiah ben Jacob Sforno, a 16th-century Italian rabbi and physician.  ",
+    "pubDate": "1567",
+    "compDate": "1525",
+    "compPlace": "Bologna",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Leviticus",
+            "he": "ספר ויקרא"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Sforno",
+        "he": "ספורנו"
+    },
+    "is_cited": true,
+    "heTitle": "ספורנו על ויקרא",
+    "titleVariants": [
+        "Sforno on Vayikra",
+        "Sforno on Lev.",
+        "Sforno on Lev",
+        "Sforno on Leviticus"
+    ],
+    "heTitleVariants": [
+        "ספורנו על ויקרא"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "ספורנו",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1500  - c.1550 CE)",
+        "he": " (1500 - 1550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Bologna",
+        "he": "בולוניה"
+    }
+}

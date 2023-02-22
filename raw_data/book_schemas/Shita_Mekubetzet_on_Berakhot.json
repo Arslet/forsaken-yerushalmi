@@ -1,0 +1,183 @@
+{
+    "title": "Shita Mekubetzet on Berakhot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Shita Mekubetzet",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "lengths": [
+            127,
+            9861
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Berachoth"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Berachot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Berakhoth"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Brachot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Tractate Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Berachos"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Masekhet Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Talmud Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzes on Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Berachoth"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Berachot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Berakhoth"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Brachot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Tractate Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Berachos"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Masekhet Berakhot"
+            },
+            {
+                "lang": "en",
+                "text": "Shita Mekubetzet on Talmud Berakhot"
+            },
+            {
+                "lang": "he",
+                "text": "שיטה מקובצת על ברכות",
+                "primary": true
+            },
+            {
+                "text": "Shita Mekubetzet on Berakhot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shita Mekubetzet on Berakhot",
+        "heTitle": "שיטה מקובצת על ברכות",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Shita Mekubetzet on Berakhot"
+    },
+    "authors": [
+        "Ritva"
+    ],
+    "enDesc": "Written by Bezalel ben Abraham Ashkenazi (c.1520 – c.1592), Shita Mekubetzet is a collection of glosses on the Talmud. (Shitah Mekubetzet on Berachot is actually the Ritva's commentary, see foreword to the Mossad Harav Kook edition of Ritva on Berachot.)",
+    "pubDate": "1765",
+    "compDate": "1570",
+    "compPlace": "Middle-Age Spain",
+    "pubPlace": "Metz, France",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Berakhot",
+            "he": "ברכות"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Shita Mekubetzet",
+        "he": "שיטה מקובצת"
+    },
+    "heTitle": "שיטה מקובצת על ברכות",
+    "titleVariants": [
+        "Shita Mekubetzes on Berachoth",
+        "Shita Mekubetzes on Berachot",
+        "Shita Mekubetzes on Berakhoth",
+        "Shita Mekubetzes on Brachot",
+        "Shita Mekubetzes on Tractate Berakhot",
+        "Shita Mekubetzes on Berachos",
+        "Shita Mekubetzes on Masekhet Berakhot",
+        "Shita Mekubetzes on Talmud Berakhot",
+        "Shita Mekubetzes on Berakhot",
+        "Shita Mekubetzet on Berachoth",
+        "Shita Mekubetzet on Berachot",
+        "Shita Mekubetzet on Berakhoth",
+        "Shita Mekubetzet on Brachot",
+        "Shita Mekubetzet on Tractate Berakhot",
+        "Shita Mekubetzet on Berachos",
+        "Shita Mekubetzet on Masekhet Berakhot",
+        "Shita Mekubetzet on Talmud Berakhot",
+        "Shita Mekubetzet on Berakhot"
+    ],
+    "heTitleVariants": [
+        "שיטה מקובצת על ברכות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "שיטה מקובצת",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.1545  - c.1595 CE)",
+        "he": " (1545 - 1595 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Spain",
+        "he": "ספרד של ימי הביניים"
+    }
+}

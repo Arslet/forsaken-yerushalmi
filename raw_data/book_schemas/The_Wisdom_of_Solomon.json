@@ -1,0 +1,72 @@
+{
+    "title": "The Wisdom of Solomon",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Book of Wisdom"
+            },
+            {
+                "lang": "en",
+                "text": "Wisdom"
+            },
+            {
+                "lang": "he",
+                "text": "חכמת שלמה",
+                "primary": true
+            },
+            {
+                "text": "The Wisdom of Solomon",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "The Wisdom of Solomon",
+        "heTitle": "חכמת שלמה",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
+        "key": "The Wisdom of Solomon"
+    },
+    "authors": [],
+    "enDesc": "A discussion of wisdom and its divine properties.",
+    "compDate": "30 BCE",
+    "compPlace": "Alexandria",
+    "errorMargin": "100",
+    "era": "T",
+    "heTitle": "חכמת שלמה",
+    "titleVariants": [
+        "Book of Wisdom",
+        "Wisdom",
+        "The Wisdom of Solomon"
+    ],
+    "heTitleVariants": [
+        "חכמת שלמה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרים חיצונים"
+    ],
+    "compPlaceString": {
+        "en": "Alexandria",
+        "he": "אלכסנדריה"
+    }
+}

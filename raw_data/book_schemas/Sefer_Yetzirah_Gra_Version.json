@@ -1,0 +1,68 @@
+{
+    "title": "Sefer Yetzirah Gra Version",
+    "categories": [
+        "Kabbalah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Mishnah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Mishnah"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "The Book of Formation"
+            },
+            {
+                "lang": "he",
+                "text": "ספר יצירה: נוסח הגר\"א",
+                "primary": true
+            },
+            {
+                "text": "Sefer Yetzirah Gra Version",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sefer Yetzirah Gra Version",
+        "heTitle": "ספר יצירה: נוסח הגר\"א",
+        "heSectionNames": [
+            "פרק",
+            "משנה"
+        ],
+        "key": "Sefer Yetzirah Gra Version"
+    },
+    "authors": [],
+    "enDesc": "",
+    "pubDate": "",
+    "compDate": "250",
+    "pubPlace": "",
+    "errorMargin": "800",
+    "era": "A",
+    "heTitle": "ספר יצירה: נוסח הגר\"א",
+    "titleVariants": [
+        "The Book of Formation",
+        "Sefer Yetzirah Gra Version"
+    ],
+    "heTitleVariants": [
+        "ספר יצירה: נוסח הגר\"א"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Mishnah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "קבלה"
+    ],
+    "compDateString": {
+        "en": " (c.550 BCE  - c.1050 CE)",
+        "he": " (550 לפנה\"ס  - 1050 לספירה בקירוב)"
+    }
+}

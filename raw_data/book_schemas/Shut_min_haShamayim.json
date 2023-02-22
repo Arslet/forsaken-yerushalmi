@@ -1,0 +1,89 @@
+{
+    "title": "Shut min haShamayim",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Siman",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Sheʾelot u-teshuvot Min ha-shamayim"
+            },
+            {
+                "lang": "en",
+                "text": "Responsa from Heaven"
+            },
+            {
+                "lang": "en",
+                "text": "Shut Min haShamayim"
+            },
+            {
+                "lang": "he",
+                "text": "שו\"ת מן השמים",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "שאלות ותשובות מן השמים"
+            },
+            {
+                "text": "Shut min haShamayim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shut min haShamayim",
+        "heTitle": "שו\"ת מן השמים",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Shut min haShamayim"
+    },
+    "authors": [
+        "Jacob of Marvege"
+    ],
+    "enDesc": "Responsa that were transmitted from the Heavenly Academy to questions that were submitted by means of an 'inquiry of dreams'.",
+    "heDesc": "תשובות מבית דין של מעלה לשאלות שנשאלו על ידי שאלת חלום.",
+    "compDate": "1300",
+    "compPlace": "Marvejols, France",
+    "errorMargin": "30",
+    "era": "RI",
+    "heTitle": "שו\"ת מן השמים",
+    "titleVariants": [
+        "Sheʾelot u-teshuvot Min ha-shamayim",
+        "Responsa from Heaven",
+        "Shut Min haShamayim",
+        "Shut min haShamayim"
+    ],
+    "heTitleVariants": [
+        "שו\"ת מן השמים",
+        "שאלות ותשובות מן השמים"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1270  - c.1330 CE)",
+        "he": " (1270 - 1330 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Marvejols, France",
+        "he": "מארבז'ול"
+    }
+}

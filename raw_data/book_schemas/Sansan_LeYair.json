@@ -1,0 +1,69 @@
+{
+    "title": "Sansan LeYair",
+    "categories": [
+        "Halakhah",
+        "Avodat HaKodesh (Chida)"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Section",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "סנסן ליאיר"
+            },
+            {
+                "text": "Sansan LeYair",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sansan LeYair",
+        "heTitle": "סנסן ליאיר",
+        "heSectionNames": [
+            "חלק",
+            "פסקה"
+        ],
+        "key": "Sansan LeYair"
+    },
+    "order": [
+        6
+    ],
+    "authors": [
+        "Hayyim Joseph David Azulay"
+    ],
+    "enDesc": "A collection of prayers to be recited on various occasions, compiled by Chida.",
+    "heDesc": "תפילות מיוחדות לזמנים שונים מאת ר' חיים יוסף דוד אזולאי (חיד\"א)",
+    "compDate": "1780",
+    "errorMargin": "12",
+    "era": "AH",
+    "heTitle": "סנסן ליאיר",
+    "titleVariants": [
+        "Sansan LeYair"
+    ],
+    "heTitleVariants": [
+        "סנסן ליאיר"
+    ],
+    "sectionNames": [
+        "Section",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "עבודת הקודש - חיד“א"
+    ],
+    "compDateString": {
+        "en": " (c.1768  - c.1792 CE)",
+        "he": " (1768 - 1792 לספירה בקירוב)"
+    }
+}

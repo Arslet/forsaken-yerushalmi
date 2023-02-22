@@ -1,0 +1,68 @@
+{
+    "title": "Shivchei Haran",
+    "categories": [
+        "Chasidut",
+        "Breslov"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Section"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "שבחי הר\"ן",
+                "primary": true
+            },
+            {
+                "text": "Shivchei Haran",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shivchei Haran",
+        "heTitle": "שבחי הר\"ן",
+        "heSectionNames": [
+            "פרק",
+            "חלק"
+        ],
+        "key": "Shivchei Haran"
+    },
+    "authors": [
+        "Nathan Sternhartz"
+    ],
+    "enDesc": "Biography of R' Nachman of Breslov, written by his student, R' Natan.",
+    "heDesc": "תולדות ר' נחמן מברסלב, נכתב על ידי תלמידו ר' נתן.",
+    "pubDate": "1815",
+    "compDate": "1810",
+    "pubPlace": "Warsaw",
+    "errorMargin": "7",
+    "era": "AH",
+    "heTitle": "שבחי הר\"ן",
+    "titleVariants": [
+        "Shivchei Haran"
+    ],
+    "heTitleVariants": [
+        "שבחי הר\"ן"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Section"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "חסידות",
+        "ברסלב"
+    ],
+    "compDateString": {
+        "en": " (c.1803  - c.1817 CE)",
+        "he": " (1803 - 1817 לספירה בקירוב)"
+    }
+}

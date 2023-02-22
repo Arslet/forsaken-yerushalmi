@@ -1,0 +1,94 @@
+{
+    "title": "Gur Aryeh on Devarim",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Gur Aryeh",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "גור אריה על דברים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Gur Aryeh on Devarim",
+                "primary": true
+            }
+        ],
+        "title": "Gur Aryeh on Devarim",
+        "heTitle": "גור אריה על דברים",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פסקה"
+        ],
+        "key": "Gur Aryeh on Devarim"
+    },
+    "authors": [
+        "Maharal"
+    ],
+    "enDesc": "Maharal's supercommentary to Rashi's Torah commentary.",
+    "heDesc": "פירושו של המהר\"ל מפראג לפירוש רש\"י על התורה.",
+    "pubDate": "1578",
+    "compDate": "1563",
+    "compPlace": "Prague",
+    "pubPlace": "Prague",
+    "errorMargin": "15",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy",
+            "he": "ספר דברים"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Gur Aryeh",
+        "he": "גור אריה"
+    },
+    "is_cited": true,
+    "heTitle": "גור אריה על דברים",
+    "titleVariants": [
+        "Gur Aryeh on Devarim"
+    ],
+    "heTitleVariants": [
+        "גור אריה על דברים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "גור אריה",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1548  - c.1578 CE)",
+        "he": " (1548 - 1578 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Prague",
+        "he": "פראג"
+    }
+}

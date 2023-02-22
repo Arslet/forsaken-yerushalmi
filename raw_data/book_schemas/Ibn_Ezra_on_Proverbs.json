@@ -1,0 +1,117 @@
+{
+    "title": "Ibn Ezra on Proverbs",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Ibn Ezra",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Ibn Ezra on Prov"
+            },
+            {
+                "lang": "en",
+                "text": "Ibn Ezra on Pro"
+            },
+            {
+                "lang": "en",
+                "text": "Ibn Ezra on Prov."
+            },
+            {
+                "lang": "en",
+                "text": "Ibn Ezra on Mishlei"
+            },
+            {
+                "lang": "en",
+                "text": "Ibn Ezra on Pro."
+            },
+            {
+                "lang": "he",
+                "text": "אבן עזרא על משלי",
+                "primary": true
+            },
+            {
+                "text": "Ibn Ezra on Proverbs",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ibn Ezra on Proverbs",
+        "heTitle": "אבן עזרא על משלי",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Ibn Ezra on Proverbs"
+    },
+    "authors": [
+        "Ibn Ezra"
+    ],
+    "enDesc": "Ibn Ezra’s commentary on the Tanakh reflects his knowledge as a Hebrew grammarian and philologist. His commentary is terse and aims to discover the pshat, the contextual meaning, of the text. Ibn Ezra was known for his independent ideas which aroused much controversy. Many view Ibn Ezra as the forefather of Biblical criticism. As an example, in the last chapter of Sefer Devarim (34:10), Ibn Ezra comments that Joshua, and not Moshe, wrote from this point until the end of the Torah. ",
+    "pubDate": "1524",
+    "compDate": "1160",
+    "compPlace": "Middle-Age France/Italy/England",
+    "pubPlace": "Venice",
+    "errorMargin": "5",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Proverbs",
+            "he": "משלי"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Ibn Ezra",
+        "he": "אבן עזרא"
+    },
+    "heTitle": "אבן עזרא על משלי",
+    "titleVariants": [
+        "Ibn Ezra on Prov",
+        "Ibn Ezra on Pro",
+        "Ibn Ezra on Prov.",
+        "Ibn Ezra on Mishlei",
+        "Ibn Ezra on Pro.",
+        "Ibn Ezra on Proverbs"
+    ],
+    "heTitleVariants": [
+        "אבן עזרא על משלי"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "אבן עזרא",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.1155  - c.1165 CE)",
+        "he": " (1155 - 1165 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France/Italy/England",
+        "he": "צרפת / איטליה / אנגליה של ימי הביניים"
+    }
+}

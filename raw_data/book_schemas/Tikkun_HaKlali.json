@@ -1,0 +1,63 @@
+{
+    "title": "Tikkun HaKlali",
+    "categories": [
+        "Liturgy"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraphs"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תיקון הכללי",
+                "primary": true
+            },
+            {
+                "text": "Tikkun HaKlali",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tikkun HaKlali",
+        "heTitle": "תיקון הכללי",
+        "heSectionNames": [
+            ""
+        ],
+        "key": "Tikkun HaKlali"
+    },
+    "authors": [
+        "Nachman of Breslov"
+    ],
+    "enDesc": "A group of ten psalms arranged by Rebbe Nahman to atone for sins and especially for wasted seed.",
+    "compDate": "1806",
+    "compPlace": "Bratslav, Ukraine",
+    "era": "AH",
+    "heTitle": "תיקון הכללי",
+    "titleVariants": [
+        "Tikkun HaKlali"
+    ],
+    "heTitleVariants": [
+        "תיקון הכללי"
+    ],
+    "sectionNames": [
+        "Paragraphs"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "סדר התפילה"
+    ],
+    "compDateString": {
+        "en": " (1806 CE)",
+        "he": " (1806 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Bratslav, Ukraine",
+        "he": "ברסלב"
+    }
+}

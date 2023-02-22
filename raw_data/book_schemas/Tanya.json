@@ -1,0 +1,294 @@
+{
+    "title": "Tanya",
+    "categories": [
+        "Chasidut",
+        "Early Works"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "intro"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "lengths": [
+                    53
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Part One, The Book of the Average Men",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "חלק ראשון, ספר של בינונים",
+                        "primary": true
+                    }
+                ],
+                "title": "Part One, The Book of the Average Men",
+                "heTitle": "חלק ראשון, ספר של בינונים",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "part1"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "חינוך קטן",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Education of the Child",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Education of the Child",
+                        "heTitle": "חינוך קטן",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "part2a"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "lengths": [
+                            12
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Part Two, The Gateway of Unity and Belief",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "חלק שני, שער היחוד והאמונה",
+                        "primary": true
+                    }
+                ],
+                "title": "Part Two, The Gateway of Unity and Belief",
+                "heTitle": "חלק שני, שער היחוד והאמונה",
+                "key": "part2"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "lengths": [
+                    12
+                ],
+                "titles": [
+                    {
+                        "lang": "he",
+                        "text": "אגרת התשובה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "en",
+                        "text": "Letter of Repentance",
+                        "primary": true
+                    }
+                ],
+                "title": "Letter of Repentance",
+                "heTitle": "אגרת התשובה",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "letter1"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "lengths": [
+                    32
+                ],
+                "titles": [
+                    {
+                        "lang": "he",
+                        "text": "אגרת הקדש",
+                        "primary": true
+                    },
+                    {
+                        "lang": "en",
+                        "text": "Letter of Holiness",
+                        "primary": true
+                    }
+                ],
+                "title": "Letter of Holiness",
+                "heTitle": "אגרת הקדש",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "letter2"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "lengths": [
+                    9
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Last Thesis",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "קונטרס אחרון",
+                        "primary": true
+                    }
+                ],
+                "title": "Last Thesis",
+                "heTitle": "קונטרס אחרון",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "last"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תניא",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Likutei Amarim"
+            },
+            {
+                "text": "Tanya",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tanya",
+        "heTitle": "תניא",
+        "key": "Tanya"
+    },
+    "authors": [
+        "Shneur Zalman of Liadi"
+    ],
+    "enDesc": "Written by Rabbi Schneur Zalman of Liadi (1745–1812), the founder of Chabad, Tanya is the foundational work of Chabad Hasidism. Tanya presents the philosophy of the Chabad movement. Written in 5 sections, the Tanya provides an outline for living a spiritual Jewish life.",
+    "pubDate": "1796",
+    "compDate": "1791",
+    "compPlace": "Liozna",
+    "pubPlace": "Slavuta",
+    "errorMargin": "5",
+    "era": "AH",
+    "heTitle": "תניא",
+    "titleVariants": [
+        "Likutei Amarim",
+        "Tanya"
+    ],
+    "heTitleVariants": [
+        "תניא"
+    ],
+    "heCategories": [
+        "חסידות",
+        "ספרי ראשית"
+    ],
+    "compDateString": {
+        "en": " (c.1786  - c.1796 CE)",
+        "he": " (1786 - 1796 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Liozna",
+        "he": "ליוזנה"
+    }
+}

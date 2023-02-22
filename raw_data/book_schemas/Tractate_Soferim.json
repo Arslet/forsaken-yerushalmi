@@ -1,0 +1,95 @@
+{
+    "title": "Tractate Soferim",
+    "categories": [
+        "Tanaitic",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "titles": [
+            {
+                "text": "Sof.",
+                "lang": "en"
+            },
+            {
+                "text": "Treat. Sof’rim",
+                "lang": "en"
+            },
+            {
+                "text": "Sopherim",
+                "lang": "en"
+            },
+            {
+                "text": "Masechet Sofrim",
+                "lang": "en"
+            },
+            {
+                "text": "Sofrim",
+                "lang": "en"
+            },
+            {
+                "text": "מסכת סופרים",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Tractate Soferim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tractate Soferim",
+        "heTitle": "מסכת סופרים",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Tractate Soferim"
+    },
+    "authors": [],
+    "enDesc": "The minor tractates (Masekhtot Ketanot) are essays from the Tannaitic period or later dealing with topics about which no formal tractate exists in the Mishnah. The first eight or so contain much original material; the last seven or so are collections of material scattered throughout the Talmud. Soferim (Scribes). This tractate appears in two different versions in the Jerusalem and Babylonian Talmuds.",
+    "pubDate": "1732",
+    "compDate": "750",
+    "compPlace": "Talmudic Israel/Babylon",
+    "pubPlace": "Dyhernfurth",
+    "era": null,
+    "is_cited": true,
+    "heTitle": "מסכת סופרים",
+    "titleVariants": [
+        "Sof.",
+        "Treat. Sof’rim",
+        "Sopherim",
+        "Masechet Sofrim",
+        "Sofrim",
+        "Tractate Soferim"
+    ],
+    "heTitleVariants": [
+        "מסכת סופרים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (750 CE)",
+        "he": " (750 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

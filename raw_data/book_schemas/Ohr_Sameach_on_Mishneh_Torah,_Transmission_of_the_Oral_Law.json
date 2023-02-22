@@ -1,0 +1,79 @@
+{
+    "title": "Ohr Sameach on Mishneh Torah, Transmission of the Oral Law",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Commentary",
+        "Ohr Sameach",
+        "Introduction"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "אור שמח על משנה תורה, מסירת תורה שבעל פה",
+                "primary": true
+            },
+            {
+                "text": "Ohr Sameach on Mishneh Torah, Transmission of the Oral Law",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ohr Sameach on Mishneh Torah, Transmission of the Oral Law",
+        "heTitle": "אור שמח על משנה תורה, מסירת תורה שבעל פה",
+        "heSectionNames": [
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Ohr Sameach on Mishneh Torah, Transmission of the Oral Law"
+    },
+    "authors": [
+        "Meir Simha HaKohen Dvinsk"
+    ],
+    "enDesc": "Rabbi Meir Simcha of Dvinsk's commentary on Rambam's Mishneh Torah, in which he exhibits the great breadth of his knowledge as he tries to resolve apparent contradictions found in Mishneh Torah.",
+    "pubDate": "1901",
+    "pubPlace": "Riga",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Mishneh Torah, Transmission of the Oral Law",
+            "he": "משנה תורה, מסירת תורה שבעל פה"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Ohr Sameach",
+        "he": "אור שמח"
+    },
+    "heTitle": "אור שמח על משנה תורה, מסירת תורה שבעל פה",
+    "titleVariants": [
+        "Ohr Sameach on Mishneh Torah, Transmission of the Oral Law"
+    ],
+    "heTitleVariants": [
+        "אור שמח על משנה תורה, מסירת תורה שבעל פה"
+    ],
+    "sectionNames": [
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "מפרשים",
+        "אור שמח",
+        "הקדמה"
+    ]
+}

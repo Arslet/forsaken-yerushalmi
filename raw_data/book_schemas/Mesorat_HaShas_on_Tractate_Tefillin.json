@@ -1,0 +1,86 @@
+{
+    "title": "Mesorat HaShas on Tractate Tefillin",
+    "categories": [
+        "Tanaitic",
+        "Commentary",
+        "Mesorat HaShas",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מסורת הש״ס על מסכת תפילין",
+                "primary": true
+            },
+            {
+                "text": "Mesorat HaShas on Tractate Tefillin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Mesorat HaShas on Tractate Tefillin",
+        "heTitle": "מסורת הש״ס על מסכת תפילין",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Mesorat HaShas on Tractate Tefillin"
+    },
+    "authors": [
+        "Joshua Boaz"
+    ],
+    "enDesc": "Short citations of, and occasional observations about, related sections in the Talmud.",
+    "compDate": "1540",
+    "compPlace": "Italy",
+    "errorMargin": "17",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Tractate Tefillin",
+            "he": "מסכת תפילין"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Mesorat HaShas",
+        "he": "מסורת הש״ס"
+    },
+    "heTitle": "מסורת הש״ס על מסכת תפילין",
+    "titleVariants": [
+        "Mesorat HaShas on Tractate Tefillin"
+    ],
+    "heTitleVariants": [
+        "מסורת הש״ס על מסכת תפילין"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "ספרות תנאית",
+        "מפרשים",
+        "מסורת הש״ס",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.1523  - c.1557 CE)",
+        "he": " (1523 - 1557 לספירה בקירוב)"
+    }
+}

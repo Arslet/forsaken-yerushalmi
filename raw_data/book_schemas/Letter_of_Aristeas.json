@@ -1,0 +1,58 @@
+{
+    "title": "Letter of Aristeas",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "אגרת אריסטיאס",
+                "primary": true
+            },
+            {
+                "text": "Letter of Aristeas",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Letter of Aristeas",
+        "heTitle": "אגרת אריסטיאס",
+        "heSectionNames": [
+            "פסוק"
+        ],
+        "key": "Letter of Aristeas"
+    },
+    "authors": [],
+    "enDesc": "A letter supposedly written by an official from the court of Ptolemy to explain the reason for the Septuagint translation of the Bible into Greek. ",
+    "compDate": "180 BCE",
+    "compPlace": "Alexandria",
+    "errorMargin": "100",
+    "era": "T",
+    "heTitle": "אגרת אריסטיאס",
+    "titleVariants": [
+        "Letter of Aristeas"
+    ],
+    "heTitleVariants": [
+        "אגרת אריסטיאס"
+    ],
+    "sectionNames": [
+        "Verse"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "ספרים חיצונים"
+    ],
+    "compPlaceString": {
+        "en": "Alexandria",
+        "he": "אלכסנדריה"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "title": "Jeremiah",
+    "categories": [
+        "Tanakh",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            52,
+            1364
+        ],
+        "titles": [
+            {
+                "text": "Yirmiyahu",
+                "lang": "en"
+            },
+            {
+                "text": "Jer",
+                "lang": "en"
+            },
+            {
+                "text": "Jer.",
+                "lang": "en"
+            },
+            {
+                "text": "Yirmiyohu",
+                "lang": "en"
+            },
+            {
+                "text": "Jerem.",
+                "lang": "en"
+            },
+            {
+                "text": "Yermiyahu",
+                "lang": "en"
+            },
+            {
+                "text": "Yirmeyahu",
+                "lang": "en"
+            },
+            {
+                "text": "ירמיהו",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "ירמיה",
+                "lang": "he"
+            },
+            {
+                "text": "ירמי׳",
+                "lang": "he"
+            },
+            {
+                "text": "ירמי'",
+                "lang": "he"
+            },
+            {
+                "text": "Jeremiah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jeremiah",
+        "heTitle": "ירמיהו",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Jeremiah"
+    },
+    "order": [
+        13,
+        8
+    ],
+    "authors": [],
+    "enDesc": "The Book of Jeremiah is the second of the Neviim Aharonim (Latter Prophets). The superscription identifies it as Jeremiah son of Hilkiah. The book is divided into biographical, pros and poetic strands. Jeremiah prophesied during the reforms of King Josiah up to the assassination of the Babylonian appointed governor. During this period; Josiah reforms the religion, Babylon destroys Assyria, Egypt briefly imposes vassal status on Judah, and Babylon defeats Egypt and makes Judah a vassal. Judah revolts twice against Babylon resulting in Jerusalem and the Temple's destruction and the aristocracy is exiled. The poetic material is found largely in chapters 1–25 and consists of oracles in which the prophet speaks as God's messenger. These passages, dealing with Israel's unfaithfulness to God, the call to repentance, and attacks on the religious and political establishment, are mostly undated and have no clear context.",
+    "pubDate": "1488",
+    "compDate": "-550",
+    "compPlace": "Judea/Israel",
+    "pubPlace": "Soncino",
+    "errorMargin": "50",
+    "is_cited": true,
+    "heTitle": "ירמיהו",
+    "titleVariants": [
+        "Yirmiyahu",
+        "Jer",
+        "Jer.",
+        "Yirmiyohu",
+        "Jerem.",
+        "Yermiyahu",
+        "Yirmeyahu",
+        "Jeremiah"
+    ],
+    "heTitleVariants": [
+        "ירמיהו",
+        "ירמיה",
+        "ירמי׳",
+        "ירמי'"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "נביאים"
+    ],
+    "compDateString": {
+        "en": " (c.600  - c.500 BCE)",
+        "he": " (600 - 500 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

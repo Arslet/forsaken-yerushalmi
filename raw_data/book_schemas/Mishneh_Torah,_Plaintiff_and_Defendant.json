@@ -1,0 +1,162 @@
+{
+    "title": "Mishneh Torah, Plaintiff and Defendant",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Mishpatim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            16
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Plaintiff and Defendant"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Plaintiff and Defendant"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Plaintiff and Defendant"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Nehalot"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, <i>Hilkhot To'en ve-Nit'an</i>"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot To'en ve-Nit'an"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות טוען ונטען",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות טוען ונטען"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' טוען ונטען"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' טוען ונטען"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות טוען ונטען"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' טוען ונטען"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Plaintiff and Defendant",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Plaintiff and Defendant",
+        "heTitle": "משנה תורה, הלכות טוען ונטען",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Plaintiff and Defendant"
+    },
+    "order": [
+        82,
+        4
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The thirteenth book is Sefer Mishpatim (Rights: civil law). Hilchot Toen Venitan.",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות טוען ונטען",
+    "titleVariants": [
+        "Mishneh Torah, Hilchot Nehalot",
+        "Rambam, Hilchot Nehalot",
+        "Rambam, Nehalot",
+        "Rambam, Plaintiff and Defendant",
+        "Mishneh Torah, Nehalot",
+        "Rambam, Laws of Plaintiff and Defendant",
+        "Mishneh Torah, Laws of Plaintiff and Defendant",
+        "Mishneh Torah, Hilkhot Nehalot",
+        "Rambam, Hilkhot Nehalot",
+        "Rambam, <i>Hilkhot To'en ve-Nit'an</i>",
+        "Rambam, Hilkhot To'en ve-Nit'an",
+        "Mishneh Torah, Plaintiff and Defendant"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות טוען ונטען",
+        "רמב\"ם, הלכות טוען ונטען",
+        "משנה תורה, הל' טוען ונטען",
+        "רמב\"ם, הל' טוען ונטען",
+        "רמב\"ם הלכות טוען ונטען",
+        "רמב\"ם הל' טוען ונטען"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר משפטים"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

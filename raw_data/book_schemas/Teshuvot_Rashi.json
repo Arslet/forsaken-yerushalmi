@@ -1,0 +1,62 @@
+{
+    "title": "Teshuvot Rashi",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תשובות רש\"י",
+                "primary": true
+            },
+            {
+                "text": "Teshuvot Rashi",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Teshuvot Rashi",
+        "heTitle": "תשובות רש\"י",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot Rashi"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "compDate": "1090",
+    "errorMargin": "25",
+    "era": "RI",
+    "heTitle": "תשובות רש\"י",
+    "titleVariants": [
+        "Teshuvot Rashi"
+    ],
+    "heTitleVariants": [
+        "תשובות רש\"י"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    }
+}

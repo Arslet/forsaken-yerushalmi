@@ -1,0 +1,152 @@
+{
+    "title": "Mishneh Torah, Inheritances",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Mishpatim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            11
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rambam, Malveh veLoveh"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Inheritances"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Malveh veLoveh"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Inheritances"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Malveh veLoveh"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Inheritances"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Malveh veLoveh"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות נחלות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות נחלות"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Malveh veLoveh"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Malveh veLoveh"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' נחלות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' נחלות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות נחלות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' נחלות"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Inheritances",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Inheritances",
+        "heTitle": "משנה תורה, הלכות נחלות",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Inheritances"
+    },
+    "order": [
+        83,
+        5
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The thirteenth book is Sefer Mishpatim (Rights: civil law). Hilchot Nahalot.",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות נחלות",
+    "titleVariants": [
+        "Rambam, Malveh veLoveh",
+        "Rambam, Inheritances",
+        "Mishneh Torah, Hilchot Malveh veLoveh",
+        "Mishneh Torah, Laws of Inheritances",
+        "Mishneh Torah, Malveh veLoveh",
+        "Rambam, Laws of Inheritances",
+        "Rambam, Hilchot Malveh veLoveh",
+        "Mishneh Torah, Hilkhot Malveh veLoveh",
+        "Rambam, Hilkhot Malveh veLoveh",
+        "Mishneh Torah, Inheritances"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות נחלות",
+        "רמב\"ם, הלכות נחלות",
+        "משנה תורה, הל' נחלות",
+        "רמב\"ם, הל' נחלות",
+        "רמב\"ם הלכות נחלות",
+        "רמב\"ם הל' נחלות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר משפטים"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

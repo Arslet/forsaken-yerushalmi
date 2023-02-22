@@ -1,0 +1,399 @@
+{
+    "title": "Avodat HaKodesh",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Introduction",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "הקדמה",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Introduction",
+                        "heTitle": "הקדמה",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "intro"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער הראשון",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The First Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The First Gate",
+                        "heTitle": "השער הראשון",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate0"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער השני",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Second Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Second Gate",
+                        "heTitle": "השער השני",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate1"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער השלישי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Third Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Third Gate",
+                        "heTitle": "השער השלישי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate2"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער הרביעי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Fourth Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Fourth Gate",
+                        "heTitle": "השער הרביעי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate3"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער החמישי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Fifth Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Fifth Gate",
+                        "heTitle": "השער החמישי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate4"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "he",
+                        "text": "חלק א': בית נתיבות",
+                        "primary": true
+                    },
+                    {
+                        "lang": "en",
+                        "text": "Part One, Beit Netivot",
+                        "primary": true
+                    }
+                ],
+                "title": "Part One, Beit Netivot",
+                "heTitle": "חלק א': בית נתיבות",
+                "key": "part1"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער הראשון",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The First Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The First Gate",
+                        "heTitle": "השער הראשון",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate0"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער השני",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Second Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Second Gate",
+                        "heTitle": "השער השני",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate1"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער השלישי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Third Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Third Gate",
+                        "heTitle": "השער השלישי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate2"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער הרביעי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Fourth Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Fourth Gate",
+                        "heTitle": "השער הרביעי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate3"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "lang": "he",
+                                "text": "השער החמישי",
+                                "primary": true
+                            },
+                            {
+                                "lang": "en",
+                                "text": "The Fifth Gate",
+                                "primary": true
+                            }
+                        ],
+                        "title": "The Fifth Gate",
+                        "heTitle": "השער החמישי",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "gate4"
+                    }
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Part Two, Beit Moed",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "חלק ב': בית מועד",
+                        "primary": true
+                    }
+                ],
+                "title": "Part Two, Beit Moed",
+                "heTitle": "חלק ב': בית מועד",
+                "key": "part2"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "עבודת הקדש",
+                "primary": true
+            },
+            {
+                "text": "Avodat HaKodesh",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Avodat HaKodesh",
+        "heTitle": "עבודת הקדש",
+        "key": "Avodat HaKodesh"
+    },
+    "authors": [
+        "Rashba"
+    ],
+    "enDesc": "Written by Shlomo ben Avraham ibn Aderet, Avodat HaKodesh is a compendium of laws relating to Shabbat and the Jewish holidays.",
+    "pubDate": "1602",
+    "compDate": "1290",
+    "compPlace": "Barcelona, Spain",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "RI",
+    "heTitle": "עבודת הקדש",
+    "titleVariants": [
+        "Avodat HaKodesh"
+    ],
+    "heTitleVariants": [
+        "עבודת הקדש"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1270  - c.1310 CE)",
+        "he": " (1270 - 1310 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Barcelona, Spain",
+        "he": "ברצלונה, ספרד"
+    }
+}

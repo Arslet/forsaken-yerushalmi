@@ -1,0 +1,70 @@
+{
+    "title": "Piskei Challah",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Gate",
+            "paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "פסקי חלה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Piskei Challah",
+                "primary": true
+            }
+        ],
+        "title": "Piskei Challah",
+        "heTitle": "פסקי חלה",
+        "heSectionNames": [
+            "שער",
+            ""
+        ],
+        "key": "Piskei Challah"
+    },
+    "authors": [
+        "Rashba"
+    ],
+    "enDesc": "Essay on the laws of challah written by the Rashba, Shlomo ben Avraham ibn Aderet (1235–1310).",
+    "pubDate": "1515",
+    "compDate": "1290",
+    "compPlace": "Barcelona, Spain",
+    "pubPlace": "Istanbul",
+    "errorMargin": "20",
+    "era": "RI",
+    "heTitle": "פסקי חלה",
+    "titleVariants": [
+        "Piskei Challah"
+    ],
+    "heTitleVariants": [
+        "פסקי חלה"
+    ],
+    "sectionNames": [
+        "Gate",
+        "paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1270  - c.1310 CE)",
+        "he": " (1270 - 1310 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Barcelona, Spain",
+        "he": "ברצלונה, ספרד"
+    }
+}

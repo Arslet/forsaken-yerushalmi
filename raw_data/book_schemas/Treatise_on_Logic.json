@@ -1,0 +1,102 @@
+{
+    "title": "Treatise on Logic",
+    "categories": [
+        "Philosophy"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Gate",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "שער",
+                    "פסקה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מילות הגיון",
+                "primary": true
+            },
+            {
+                "text": "Treatise on Logic",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Treatise on Logic",
+        "heTitle": "מילות הגיון",
+        "key": "Treatise on Logic"
+    },
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "Philosophical work by the Rambam, written in his early years. Originally composed in Arabic, it was translated into Hebrew by Moshe ibn Tibbon.",
+    "heDesc": "חיבור פילוסופי מהרמב\"ם, נכתב בשנות צעירותו בלשון הערבית ותורגם לעברית על ידי ר' משה אבן תבון. ",
+    "pubDate": "1552",
+    "compDate": "1156",
+    "pubPlace": "Venice",
+    "errorMargin": "5",
+    "era": "RI",
+    "heTitle": "מילות הגיון",
+    "titleVariants": [
+        "Treatise on Logic"
+    ],
+    "heTitleVariants": [
+        "מילות הגיון"
+    ],
+    "heCategories": [
+        "מחשבת ישראל"
+    ],
+    "compDateString": {
+        "en": " (c.1151  - c.1161 CE)",
+        "he": " (1151 - 1161 לספירה בקירוב)"
+    }
+}

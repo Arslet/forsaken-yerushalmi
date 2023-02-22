@@ -1,0 +1,71 @@
+{
+    "title": "Tziporen Shamir",
+    "categories": [
+        "Halakhah",
+        "Avodat HaKodesh (Chida)"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Seif",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "צפורן שמיר"
+            },
+            {
+                "text": "Tziporen Shamir",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tziporen Shamir",
+        "heTitle": "צפורן שמיר",
+        "heSectionNames": [
+            "סעיף",
+            "פסקה"
+        ],
+        "key": "Tziporen Shamir"
+    },
+    "order": [
+        2
+    ],
+    "authors": [
+        "Hayyim Joseph David Azulay"
+    ],
+    "enDesc": "Laws of prayer and daily practice, compiled by Chida.",
+    "heDesc": "דיני תפילה והנהגות מוסריות לכל השנה מאת ר' חיים יוסף דוד אזולאי (חיד\"א).",
+    "pubDate": "1842",
+    "compDate": "1780",
+    "pubPlace": "Livorno, Italy",
+    "errorMargin": "12",
+    "era": "AH",
+    "heTitle": "צפורן שמיר",
+    "titleVariants": [
+        "Tziporen Shamir"
+    ],
+    "heTitleVariants": [
+        "צפורן שמיר"
+    ],
+    "sectionNames": [
+        "Seif",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "עבודת הקודש - חיד“א"
+    ],
+    "compDateString": {
+        "en": " (c.1768  - c.1792 CE)",
+        "he": " (1768 - 1792 לספירה בקירוב)"
+    }
+}

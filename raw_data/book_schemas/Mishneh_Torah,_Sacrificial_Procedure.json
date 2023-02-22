@@ -1,0 +1,152 @@
+{
+    "title": "Mishneh Torah, Sacrificial Procedure",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Avodah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            19
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Maaseh Hakorbonos"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Sacrificial Procedure"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Sacrificial Procedure"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Sacrificial Procedure"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות מעשה הקרבנות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות מעשה הקרבנות"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' מעשה הקרבנות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' מעשה הקרבנות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות מעשה הקרבנות"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' מעשה הקרבנות"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Sacrificial Procedure",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Sacrificial Procedure",
+        "heTitle": "משנה תורה, הלכות מעשה הקרבנות",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Sacrificial Procedure"
+    },
+    "order": [
+        50,
+        5
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The eighth book is Avodah (Divine Service): the laws of the Temple in Jerusalem. Hilchot Ma'aseh HaKorbanot: Laws of the sacrificial procedures.",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות מעשה הקרבנות",
+    "titleVariants": [
+        "Rambam, Hilkhot Maaseh Hakorbonos",
+        "Mishneh Torah, Hilkhot Maaseh Hakorbonos",
+        "Mishneh Torah, Maaseh Hakorbonos",
+        "Mishneh Torah, Hilchot Maaseh Hakorbonos",
+        "Rambam, Maaseh Hakorbonos",
+        "Rambam, Hilchot Maaseh Hakorbonos",
+        "Rambam, Laws of Sacrificial Procedure",
+        "Mishneh Torah, Laws of Sacrificial Procedure",
+        "Rambam, Sacrificial Procedure",
+        "Mishneh Torah, Sacrificial Procedure"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות מעשה הקרבנות",
+        "רמב\"ם, הלכות מעשה הקרבנות",
+        "משנה תורה, הל' מעשה הקרבנות",
+        "רמב\"ם, הל' מעשה הקרבנות",
+        "רמב\"ם הלכות מעשה הקרבנות",
+        "רמב\"ם הל' מעשה הקרבנות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר עבודה"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

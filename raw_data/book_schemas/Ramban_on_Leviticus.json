@@ -1,0 +1,183 @@
+{
+    "title": "Ramban on Leviticus",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Ramban",
+        "Torah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "intro"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Perek",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Comment"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פירוש"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Nachmanides on Vayikra"
+            },
+            {
+                "lang": "en",
+                "text": "Nachmanides on Lev."
+            },
+            {
+                "lang": "en",
+                "text": "Nachmanides on Lev"
+            },
+            {
+                "lang": "en",
+                "text": "Nachmanides on Leviticus"
+            },
+            {
+                "lang": "en",
+                "text": "Rabbi Moshe Ben Nachman on Vayikra"
+            },
+            {
+                "lang": "en",
+                "text": "Rabbi Moshe Ben Nachman on Lev."
+            },
+            {
+                "lang": "en",
+                "text": "Rabbi Moshe Ben Nachman on Lev"
+            },
+            {
+                "lang": "en",
+                "text": "Rabbi Moshe Ben Nachman on Leviticus"
+            },
+            {
+                "lang": "en",
+                "text": "Ramban on Vayikra"
+            },
+            {
+                "lang": "en",
+                "text": "Ramban on Lev."
+            },
+            {
+                "lang": "en",
+                "text": "Ramban on Lev"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ן על ויקרא",
+                "primary": true
+            },
+            {
+                "text": "Ramban on Leviticus",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ramban on Leviticus",
+        "heTitle": "רמב\"ן על ויקרא",
+        "key": "Ramban on Leviticus"
+    },
+    "authors": [
+        "Ramban"
+    ],
+    "enDesc": "Commentary by Rabbi Moses ben Nahman (1194–1270), commonly known as the Ramban. The Ramban lived in Spain until his move to Jerusalem toward the end of his life. His commentary reflects his love of Eretz Yisrael. He usually begins his comments with Rashi’s explanation and then expounds further with insights from Kabbalah and Oral Tradition. His comments include respectful criticism of Rashi, Ibn Ezra and Rambam.",
+    "pubDate": "1480",
+    "compDate": "1266",
+    "compPlace": "Middle-Age Spain",
+    "pubPlace": "Bologna",
+    "errorMargin": "20",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Leviticus",
+            "he": "ספר ויקרא"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Ramban",
+        "he": "רמב\"ן"
+    },
+    "is_cited": true,
+    "heTitle": "רמב\"ן על ויקרא",
+    "titleVariants": [
+        "Nachmanides on Vayikra",
+        "Nachmanides on Lev.",
+        "Nachmanides on Lev",
+        "Nachmanides on Leviticus",
+        "Rabbi Moshe Ben Nachman on Vayikra",
+        "Rabbi Moshe Ben Nachman on Lev.",
+        "Rabbi Moshe Ben Nachman on Lev",
+        "Rabbi Moshe Ben Nachman on Leviticus",
+        "Ramban on Vayikra",
+        "Ramban on Lev.",
+        "Ramban on Lev",
+        "Ramban on Leviticus"
+    ],
+    "heTitleVariants": [
+        "רמב\"ן על ויקרא"
+    ],
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "רמב\"ן",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1246  - c.1286 CE)",
+        "he": " (1246 - 1286 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Spain",
+        "he": "ספרד של ימי הביניים"
+    }
+}

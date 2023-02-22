@@ -1,0 +1,182 @@
+{
+    "title": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Madda"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            12
+        ],
+        "titles": [
+            {
+                "text": "Rambam, Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Foreign Worship and Customs of the Nations",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Laws of Foreign Worship and Customs of the Nations",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Hilchot Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Laws of Foreign Worship and Customs of the Nations",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Hilchot Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Hilkhot Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Hilkhot Avodah Kochavim",
+                "lang": "en"
+            },
+            {
+                "text": "<i>Hilkhot Avodah Zarah</i>",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, <i>Hilkhot Avodah Zarah</i>",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Hilkhot Avodah Zarah",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם, הלכות עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "משנה תורה, הל' עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם, הל' עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם הלכות עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם הל' עבודה זרה וחוקות הגויים",
+                "lang": "he"
+            },
+            {
+                "text": "הלכות עבודה זרה",
+                "lang": "he"
+            },
+            {
+                "text": "משנה תורה, הלכות עכו\"ם",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם, הלכות עכו\"ם",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+                "lang": "en"
+            }
+        ],
+        "title": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+        "heTitle": "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Foreign Worship and Customs of the Nations"
+    },
+    "order": [
+        8,
+        4
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The first book is HaMadda (Knowledge): Avodah Zarah: the prohibition against idolatry",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+    "titleVariants": [
+        "Rambam, Avodah Kochavim",
+        "Rambam, Foreign Worship and Customs of the Nations",
+        "Rambam, Laws of Foreign Worship and Customs of the Nations",
+        "Mishneh Torah, Avodah Kochavim",
+        "Mishneh Torah, Hilchot Avodah Kochavim",
+        "Mishneh Torah, Laws of Foreign Worship and Customs of the Nations",
+        "Rambam, Hilchot Avodah Kochavim",
+        "Mishneh Torah, Hilkhot Avodah Kochavim",
+        "Rambam, Hilkhot Avodah Kochavim",
+        "<i>Hilkhot Avodah Zarah</i>",
+        "Rambam, <i>Hilkhot Avodah Zarah</i>",
+        "Rambam, Hilkhot Avodah Zarah",
+        "Mishneh Torah, Foreign Worship and Customs of the Nations"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+        "רמב\"ם, הלכות עבודה זרה וחוקות הגויים",
+        "משנה תורה, הל' עבודה זרה וחוקות הגויים",
+        "רמב\"ם, הל' עבודה זרה וחוקות הגויים",
+        "רמב\"ם הלכות עבודה זרה וחוקות הגויים",
+        "רמב\"ם הל' עבודה זרה וחוקות הגויים",
+        "הלכות עבודה זרה",
+        "משנה תורה, הלכות עכו\"ם",
+        "רמב\"ם, הלכות עכו\"ם"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר מדע"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "title": "HaElef Lekha Shlomo",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "האלף לך שלמה",
+                "primary": true
+            },
+            {
+                "text": "HaElef Lekha Shlomo",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "HaElef Lekha Shlomo",
+        "heTitle": "האלף לך שלמה",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "HaElef Lekha Shlomo"
+    },
+    "authors": [
+        "Shlomo Kluger"
+    ],
+    "enDesc": "Responsa on a wide variety of topics from one of the leading rabbis of the 19th century.",
+    "pubDate": "1910",
+    "compDate": "1850",
+    "pubPlace": "Lemberg, Galicia",
+    "errorMargin": "25",
+    "era": "AH",
+    "heTitle": "האלף לך שלמה",
+    "titleVariants": [
+        "HaElef Lekha Shlomo"
+    ],
+    "heTitleVariants": [
+        "האלף לך שלמה"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1825  - c.1875 CE)",
+        "he": " (1825 - 1875 לספירה בקירוב)"
+    }
+}

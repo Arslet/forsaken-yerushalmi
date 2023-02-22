@@ -1,0 +1,69 @@
+{
+    "title": "Iggeret HaGra",
+    "categories": [
+        "Musar"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Iggeret haGra"
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "אגרת הגר\"א"
+            },
+            {
+                "text": "Iggeret HaGra",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Iggeret HaGra",
+        "heTitle": "אגרת הגר\"א",
+        "heSectionNames": [
+            "פסקה"
+        ],
+        "key": "Iggeret HaGra"
+    },
+    "authors": [
+        "Vilna Gaon"
+    ],
+    "enDesc": "An ethical will the author sent to his family as he was departing upon his attempt to move to the Land of Israel.",
+    "compDate": "1750",
+    "compPlace": "Vilna",
+    "errorMargin": "20",
+    "era": "AH",
+    "heTitle": "אגרת הגר\"א",
+    "titleVariants": [
+        "Iggeret haGra",
+        "Iggeret HaGra"
+    ],
+    "heTitleVariants": [
+        "אגרת הגר\"א"
+    ],
+    "sectionNames": [
+        "Paragraph"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "ספרי מוסר"
+    ],
+    "compDateString": {
+        "en": " (c.1730  - c.1770 CE)",
+        "he": " (1730 - 1770 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Vilna",
+        "he": "וילנה"
+    }
+}

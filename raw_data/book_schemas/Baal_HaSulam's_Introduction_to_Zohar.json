@@ -1,0 +1,76 @@
+{
+    "title": "Baal HaSulam's Introduction to Zohar",
+    "categories": [
+        "Kabbalah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Section"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Hakdamah Lesefer HaZohar"
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "הקדמות לחכמת האמת - ספר הזוהר"
+            },
+            {
+                "lang": "he",
+                "text": "הקדמה לספר הזוהר"
+            },
+            {
+                "text": "Baal HaSulam's Introduction to Zohar",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Baal HaSulam's Introduction to Zohar",
+        "heTitle": "הקדמות לחכמת האמת - ספר הזוהר",
+        "heSectionNames": [
+            "חלק"
+        ],
+        "key": "Baal HaSulam's Introduction to Zohar"
+    },
+    "authors": [
+        "Yehudah Ashlag"
+    ],
+    "enDesc": "An accessible contemporary introduction to the Zohar and the kabbalistic system.",
+    "pubDate": "1945",
+    "compDate": "1940",
+    "compPlace": "Jerusalem",
+    "pubPlace": "Jerusalem",
+    "errorMargin": "5",
+    "era": "CO",
+    "heTitle": "הקדמות לחכמת האמת - ספר הזוהר",
+    "titleVariants": [
+        "Hakdamah Lesefer HaZohar",
+        "Baal HaSulam's Introduction to Zohar"
+    ],
+    "heTitleVariants": [
+        "הקדמות לחכמת האמת - ספר הזוהר",
+        "הקדמה לספר הזוהר"
+    ],
+    "sectionNames": [
+        "Section"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "קבלה"
+    ],
+    "compDateString": {
+        "en": " (c.1935  - c.1945 CE)",
+        "he": " (1935 - 1945 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Jerusalem",
+        "he": "ירושלים"
+    }
+}

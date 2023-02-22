@@ -1,0 +1,82 @@
+{
+    "title": "Hilchos Talmud Torah",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Seif"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Seif"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "hilchot talmud torah"
+            },
+            {
+                "lang": "en",
+                "text": "Laws of Torah study"
+            },
+            {
+                "lang": "he",
+                "text": "הלכות תלמוד תורה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "הלכות תלמוד תורה לאדמו\"ר הזקן"
+            },
+            {
+                "lang": "he",
+                "text": "הלכות תלמוד תורה שולחן ערוך הרב"
+            },
+            {
+                "text": "Hilchos Talmud Torah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Hilchos Talmud Torah",
+        "heTitle": "הלכות תלמוד תורה",
+        "heSectionNames": [
+            "פרק",
+            "סעיף"
+        ],
+        "key": "Hilchos Talmud Torah"
+    },
+    "authors": [
+        "Shneur Zalman of Liadi"
+    ],
+    "compDate": "1785",
+    "errorMargin": "25",
+    "era": "A",
+    "heTitle": "הלכות תלמוד תורה",
+    "titleVariants": [
+        "hilchot talmud torah",
+        "Laws of Torah study",
+        "Hilchos Talmud Torah"
+    ],
+    "heTitleVariants": [
+        "הלכות תלמוד תורה",
+        "הלכות תלמוד תורה לאדמו\"ר הזקן",
+        "הלכות תלמוד תורה שולחן ערוך הרב"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Seif"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1760  - c.1810 CE)",
+        "he": " (1760 - 1810 לספירה בקירוב)"
+    }
+}

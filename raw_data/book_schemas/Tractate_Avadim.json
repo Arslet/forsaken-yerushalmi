@@ -1,0 +1,89 @@
+{
+    "title": "Tractate Avadim",
+    "categories": [
+        "Tanaitic",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מסכת עבדים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Abad."
+            },
+            {
+                "lang": "en",
+                "text": "Abadim"
+            },
+            {
+                "lang": "en",
+                "text": "‘Ăbadim"
+            },
+            {
+                "lang": "en",
+                "text": "Treat. Abadim"
+            },
+            {
+                "text": "Tractate Avadim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tractate Avadim",
+        "heTitle": "מסכת עבדים",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Tractate Avadim"
+    },
+    "authors": [],
+    "enDesc": "The minor tractates (Masekhtot Ketanot) are essays from the Tannaitic period or later dealing with topics about which no formal tractate exists in the Mishnah. The first eight or so contain much original material; the last seven or so are collections of material scattered throughout the Talmud. Soferim (Scribes). This tractate deals with issues relating to slaves.",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel/Babylon",
+    "errorMargin": "500",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "מסכת עבדים",
+    "titleVariants": [
+        "Abad.",
+        "Abadim",
+        "‘Ăbadim",
+        "Treat. Abadim",
+        "Tractate Avadim"
+    ],
+    "heTitleVariants": [
+        "מסכת עבדים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.100 BCE  - c.900 CE)",
+        "he": " (100 לפנה\"ס  - 900 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Beitzah",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            44,
+            128
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Beitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Beitsah"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Beitzah"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי ביצה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי ביצה"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Bets."
+            },
+            {
+                "text": "Jerusalem Talmud Beitzah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Beitzah",
+        "heTitle": "תלמוד ירושלמי ביצה",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Beitzah"
+    },
+    "order": [
+        19
+    ],
+    "authors": [],
+    "enDesc": "Bezah (Eggs) belongs to the second order, Moed (Festivals) and discusses the rules to be observed on Festivals. It has five chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי ביצה",
+    "titleVariants": [
+        "JT Beitzah",
+        "Talmud Yerushalmi Beitsah",
+        "Yerushalmi Beitzah",
+        "Y. Bets.",
+        "Jerusalem Talmud Beitzah"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי ביצה",
+        "ירושלמי ביצה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

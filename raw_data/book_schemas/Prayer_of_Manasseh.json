@@ -1,0 +1,64 @@
+{
+    "title": "Prayer of Manasseh",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תְּפִלַּת מְנַשֶׁה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "וִדּוּי שֶׁל מְנַשֶׁה הַמֶלֶךְ"
+            },
+            {
+                "text": "Prayer of Manasseh",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Prayer of Manasseh",
+        "heTitle": "תְּפִלַּת מְנַשֶׁה",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Prayer of Manasseh"
+    },
+    "authors": [],
+    "enDesc": "A short prayer of repentance attributed to Manasseh ben Hezekiah, 14th king of Judah.",
+    "heDesc": "בקשה למחילת חטאים המיוחסת למלך ה-13 של מלכות יהודה, מנשה בן חזקיה.",
+    "pubDate": "1455",
+    "compDate": "150 BCE",
+    "pubPlace": "Mainz, Germany",
+    "errorMargin": "400",
+    "heTitle": "תְּפִלַּת מְנַשֶׁה",
+    "titleVariants": [
+        "Prayer of Manasseh"
+    ],
+    "heTitleVariants": [
+        "תְּפִלַּת מְנַשֶׁה",
+        "וִדּוּי שֶׁל מְנַשֶׁה הַמֶלֶךְ"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרים חיצונים"
+    ]
+}

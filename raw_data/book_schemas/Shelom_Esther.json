@@ -1,0 +1,110 @@
+{
+    "title": "Shelom Esther",
+    "categories": [
+        "Tanakh",
+        "Commentary"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "lang": "en",
+                        "text": "Introduction"
+                    },
+                    {
+                        "primary": true,
+                        "lang": "he",
+                        "text": "פתיחה"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "פתיחה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Comment"
+                ],
+                "toc_zoom": 2,
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פירוש"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "שלום אסתר"
+            },
+            {
+                "text": "Shelom Esther",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shelom Esther",
+        "heTitle": "שלום אסתר",
+        "key": "Shelom Esther"
+    },
+    "authors": [
+        "Yitzhak ben Mordekhai Gershon"
+    ],
+    "enDesc": "A commentary on the Book of Esther.",
+    "pubDate": "1580",
+    "compDate": "1570",
+    "pubPlace": "Constantinople",
+    "errorMargin": "10",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Esther",
+            "he": "אסתר"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "heTitle": "שלום אסתר",
+    "titleVariants": [
+        "Shelom Esther"
+    ],
+    "heTitleVariants": [
+        "שלום אסתר"
+    ],
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים"
+    ],
+    "compDateString": {
+        "en": " (c.1560  - c.1580 CE)",
+        "he": " (1560 - 1580 לספירה בקירוב)"
+    }
+}

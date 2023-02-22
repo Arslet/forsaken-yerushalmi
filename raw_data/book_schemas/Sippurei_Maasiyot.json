@@ -1,0 +1,68 @@
+{
+    "title": "Sippurei Maasiyot",
+    "categories": [
+        "Chasidut",
+        "Breslov"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Section"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "ספורי מעשיות",
+                "primary": true
+            },
+            {
+                "text": "Sippurei Maasiyot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sippurei Maasiyot",
+        "heTitle": "ספורי מעשיות",
+        "heSectionNames": [
+            "פרק",
+            "חלק"
+        ],
+        "key": "Sippurei Maasiyot"
+    },
+    "authors": [
+        "Nathan Sternhartz"
+    ],
+    "enDesc": "Allegoric tales recounted by R' Nachman of Breslov and recorded by his disciple, R' Natan.",
+    "heDesc": "מעשיות בדרך משל שסיפר ר' נחמן מברסלב לתלמידו ר' נתן, שרשם אותם והוציאם לאור.",
+    "pubDate": "1816",
+    "compDate": "1810",
+    "pubPlace": "Ostroh",
+    "errorMargin": "7",
+    "era": "AH",
+    "heTitle": "ספורי מעשיות",
+    "titleVariants": [
+        "Sippurei Maasiyot"
+    ],
+    "heTitleVariants": [
+        "ספורי מעשיות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Section"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "חסידות",
+        "ברסלב"
+    ],
+    "compDateString": {
+        "en": " (c.1803  - c.1817 CE)",
+        "he": " (1803 - 1817 לספירה בקירוב)"
+    }
+}

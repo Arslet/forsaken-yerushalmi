@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Makkot",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            4
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Makot"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "T. Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "T. Makot"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Makot"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא מכות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Macc."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Makkot",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Makkot",
+        "heTitle": "תוספתא מכות",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Makkot"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Makkot (Lashes) belongs to the fourth order, Nezikin (The Order of Damages) and discusses collusive witnesses, cities of refuge and the punishment of lashes. It has four chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא מכות",
+    "titleVariants": [
+        "Tos. Makot",
+        "Tos. Makkot",
+        "T. Makkot",
+        "T. Makot",
+        "Tosefta Makot",
+        "Tosef. Macc.",
+        "Tosefta Makkot"
+    ],
+    "heTitleVariants": [
+        "תוספתא מכות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

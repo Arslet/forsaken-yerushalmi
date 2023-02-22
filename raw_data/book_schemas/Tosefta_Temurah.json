@@ -1,0 +1,104 @@
+{
+    "title": "Tosefta Temurah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Kodashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            4
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "T. Temurah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Temurah"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Tmurah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Tmurah"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא תמורה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Tem."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Temurah",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Temurah",
+        "heTitle": "תוספתא תמורה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Temurah"
+    },
+    "order": [
+        6
+    ],
+    "authors": [],
+    "enDesc": "Temurah (Substitution) belongs to the fifth order, Nezikin (The Order of Damages) and discusses the laws of what happens if an animal is substituted for an animal dedicated for a sacrifice. It has four chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא תמורה",
+    "titleVariants": [
+        "T. Temurah",
+        "Tos. Temurah",
+        "Tosefta Tmurah",
+        "Tos. Tmurah",
+        "Tosef. Tem.",
+        "Tosefta Temurah"
+    ],
+    "heTitleVariants": [
+        "תוספתא תמורה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר קדשים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

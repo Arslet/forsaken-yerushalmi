@@ -1,0 +1,115 @@
+{
+    "title": "Rashi on Yevamot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Yevamot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Yevamoth"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Yevamot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Yevamot"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על יבמות",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Yevamot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Yevamot",
+        "heTitle": "רש\"י על יבמות",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Yevamot"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1482",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Guadalajara, Spain",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Yevamot",
+            "he": "יבמות"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על יבמות",
+    "titleVariants": [
+        "Rashi on Talmud Yevamot",
+        "Rashi on Yevamoth",
+        "Rashi on Tractate Yevamot",
+        "Rashi on Masekhet Yevamot",
+        "Rashi on Yevamot"
+    ],
+    "heTitleVariants": [
+        "רש\"י על יבמות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

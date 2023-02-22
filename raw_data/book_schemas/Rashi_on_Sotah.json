@@ -1,0 +1,115 @@
+{
+    "title": "Rashi on Sotah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Sotah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Sota"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על סוטה",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Sotah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Sotah",
+        "heTitle": "רש\"י על סוטה",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Sotah"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Sotah",
+            "he": "סוטה"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על סוטה",
+    "titleVariants": [
+        "Rashi on Tractate Sotah",
+        "Rashi on Talmud Sotah",
+        "Rashi on Masekhet Sotah",
+        "Rashi on Sota",
+        "Rashi on Sotah"
+    ],
+    "heTitleVariants": [
+        "רש\"י על סוטה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

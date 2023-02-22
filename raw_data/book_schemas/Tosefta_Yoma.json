@@ -1,0 +1,94 @@
+{
+    "title": "Tosefta Yoma",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            4
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Yoma"
+            },
+            {
+                "lang": "en",
+                "text": "T. Yoma"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא יומא",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Yoma"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Yoma",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Yoma",
+        "heTitle": "תוספתא יומא",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Yoma"
+    },
+    "order": [
+        5
+    ],
+    "authors": [],
+    "enDesc": "Yoma (The Day) belongs to the second order, Moed (Festivals) and discusses the prescriptions Yom Kippur, especially the ceremony by the Kohen Gadol. It has four chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא יומא",
+    "titleVariants": [
+        "Tos. Yoma",
+        "T. Yoma",
+        "Tosef. Yoma",
+        "Tosefta Yoma"
+    ],
+    "heTitleVariants": [
+        "תוספתא יומא"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

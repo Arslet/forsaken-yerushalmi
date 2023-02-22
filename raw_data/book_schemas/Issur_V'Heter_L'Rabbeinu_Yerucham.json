@@ -1,0 +1,68 @@
+{
+    "title": "Issur V'Heter L'Rabbeinu Yerucham",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Siman",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "איסור והיתר לרבנו ירוחם",
+                "primary": true
+            },
+            {
+                "text": "Issur V'Heter L'Rabbeinu Yerucham",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Issur V'Heter L'Rabbeinu Yerucham",
+        "heTitle": "איסור והיתר לרבנו ירוחם",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Issur V'Heter L'Rabbeinu Yerucham"
+    },
+    "authors": [],
+    "enDesc": "Halakhic work on kosher dietary laws. The book is ‎organized into Simanim, each of which containing a question of halakhah relating to slaughtering and ‎preparing meat and prohibited and permitted food.‎",
+    "pubDate": "1881",
+    "compDate": "1340",
+    "compPlace": "Middle-Age Germany",
+    "pubPlace": "Livorno",
+    "errorMargin": "100",
+    "era": "RI",
+    "heTitle": "איסור והיתר לרבנו ירוחם",
+    "titleVariants": [
+        "Issur V'Heter L'Rabbeinu Yerucham"
+    ],
+    "heTitleVariants": [
+        "איסור והיתר לרבנו ירוחם"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1240  - c.1440 CE)",
+        "he": " (1240 - 1440 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Germany",
+        "he": "גרמניה של ימי הביניים"
+    }
+}

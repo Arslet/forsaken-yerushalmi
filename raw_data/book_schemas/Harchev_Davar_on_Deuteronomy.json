@@ -1,0 +1,89 @@
+{
+    "title": "Harchev Davar on Deuteronomy",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Harchev Davar",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Passuk"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "הרחב דבר על דברים",
+                "primary": true
+            },
+            {
+                "text": "Harchev Davar on Deuteronomy",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Harchev Davar on Deuteronomy",
+        "heTitle": "הרחב דבר על דברים",
+        "heSectionNames": [
+            "פרק",
+            ""
+        ],
+        "key": "Harchev Davar on Deuteronomy"
+    },
+    "authors": [
+        "Naphtali Zevi Yehudah Berlin"
+    ],
+    "enDesc": "Harchev Davar are the footnotes that the Netziv wrote to his commentary, Haamek Davar, delving more deeply into how to understand relevant rabbinic sources in light of his reading of the Torah.",
+    "pubDate": "1879",
+    "compDate": "1860",
+    "compPlace": "Valozhyn",
+    "pubPlace": "Vilna",
+    "errorMargin": "20",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy",
+            "he": "ספר דברים"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Harchev Davar",
+        "he": "הרחב דבר"
+    },
+    "is_cited": true,
+    "heTitle": "הרחב דבר על דברים",
+    "titleVariants": [
+        "Harchev Davar on Deuteronomy"
+    ],
+    "heTitleVariants": [
+        "הרחב דבר על דברים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Passuk"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "הרחב דבר",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1840  - c.1880 CE)",
+        "he": " (1840 - 1880 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Valozhyn",
+        "he": "וולוז'ין"
+    }
+}

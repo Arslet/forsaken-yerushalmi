@@ -1,0 +1,157 @@
+{
+    "title": "Mishneh Torah, Human Dispositions",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Madda"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            7
+        ],
+        "titles": [
+            {
+                "text": "Rambam, De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Laws of Human Dispositions",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Hilchot De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Laws of Human Dispositions",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Hilchot De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Human Dispositions",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam, Hilkhot De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Mishneh Torah, Hilkhot De'ot",
+                "lang": "en"
+            },
+            {
+                "text": "Rambam Hilchot Deot",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "משנה תורה, הלכות דעות",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם, הלכות דעות",
+                "lang": "he"
+            },
+            {
+                "text": "משנה תורה, הל' דעות",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם, הל' דעות",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם הלכות דעות",
+                "lang": "he"
+            },
+            {
+                "text": "רמב\"ם הל' דעות",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Mishneh Torah, Human Dispositions",
+                "lang": "en"
+            }
+        ],
+        "title": "Mishneh Torah, Human Dispositions",
+        "heTitle": "משנה תורה, הלכות דעות",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Human Dispositions"
+    },
+    "order": [
+        6,
+        2
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The first book is HaMadda (Knowledge): Deot: general proper behaviour",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות דעות",
+    "titleVariants": [
+        "Rambam, De'ot",
+        "Mishneh Torah, De'ot",
+        "Mishneh Torah, Laws of Human Dispositions",
+        "Rambam, Hilchot De'ot",
+        "Rambam, Laws of Human Dispositions",
+        "Mishneh Torah, Hilchot De'ot",
+        "Rambam, Human Dispositions",
+        "Rambam, Hilkhot De'ot",
+        "Mishneh Torah, Hilkhot De'ot",
+        "Rambam Hilchot Deot",
+        "Mishneh Torah, Human Dispositions"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות דעות",
+        "רמב\"ם, הלכות דעות",
+        "משנה תורה, הל' דעות",
+        "רמב\"ם, הל' דעות",
+        "רמב\"ם הלכות דעות",
+        "רמב\"ם הל' דעות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר מדע"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

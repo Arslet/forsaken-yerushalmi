@@ -1,0 +1,115 @@
+{
+    "title": "Jerusalem Talmud Demai",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            67,
+            145
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Dmai"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Demai"
+            },
+            {
+                "lang": "en",
+                "text": "JT Demai"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Dmai"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Demai"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי דמאי",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי דמאי"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Dem."
+            },
+            {
+                "text": "Jerusalem Talmud Demai",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Demai",
+        "heTitle": "תלמוד ירושלמי דמאי",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Demai"
+    },
+    "order": [
+        3
+    ],
+    "authors": [],
+    "enDesc": "Demai (Doubtful Produce) belongs to the first order, Zera'im (seeds) and discusses various cases in which it is not certain whether the priestly donations have been taken from produce. It consists of seven chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי דמאי",
+    "titleVariants": [
+        "JT Dmai",
+        "Talmud Yerushalmi Demai",
+        "JT Demai",
+        "Yerushalmi Dmai",
+        "Yerushalmi Demai",
+        "Y. Dem.",
+        "Jerusalem Talmud Demai"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי דמאי",
+        "ירושלמי דמאי"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

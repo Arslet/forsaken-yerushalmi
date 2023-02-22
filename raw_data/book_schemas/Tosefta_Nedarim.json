@@ -1,0 +1,94 @@
+{
+    "title": "Tosefta Nedarim",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            7
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Nedarim"
+            },
+            {
+                "lang": "en",
+                "text": "T. Nedarim"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא נדרים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Ned."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Nedarim",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Nedarim",
+        "heTitle": "תוספתא נדרים",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Nedarim"
+    },
+    "order": [
+        3
+    ],
+    "authors": [],
+    "enDesc": "Nedarim (Vows) belongs to the third order, Nashim (Women) and discusses various types of vows, often known as nedarim, and their legal consequence. It has seven chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא נדרים",
+    "titleVariants": [
+        "Tos. Nedarim",
+        "T. Nedarim",
+        "Tosef. Ned.",
+        "Tosefta Nedarim"
+    ],
+    "heTitleVariants": [
+        "תוספתא נדרים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

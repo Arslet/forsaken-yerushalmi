@@ -1,0 +1,147 @@
+{
+    "title": "Bamidbar Rabbah",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash",
+        "Midrash Rabbah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Numbers Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Bemidbar Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Bamidbar Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "B'midbar Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "B'midbar Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Numbers Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "midrash rabbah numbers"
+            },
+            {
+                "lang": "en",
+                "text": "Num. R."
+            },
+            {
+                "lang": "en",
+                "text": "Numeri Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Numb. R."
+            },
+            {
+                "lang": "en",
+                "text": "Bemidbar Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Num. Rab."
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "במדבר רבה"
+            },
+            {
+                "lang": "he",
+                "text": "במ\"ר"
+            },
+            {
+                "lang": "he",
+                "text": "במ״ר"
+            },
+            {
+                "text": "Bamidbar Rabbah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Bamidbar Rabbah",
+        "heTitle": "במדבר רבה",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Bamidbar Rabbah"
+    },
+    "order": [
+        4.0
+    ],
+    "authors": [],
+    "enDesc": "Bamidbar Rabbah (The Great Numbers) is a midrash comprising a collection of rabbinical homiletical interpretations of the Book of Genesis. It contains many simple explanations of words and sentences, often in Aramaic, suitable for the instruction of youth. It also contains varied haggadic expositions popular in the public lectures of the synagogues and schools. The tradition that Rabbi Hoshaiah is the author of Genesis Rabbah may be taken to mean that he began the work as numerous additions have been made over the subsequent years before it was redacted (4th-5th Century CE). The editor strung together various longer or shorter explanations and haggadic interpretations of the successive passages, sometimes anonymously, sometimes citing the author. Even then the text was probably not closed, for longer or shorter passages could always be added, the number of prefatory passages to a section be increased, and those existing be enlarged by accretion.  It is divided into sections variably numbered between 97-101. This arrangement shows some similarity with the triennial reading of the Torah as was practised in Israel.",
+    "heDesc": "",
+    "pubDate": "1512",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel/Babylon",
+    "pubPlace": "Constantinople",
+    "errorMargin": "200",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "במדבר רבה",
+    "titleVariants": [
+        "Numbers Rabbah",
+        "Bemidbar Rabba",
+        "Bamidbar Rabba",
+        "B'midbar Rabba",
+        "B'midbar Rabbah",
+        "Numbers Rabba",
+        "midrash rabbah numbers",
+        "Num. R.",
+        "Numeri Rabbah",
+        "Numb. R.",
+        "Bemidbar Rabbah",
+        "Num. Rab.",
+        "Bamidbar Rabbah"
+    ],
+    "heTitleVariants": [
+        "במדבר רבה",
+        "במ\"ר",
+        "במ״ר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה",
+        "מדרש רבה"
+    ],
+    "compDateString": {
+        "en": " (c.200  - c.600 CE)",
+        "he": " (200 - 600 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

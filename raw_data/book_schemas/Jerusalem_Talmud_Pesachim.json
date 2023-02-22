@@ -1,0 +1,125 @@
+{
+    "title": "Jerusalem Talmud Pesachim",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            142,
+            295
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Pesachim"
+            },
+            {
+                "lang": "en",
+                "text": "JT Pesachim"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Psachim"
+            },
+            {
+                "lang": "en",
+                "text": "JT Psachim"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Pesachim"
+            },
+            {
+                "lang": "en",
+                "text": "Jerusalem Talmud Pesahim"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Pesahim"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי פסחים",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי פסחים"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Pes."
+            },
+            {
+                "text": "Jerusalem Talmud Pesachim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Pesachim",
+        "heTitle": "תלמוד ירושלמי פסחים",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Pesachim"
+    },
+    "order": [
+        14
+    ],
+    "authors": [],
+    "enDesc": "Pesahim (Passover Festivals) belongs to the second order, Moed (Festivals) and discusses the prescriptions regarding the Passover and the paschal sacrifice. It has ten chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי פסחים",
+    "titleVariants": [
+        "Talmud Yerushalmi Pesachim",
+        "JT Pesachim",
+        "Yerushalmi Psachim",
+        "JT Psachim",
+        "Yerushalmi Pesachim",
+        "Jerusalem Talmud Pesahim",
+        "Yerushalmi Pesahim",
+        "Y. Pes.",
+        "Jerusalem Talmud Pesachim"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי פסחים",
+        "ירושלמי פסחים"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

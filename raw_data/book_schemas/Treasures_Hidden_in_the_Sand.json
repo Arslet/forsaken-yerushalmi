@@ -1,0 +1,260 @@
+{
+    "title": "Treasures Hidden in the Sand",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Title Page",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "שער",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Title Page",
+                "heTitle": "שער",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Title Page"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "default"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "The Objections",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "הטענות",
+                        "lang": "he"
+                    }
+                ],
+                "title": "The Objections",
+                "heTitle": "הטענות",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "The Objections"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "primary": true,
+                                "text": "Where the Hillazon can be found",
+                                "lang": "en"
+                            },
+                            {
+                                "primary": true,
+                                "text": "סימן א; לבאר מקום מציאות החלזון",
+                                "lang": "he"
+                            }
+                        ],
+                        "title": "Where the Hillazon can be found",
+                        "heTitle": "סימן א; לבאר מקום מציאות החלזון",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Where the Hillazon can be found"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "primary": true,
+                                "text": "The signs of the Hillazon",
+                                "lang": "en"
+                            },
+                            {
+                                "primary": true,
+                                "text": "סימן ב; בסימני החלזון",
+                                "lang": "he"
+                            }
+                        ],
+                        "title": "The signs of the Hillazon",
+                        "heTitle": "סימן ב; בסימני החלזון",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "The signs of the Hillazon"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "primary": true,
+                                "text": "The appearance of the Techelet",
+                                "lang": "en"
+                            },
+                            {
+                                "primary": true,
+                                "text": "סימן ג; במראה התכלת",
+                                "lang": "he"
+                            }
+                        ],
+                        "title": "The appearance of the Techelet",
+                        "heTitle": "סימן ג; במראה התכלת",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "The appearance of the Techelet"
+                    }
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "The signs according to Chazal",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "הסימנים לפי חז\"ל",
+                        "lang": "he"
+                    }
+                ],
+                "title": "The signs according to Chazal",
+                "heTitle": "הסימנים לפי חז\"ל",
+                "key": "The signs according to Chazal"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "מאמר שפוני טמוני חול",
+                "lang": "he"
+            },
+            {
+                "text": "Treasures Hidden in the Sand",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Treasures Hidden in the Sand",
+        "heTitle": "מאמר שפוני טמוני חול",
+        "key": "Treasures Hidden in the Sand"
+    },
+    "authors": [
+        "Gershon Henoch Leiner of Radzin"
+    ],
+    "enDesc": "Thesis by the Grand Rabbi Gershon Henoch Leiner, the Radziner Rebbe (known as \"Baal Hat'chelet\"), concluding that Sepia officinalis (common cuttlefish) meets many of the criteria of t'chelet. English translation by Menachem Kalish and David Herzberg.",
+    "heDesc": "מאמר מאת הרב גרשון חנוך ליינר, האדמו\"ר מראדזין (המכונה \"בעל התכלת\"), המסכם כי \"דיונון הרוקחים\" (שם מדעי: Sepia officinalis) עונה על קריטריונים רבים של התכלת למצוות ציצית.",
+    "pubDate": "1887",
+    "compDate": "1883",
+    "pubPlace": "Warsaw",
+    "era": "AH",
+    "heTitle": "מאמר שפוני טמוני חול",
+    "titleVariants": [
+        "Treasures Hidden in the Sand"
+    ],
+    "heTitleVariants": [
+        "מאמר שפוני טמוני חול"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (1883 CE)",
+        "he": " (1883 לספירה)"
+    }
+}

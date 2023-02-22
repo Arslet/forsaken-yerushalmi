@@ -1,0 +1,152 @@
+{
+    "title": "Mishneh Torah, Torah Study",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Sefer Madda"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "lengths": [
+            7
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Laws of Torah Study"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Talmud Torah"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilchot Talmud Torah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Talmud Torah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Laws of Torah Study"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilchot Talmud Torah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Torah Study"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הלכות תלמוד תורה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הלכות תלמוד תורה"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Hilkhot Talmud Torah"
+            },
+            {
+                "lang": "en",
+                "text": "Rambam, Hilkhot Talmud Torah"
+            },
+            {
+                "lang": "he",
+                "text": "משנה תורה, הל' תלמוד תורה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם, הל' תלמוד תורה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הלכות תלמוד תורה"
+            },
+            {
+                "lang": "he",
+                "text": "רמב\"ם הל' תלמוד תורה"
+            },
+            {
+                "lang": "en",
+                "text": "Mishneh Torah, Torah Study",
+                "primary": true
+            }
+        ],
+        "title": "Mishneh Torah, Torah Study",
+        "heTitle": "משנה תורה, הלכות תלמוד תורה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Mishneh Torah, Torah Study"
+    },
+    "order": [
+        7,
+        3
+    ],
+    "authors": [
+        "Rambam"
+    ],
+    "enDesc": "The first book is HaMadda (Knowledge): Talmud Torah: see Torah study",
+    "pubDate": "1474",
+    "compDate": "1177",
+    "compPlace": "Middle-Age Egypt",
+    "pubPlace": "Rome",
+    "errorMargin": "1",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "משנה תורה, הלכות תלמוד תורה",
+    "titleVariants": [
+        "Mishneh Torah, Laws of Torah Study",
+        "Mishneh Torah, Talmud Torah",
+        "Mishneh Torah, Hilchot Talmud Torah",
+        "Rambam, Talmud Torah",
+        "Rambam, Laws of Torah Study",
+        "Rambam, Hilchot Talmud Torah",
+        "Rambam, Torah Study",
+        "Mishneh Torah, Hilkhot Talmud Torah",
+        "Rambam, Hilkhot Talmud Torah",
+        "Mishneh Torah, Torah Study"
+    ],
+    "heTitleVariants": [
+        "משנה תורה, הלכות תלמוד תורה",
+        "רמב\"ם, הלכות תלמוד תורה",
+        "משנה תורה, הל' תלמוד תורה",
+        "רמב\"ם, הל' תלמוד תורה",
+        "רמב\"ם הלכות תלמוד תורה",
+        "רמב\"ם הל' תלמוד תורה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "ספר מדע"
+    ],
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)",
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age Egypt",
+        "he": "מצרים של ימי הביניים"
+    }
+}

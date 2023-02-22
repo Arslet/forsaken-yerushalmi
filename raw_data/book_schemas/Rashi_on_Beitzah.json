@@ -1,0 +1,120 @@
+{
+    "title": "Rashi on Beitzah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Beitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Beitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Beitzah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Beiah"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Beitza"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על ביצה",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Beitzah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Beitzah",
+        "heTitle": "רש\"י על ביצה",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Beitzah"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1484",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Soncino",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Beitzah",
+            "he": "ביצה"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על ביצה",
+    "titleVariants": [
+        "Rashi on Talmud Beitzah",
+        "Rashi on Masekhet Beitzah",
+        "Rashi on Tractate Beitzah",
+        "Rashi on Beiah",
+        "Rashi on Beitza",
+        "Rashi on Beitzah"
+    ],
+    "heTitleVariants": [
+        "רש\"י על ביצה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

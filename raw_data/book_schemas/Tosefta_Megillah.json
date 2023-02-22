@@ -1,0 +1,104 @@
+{
+    "title": "Tosefta Megillah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            3
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Megilah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Megilah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Megillah"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא מגילה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Meg."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Megillah",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Megillah",
+        "heTitle": "תוספתא מגילה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Megillah"
+    },
+    "order": [
+        10
+    ],
+    "authors": [],
+    "enDesc": "Megillah (Scroll) belongs to the second order, Moed (Festivals) and discusses regulations and prescriptions regarding the reading of the scroll of Esther at Purim, and the reading of other passages from the Torah and Neviim in the synagogue. It has three chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא מגילה",
+    "titleVariants": [
+        "Tos. Megillah",
+        "Tosefta Megilah",
+        "Tos. Megilah",
+        "T. Megillah",
+        "Tosef. Meg.",
+        "Tosefta Megillah"
+    ],
+    "heTitleVariants": [
+        "תוספתא מגילה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

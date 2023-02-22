@@ -1,0 +1,110 @@
+{
+    "title": "Jerusalem Talmud Makkot",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            18,
+            55
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Yerushalmi Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "JT Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Makkot"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי מכות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי מכות"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Macc."
+            },
+            {
+                "text": "Jerusalem Talmud Makkot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Makkot",
+        "heTitle": "תלמוד ירושלמי מכות",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Makkot"
+    },
+    "order": [
+        37
+    ],
+    "authors": [],
+    "enDesc": "Makkot (Lashes) belongs to the fourth order, Nezikin (The Order of Damages) and discusses collusive witnesses, cities of refuge and the punishment of lashes. It has three chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי מכות",
+    "titleVariants": [
+        "Yerushalmi Makkos",
+        "JT Makkot",
+        "Talmud Yerushalmi Makkot",
+        "Yerushalmi Makkot",
+        "Y. Macc.",
+        "Jerusalem Talmud Makkot"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי מכות",
+        "ירושלמי מכות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

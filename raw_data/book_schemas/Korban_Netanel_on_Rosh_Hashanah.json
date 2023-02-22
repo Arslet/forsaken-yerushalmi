@@ -1,0 +1,90 @@
+{
+    "title": "Korban Netanel on Rosh Hashanah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Korban Netanel",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Seif",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Seif",
+            "siman"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": " קרבן נתנאל על ראש השנה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Korban Netanel on Rosh Hashanah",
+                "primary": true
+            }
+        ],
+        "title": "Korban Netanel on Rosh Hashanah",
+        "heTitle": " קרבן נתנאל על ראש השנה",
+        "heSectionNames": [
+            "סעיף",
+            ""
+        ],
+        "key": "Korban Netanel on Rosh Hashanah"
+    },
+    "authors": [
+        "Nathaniel Weil"
+    ],
+    "enDesc": "Commentary of Rabbi Nathaniel Weil (Germany, 1687 –1769) on Rabbi Asher ben Yehiel’s \"Piskei HaRosh\".",
+    "pubDate": "1755",
+    "compDate": "1750",
+    "compPlace": "Mühringen",
+    "pubPlace": "Karlsruhe",
+    "errorMargin": "5",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Rosh Hashanah",
+            "he": "ראש השנה"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Korban Netanel",
+        "he": "קרבן נתנאל"
+    },
+    "heTitle": " קרבן נתנאל על ראש השנה",
+    "titleVariants": [
+        "Korban Netanel on Rosh Hashanah"
+    ],
+    "heTitleVariants": [
+        " קרבן נתנאל על ראש השנה"
+    ],
+    "sectionNames": [
+        "Seif",
+        "siman"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "קרבן נתנאל",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.1745  - c.1755 CE)",
+        "he": " (1745 - 1755 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Mühringen",
+        "he": "Mühringen"
+    }
+}

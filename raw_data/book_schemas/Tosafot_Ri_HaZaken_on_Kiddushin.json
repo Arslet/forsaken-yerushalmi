@@ -1,0 +1,87 @@
+{
+    "title": "Tosafot Ri HaZaken on Kiddushin",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Tosafot Ri HaZaken",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "תוספות ר\"י הזקן על קידושין"
+            },
+            {
+                "text": "Tosafot Ri HaZaken on Kiddushin",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tosafot Ri HaZaken on Kiddushin",
+        "heTitle": "תוספות ר\"י הזקן על קידושין",
+        "heSectionNames": [
+            "דף",
+            "פירוש"
+        ],
+        "key": "Tosafot Ri HaZaken on Kiddushin"
+    },
+    "authors": [
+        "Isaac ben Samuel of Dampierre"
+    ],
+    "enDesc": "The commentary of one of the main leaders of the French school of Tosafists, Rabbi Yitzchak (known by his initials as RI) of Dampierre.",
+    "compDate": "1150",
+    "compPlace": "Middle-Age France",
+    "errorMargin": "20",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Kiddushin",
+            "he": "קידושין"
+        }
+    ],
+    "collective_title": {
+        "en": "Tosafot Ri HaZaken",
+        "he": "תוספות ר\"י הזקן"
+    },
+    "heTitle": "תוספות ר\"י הזקן על קידושין",
+    "titleVariants": [
+        "Tosafot Ri HaZaken on Kiddushin"
+    ],
+    "heTitleVariants": [
+        "תוספות ר\"י הזקן על קידושין"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Comment"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "תוספות ר\"י הזקן",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1130  - c.1170 CE)",
+        "he": " (1130 - 1170 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

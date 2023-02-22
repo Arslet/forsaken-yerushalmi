@@ -1,0 +1,239 @@
+{
+    "title": "Jastrow",
+    "categories": [
+        "Reference"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "DictionaryNode",
+                "lexiconName": "Jastrow Dictionary",
+                "firstWord": "א",
+                "lastWord": "תתנא",
+                "headwordMap": [
+                    [
+                        "א",
+                        "Jastrow, א"
+                    ],
+                    [
+                        "ב",
+                        "Jastrow, ב"
+                    ],
+                    [
+                        "ג",
+                        "Jastrow, ג"
+                    ],
+                    [
+                        "ד",
+                        "Jastrow, ד"
+                    ],
+                    [
+                        "ה",
+                        "Jastrow, ה"
+                    ],
+                    [
+                        "ו",
+                        "Jastrow, ו"
+                    ],
+                    [
+                        "ז",
+                        "Jastrow, ז"
+                    ],
+                    [
+                        "ח",
+                        "Jastrow, ח"
+                    ],
+                    [
+                        "ט",
+                        "Jastrow, ט"
+                    ],
+                    [
+                        "י",
+                        "Jastrow, י"
+                    ],
+                    [
+                        "כ",
+                        "Jastrow, כ"
+                    ],
+                    [
+                        "ל",
+                        "Jastrow, ל"
+                    ],
+                    [
+                        "מ",
+                        "Jastrow, מ"
+                    ],
+                    [
+                        "נ",
+                        "Jastrow, נ"
+                    ],
+                    [
+                        "ס",
+                        "Jastrow, ס"
+                    ],
+                    [
+                        "ע",
+                        "Jastrow, ע"
+                    ],
+                    [
+                        "פ",
+                        "Jastrow, פ"
+                    ],
+                    [
+                        "צ",
+                        "Jastrow, צ"
+                    ],
+                    [
+                        "ק",
+                        "Jastrow, ק"
+                    ],
+                    [
+                        "ר",
+                        "Jastrow, ר"
+                    ],
+                    [
+                        "ש",
+                        "Jastrow, שׁ"
+                    ],
+                    [
+                        "ת",
+                        "Jastrow, ת"
+                    ]
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": ""
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "lang": "he",
+                        "text": "הקדמה"
+                    },
+                    {
+                        "primary": true,
+                        "lang": "en",
+                        "text": "Preface"
+                    }
+                ],
+                "title": "Preface",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Preface"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Line"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "lang": "he",
+                        "text": "קיצורים בעברית או בארמית"
+                    },
+                    {
+                        "primary": true,
+                        "lang": "en",
+                        "text": "Hebrew or Aramaic Abbreviations"
+                    }
+                ],
+                "title": "Hebrew or Aramaic Abbreviations",
+                "heTitle": "קיצורים בעברית או בארמית",
+                "heSectionNames": [
+                    "שורה"
+                ],
+                "key": "Hebrew or Aramaic Abbreviations"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Line"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "lang": "he",
+                        "text": "רשימת קיצורים"
+                    },
+                    {
+                        "primary": true,
+                        "lang": "en",
+                        "text": "List of Abbreviations"
+                    }
+                ],
+                "title": "List of Abbreviations",
+                "heTitle": "רשימת קיצורים",
+                "heSectionNames": [
+                    "שורה"
+                ],
+                "key": "List of Abbreviations"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "מילון יסטרוב"
+            },
+            {
+                "primary": true,
+                "lang": "en",
+                "text": "Jastrow"
+            }
+        ],
+        "title": "Jastrow",
+        "heTitle": "מילון יסטרוב",
+        "key": "Jastrow"
+    },
+    "order": [],
+    "authors": [
+        "Marcus Jastrow"
+    ],
+    "enDesc": "A Dictionary of the Targumim, the Talmud Bavli and Yerushalmi, and the Midrashic Literature",
+    "pubDate": "1903",
+    "compDate": "1893",
+    "compPlace": "Philadelphia",
+    "pubPlace": "New York",
+    "errorMargin": "10",
+    "era": "CO",
+    "is_cited": false,
+    "lexiconName": "Jastrow Dictionary",
+    "heTitle": "מילון יסטרוב",
+    "titleVariants": [
+        "Jastrow"
+    ],
+    "heTitleVariants": [
+        "מילון יסטרוב"
+    ],
+    "heCategories": [
+        "עיון"
+    ],
+    "compDateString": {
+        "en": " (c.1883  - c.1903 CE)",
+        "he": " (1883 - 1903 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Philadelphia",
+        "he": "פילדלפיה"
+    }
+}

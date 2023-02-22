@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Nazir",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            94,
+            190
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Nazir"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Nazir"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Nazir"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי נזיר",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי נזיר"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Naz."
+            },
+            {
+                "text": "Jerusalem Talmud Nazir",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Nazir",
+        "heTitle": "תלמוד ירושלמי נזיר",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Nazir"
+    },
+    "order": [
+        28
+    ],
+    "authors": [],
+    "enDesc": "Nazir (One who abstains) belongs to the third order, Nashim (Women) and discusses details of the Nazirite vow and being a Nazirite (Num 6). It has nine chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי נזיר",
+    "titleVariants": [
+        "JT Nazir",
+        "Talmud Yerushalmi Nazir",
+        "Yerushalmi Nazir",
+        "Y. Naz.",
+        "Jerusalem Talmud Nazir"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי נזיר",
+        "ירושלמי נזיר"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

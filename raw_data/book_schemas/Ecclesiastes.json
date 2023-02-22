@@ -1,0 +1,117 @@
+{
+    "title": "Ecclesiastes",
+    "categories": [
+        "Tanakh",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            12,
+            222
+        ],
+        "titles": [
+            {
+                "text": "Eccles.",
+                "lang": "en"
+            },
+            {
+                "text": "Ecc",
+                "lang": "en"
+            },
+            {
+                "text": "Kohelet",
+                "lang": "en"
+            },
+            {
+                "text": "Ecc.",
+                "lang": "en"
+            },
+            {
+                "text": "Koheleth",
+                "lang": "en"
+            },
+            {
+                "text": "Koh.",
+                "lang": "en"
+            },
+            {
+                "text": "Eccl.",
+                "lang": "en"
+            },
+            {
+                "text": "קהלת",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "קוהלת",
+                "lang": "he"
+            },
+            {
+                "text": "Ecclesiastes",
+                "primary": true,
+                "lang": "en"
+            }
+        ],
+        "title": "Ecclesiastes",
+        "heTitle": "קהלת",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Ecclesiastes"
+    },
+    "order": [
+        33,
+        7
+    ],
+    "enDesc": "Qoheleth (Book of Ecclesiastes ) is the fourth of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). It proceeds to discuss the meaning of life and the best way of life. He proclaims all the actions of man to be inherently hevel, meaning \"vain\", \"futile\", \"empty\", \"meaningless\", \"temporary\", \"transitory\", \"fleeting\", or \"mere breath,\" as the lives of both wise and foolish people end in death. While Koheleth clearly endorses wisdom as a means for a well-lived earthly life, he does not ascribe eternal meaning to it. In light of this senselessness, one should enjoy the simple pleasures of daily life, such as eating, drinking, and taking enjoyment in one's work, which are gifts from the hand of God. The book concludes with the injunction: \"Fear God, and keep his commandments; for that is the whole duty of everyone\" (12:13). The author \"Koheleth\" uses a literary device to introduce himself as \"son of David king in Jerusalem\" - Solomon. It is read by Yemenite and Ashkenazi Jews during Sukkot.",
+    "pubDate": "1488",
+    "compDate": "-500",
+    "compPlace": "Judea/Israel",
+    "pubPlace": "Soncino",
+    "errorMargin": "400",
+    "is_cited": true,
+    "heTitle": "קהלת",
+    "titleVariants": [
+        "Eccles.",
+        "Ecc",
+        "Kohelet",
+        "Ecc.",
+        "Koheleth",
+        "Koh.",
+        "Eccl.",
+        "Ecclesiastes"
+    ],
+    "heTitleVariants": [
+        "קהלת",
+        "קוהלת"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.900  - c.100 BCE)",
+        "he": " (900 - 100 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Judea/Israel",
+        "he": "יהודה / ישראל"
+    }
+}

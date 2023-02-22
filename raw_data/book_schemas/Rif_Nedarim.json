@@ -1,0 +1,91 @@
+{
+    "title": "Rif Nedarim",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rif",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "רי\"ף נדרים",
+                "primary": true
+            },
+            {
+                "text": "Rif Nedarim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rif Nedarim",
+        "heTitle": "רי\"ף נדרים",
+        "heSectionNames": [
+            "דף",
+            "שורה"
+        ],
+        "key": "Rif Nedarim"
+    },
+    "authors": [
+        "Rif"
+    ],
+    "enDesc": "Hilchot HaRif or Sefer HaHalachot, written by Isaac ben Jacob Alfasi ha-Cohen (1013–1103) compiles the legal decisions from the tractates of the Talmud relating to halakha that was practiced in his day. The Rif recorded the halakhic rulings without the discussions surrounding them. He also excluded all non-halakhic material. The Rif became the basis of many later works.",
+    "heDesc": "הלכות הריף או \"ספר ההלכות\", שנכתב על ידי יצחק בן יעקב אלפסי הכהן (1013-1103), מסכם את ההכרעות הנוגעות להלכה במסכתות התלמוד ללא הדיונים ומשא ומתן הארוך. ",
+    "pubDate": "1490",
+    "compDate": "1095",
+    "compPlace": "North Africa",
+    "errorMargin": "10",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Nedarim",
+            "he": "נדרים"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Rif",
+        "he": "רי\"ף"
+    },
+    "is_cited": true,
+    "heTitle": "רי\"ף נדרים",
+    "titleVariants": [
+        "Rif Nedarim"
+    ],
+    "heTitleVariants": [
+        "רי\"ף נדרים"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רי\"ף",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.1085  - c.1105 CE)",
+        "he": " (1085 - 1105 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "North Africa",
+        "he": "צפון אפריקה"
+    }
+}

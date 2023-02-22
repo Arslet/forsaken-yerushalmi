@@ -1,0 +1,130 @@
+{
+    "title": "Rashi on Keritot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Rashi",
+        "Seder Kodashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Keritot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Keritot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Keritot"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Keritut"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Talmud Keritut"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Masekhet Keritut"
+            },
+            {
+                "lang": "en",
+                "text": "Rashi on Tractate Keritut"
+            },
+            {
+                "lang": "he",
+                "text": "רש\"י על כריתות",
+                "primary": true
+            },
+            {
+                "text": "Rashi on Keritot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashi on Keritot",
+        "heTitle": "רש\"י על כריתות",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Rashi on Keritot"
+    },
+    "authors": [
+        "Rashi"
+    ],
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.",
+    "pubDate": "1520",
+    "compDate": "1090",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Keritot",
+            "he": "כריתות"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashi",
+        "he": "רש\"י"
+    },
+    "is_cited": true,
+    "heTitle": "רש\"י על כריתות",
+    "titleVariants": [
+        "Rashi on Talmud Keritot",
+        "Rashi on Masekhet Keritot",
+        "Rashi on Tractate Keritot",
+        "Rashi on Keritut",
+        "Rashi on Talmud Keritut",
+        "Rashi on Masekhet Keritut",
+        "Rashi on Tractate Keritut",
+        "Rashi on Keritot"
+    ],
+    "heTitleVariants": [
+        "רש\"י על כריתות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "רש\"י",
+        "סדר קדשים"
+    ],
+    "compDateString": {
+        "en": " (c.1065  - c.1115 CE)",
+        "he": " (1065 - 1115 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

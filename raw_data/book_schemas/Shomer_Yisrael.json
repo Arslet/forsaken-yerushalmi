@@ -1,0 +1,71 @@
+{
+    "title": "Shomer Yisrael",
+    "categories": [
+        "Halakhah",
+        "Avodat HaKodesh (Chida)"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "שומר ישראל"
+            },
+            {
+                "text": "Shomer Yisrael",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shomer Yisrael",
+        "heTitle": "שומר ישראל",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Shomer Yisrael"
+    },
+    "order": [
+        7
+    ],
+    "authors": [
+        "Hayyim Joseph David Azulay"
+    ],
+    "enDesc": "Prayers for spiritual protection, compiled by Chida.",
+    "heDesc": "תפילות לשמירה ממזיקים רוחניים מלוקטים על ידי ר' חיים יוסף דוד אזולאי (חיד\"א).",
+    "pubDate": "1815-1816",
+    "compDate": "1780",
+    "pubPlace": "Pisa, Italy",
+    "errorMargin": "12",
+    "era": "AH",
+    "heTitle": "שומר ישראל",
+    "titleVariants": [
+        "Shomer Yisrael"
+    ],
+    "heTitleVariants": [
+        "שומר ישראל"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "עבודת הקודש - חיד“א"
+    ],
+    "compDateString": {
+        "en": " (c.1768  - c.1792 CE)",
+        "he": " (1768 - 1792 לספירה בקירוב)"
+    }
+}

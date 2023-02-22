@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Niddah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Tahorot"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            9
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Nidah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Niddah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Niddah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Nidah"
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Nidah"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא נדה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Nidd."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Niddah",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Niddah",
+        "heTitle": "תוספתא נדה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Niddah"
+    },
+    "order": [
+        7
+    ],
+    "authors": [],
+    "enDesc": "Niddah (Separation) belongs to the sixth order, Tahorot (Purities) and discusses a Niddah, a woman either during her menstrual cycle or shortly after having given birth. It has nine chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא נדה",
+    "titleVariants": [
+        "Tos. Nidah",
+        "Tos. Niddah",
+        "T. Niddah",
+        "T. Nidah",
+        "Tosefta Nidah",
+        "Tosef. Nidd.",
+        "Tosefta Niddah"
+    ],
+    "heTitleVariants": [
+        "תוספתא נדה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר טהרות"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

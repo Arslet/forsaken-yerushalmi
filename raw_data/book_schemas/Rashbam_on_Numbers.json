@@ -1,0 +1,163 @@
+{
+    "title": "Rashbam on Numbers",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Rashbam",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Shumel ben Meir on Num."
+            },
+            {
+                "lang": "en",
+                "text": "Shumel ben Meir on Num"
+            },
+            {
+                "lang": "en",
+                "text": "Shumel ben Meir on Bamidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Shumel ben Meir on Bemidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Shumel ben Meir on Numbers"
+            },
+            {
+                "lang": "en",
+                "text": "Samuel ben Meir on Num."
+            },
+            {
+                "lang": "en",
+                "text": "Samuel ben Meir on Num"
+            },
+            {
+                "lang": "en",
+                "text": "Samuel ben Meir on Bamidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Samuel ben Meir on Bemidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Samuel ben Meir on Numbers"
+            },
+            {
+                "lang": "en",
+                "text": "Rashbam on Num."
+            },
+            {
+                "lang": "en",
+                "text": "Rashbam on Num"
+            },
+            {
+                "lang": "en",
+                "text": "Rashbam on Bamidbar"
+            },
+            {
+                "lang": "en",
+                "text": "Rashbam on Bemidbar"
+            },
+            {
+                "lang": "he",
+                "text": "רשב\"ם על במדבר",
+                "primary": true
+            },
+            {
+                "text": "Rashbam on Numbers",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Rashbam on Numbers",
+        "heTitle": "רשב\"ם על במדבר",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Rashbam on Numbers"
+    },
+    "authors": [
+        "Rashbam"
+    ],
+    "enDesc": "Commentary written by Rabbi Shmuel ben Meir, Rashbam (France, c.1080 - c.1160). Rashbam, a grandson of Rashi, was part of the Tosafist school. Whereas Rashi famously claimed that his commentary would present the pshat (contextual meaning) of the text, when in reality it relies heavily on midrash; Rashbam’s commentary actually stays very loyal to the pshat. ",
+    "pubDate": "1705",
+    "compDate": "1140",
+    "compPlace": "Middle-Age France",
+    "pubPlace": "Berlin",
+    "errorMargin": "20",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Numbers",
+            "he": "במדבר"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Rashbam",
+        "he": "רשב\"ם"
+    },
+    "is_cited": true,
+    "heTitle": "רשב\"ם על במדבר",
+    "titleVariants": [
+        "Shumel ben Meir on Num.",
+        "Shumel ben Meir on Num",
+        "Shumel ben Meir on Bamidbar",
+        "Shumel ben Meir on Bemidbar",
+        "Shumel ben Meir on Numbers",
+        "Samuel ben Meir on Num.",
+        "Samuel ben Meir on Num",
+        "Samuel ben Meir on Bamidbar",
+        "Samuel ben Meir on Bemidbar",
+        "Samuel ben Meir on Numbers",
+        "Rashbam on Num.",
+        "Rashbam on Num",
+        "Rashbam on Bamidbar",
+        "Rashbam on Bemidbar",
+        "Rashbam on Numbers"
+    ],
+    "heTitleVariants": [
+        "רשב\"ם על במדבר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "רשב\"ם",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1120  - c.1160 CE)",
+        "he": " (1120 - 1160 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France",
+        "he": "צרפת של ימי הביניים"
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "title": "Ein HaTekhelet",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Seif",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Seif",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "First Article",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "פרט הראשון",
+                        "primary": true
+                    }
+                ],
+                "title": "First Article",
+                "heTitle": "פרט הראשון",
+                "heSectionNames": [
+                    "סעיף",
+                    "פסקה"
+                ],
+                "key": "First Article"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Seif",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Seif",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Second Article",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "פרט השני",
+                        "primary": true
+                    }
+                ],
+                "title": "Second Article",
+                "heTitle": "פרט השני",
+                "heSectionNames": [
+                    "סעיף",
+                    "פסקה"
+                ],
+                "key": "Second Article"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Seif",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Seif",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Third Article",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "פרט השלישי",
+                        "primary": true
+                    }
+                ],
+                "title": "Third Article",
+                "heTitle": "פרט השלישי",
+                "heSectionNames": [
+                    "סעיף",
+                    "פסקה"
+                ],
+                "key": "Third Article"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "עין התכלת",
+                "primary": true
+            },
+            {
+                "text": "Ein HaTekhelet",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ein HaTekhelet",
+        "heTitle": "עין התכלת",
+        "key": "Ein HaTekhelet"
+    },
+    "authors": [
+        "Gershon Henoch Leiner of Radzin"
+    ],
+    "pubDate": "1891",
+    "compDate": "1870",
+    "pubPlace": "Warsaw",
+    "errorMargin": "20",
+    "era": "AH",
+    "heTitle": "עין התכלת",
+    "titleVariants": [
+        "Ein HaTekhelet"
+    ],
+    "heTitleVariants": [
+        "עין התכלת"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1850  - c.1890 CE)",
+        "he": " (1850 - 1890 לספירה בקירוב)"
+    }
+}

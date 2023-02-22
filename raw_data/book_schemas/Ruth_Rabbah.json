@@ -1,0 +1,129 @@
+{
+    "title": "Ruth Rabbah",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash",
+        "Midrash Rabbah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "lang": "en",
+                        "text": "Petichta"
+                    },
+                    {
+                        "primary": true,
+                        "lang": "he",
+                        "text": "פתיחתא"
+                    }
+                ],
+                "title": "Petichta",
+                "heTitle": "פתיחתא",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Petichta"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Midrash"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "מדרש"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Rut Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Ruth Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Rut Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Ruth R."
+            },
+            {
+                "lang": "en",
+                "text": "Ruth Rab."
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "רות רבה"
+            },
+            {
+                "text": "Ruth Rabbah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ruth Rabbah",
+        "heTitle": "רות רבה",
+        "key": "Ruth Rabbah"
+    },
+    "order": [
+        7.0
+    ],
+    "authors": [],
+    "enDesc": "A classic book of midrash on the Book of Ruth. ",
+    "heDesc": "",
+    "pubDate": "",
+    "compDate": "400",
+    "compPlace": "",
+    "pubPlace": "",
+    "errorMargin": "200",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "רות רבה",
+    "titleVariants": [
+        "Rut Rabbah",
+        "Ruth Rabba",
+        "Rut Rabba",
+        "Ruth R.",
+        "Ruth Rab.",
+        "Ruth Rabbah"
+    ],
+    "heTitleVariants": [
+        "רות רבה"
+    ],
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה",
+        "מדרש רבה"
+    ],
+    "compDateString": {
+        "en": " (c.200  - c.600 CE)",
+        "he": " (200 - 600 לספירה בקירוב)"
+    }
+}

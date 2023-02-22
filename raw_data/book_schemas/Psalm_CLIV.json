@@ -1,0 +1,67 @@
+{
+    "title": "Psalm CLIV",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Psalm 154"
+            },
+            {
+                "lang": "he",
+                "text": "תהלים קנ\"ד",
+                "primary": true
+            },
+            {
+                "text": "Psalm CLIV",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Psalm CLIV",
+        "heTitle": "תהלים קנ\"ד",
+        "heSectionNames": [
+            "פסוק"
+        ],
+        "key": "Psalm CLIV"
+    },
+    "authors": [],
+    "enDesc": "Apocrypha",
+    "compDate": "50",
+    "compPlace": "Talmudic Israel",
+    "errorMargin": "100",
+    "era": "T",
+    "heTitle": "תהלים קנ\"ד",
+    "titleVariants": [
+        "Psalm 154",
+        "Psalm CLIV"
+    ],
+    "heTitleVariants": [
+        "תהלים קנ\"ד"
+    ],
+    "sectionNames": [
+        "Verse"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "ספרים חיצונים"
+    ],
+    "compDateString": {
+        "en": " (c.50 BCE  - c.150 CE)",
+        "he": " (50 לפנה\"ס  - 150 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

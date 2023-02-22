@@ -1,0 +1,133 @@
+{
+    "title": "Ptil Tekhelet",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Title page",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "שער",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Title page",
+                "heTitle": "שער",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Title page"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Perek",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "פתיל תכלת",
+                "lang": "he"
+            },
+            {
+                "text": "Ptil Tekhelet",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ptil Tekhelet",
+        "heTitle": "פתיל תכלת",
+        "key": "Ptil Tekhelet"
+    },
+    "authors": [
+        "Gershon Henoch Leiner of Radzin"
+    ],
+    "enDesc": "Written by Gershon Henoch Leiner of Radzin (1839–1891), Ptil Tekhelet discusses the laws of the tekhelet, the blue dye used for the fringe of the tzitzit (tallit katan). The Rebbe made use of his knowledge in several scientific fields to discover the source of the tekhelet dye and promoted the use of tekhelet in tzitzit. ",
+    "pubDate": "1888",
+    "compDate": "1888",
+    "compPlace": "Radzyń Podlaski",
+    "pubPlace": "Warsaw",
+    "era": "AH",
+    "heTitle": "פתיל תכלת",
+    "titleVariants": [
+        "Ptil Tekhelet"
+    ],
+    "heTitleVariants": [
+        "פתיל תכלת"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (1888 CE)",
+        "he": " (1888 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Radzyń Podlaski",
+        "he": "ראדזין"
+    }
+}

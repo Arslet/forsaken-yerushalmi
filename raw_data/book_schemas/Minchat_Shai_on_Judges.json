@@ -1,0 +1,88 @@
+{
+    "title": "Minchat Shai on Judges",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Minchat Shai",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "toc_zoom": 2,
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מנחת שי על שופטים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Minchat Shai on Judges",
+                "primary": true
+            }
+        ],
+        "title": "Minchat Shai on Judges",
+        "heTitle": "מנחת שי על שופטים",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Minchat Shai on Judges"
+    },
+    "authors": [
+        "Yedidiah Norzi"
+    ],
+    "enDesc": "Minchat Shai is a Masoretic commentary by Jedidiah Solomon ben Abraham Norzi. It includes grammatical treatises on Tanakh, noting all variant readings scattered through Talmudic and Midrashic literature.",
+    "heDesc": "פירוש לתנ\"ך העוסק בעיקר בצורתן, ניקודן ומסורתן של תיבות ואותיות המקרא. מטרת הפירוש היא לברר וללבן את גרסאות המקרא ולקבוע את הנוסח הנכון, על פי מה שדנו בעניינים אלו בספרי התלמוד והמדרש.",
+    "pubDate": "1742",
+    "compDate": "1526",
+    "pubPlace": "Mantua",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Judges",
+            "he": "שופטים"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Minchat Shai",
+        "he": "מנחת שי"
+    },
+    "heTitle": "מנחת שי על שופטים",
+    "titleVariants": [
+        "Minchat Shai on Judges"
+    ],
+    "heTitleVariants": [
+        "מנחת שי על שופטים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "מנחת שי",
+        "נביאים"
+    ],
+    "compDateString": {
+        "en": " (1526 CE)",
+        "he": " (1526 לספירה)"
+    }
+}

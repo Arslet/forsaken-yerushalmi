@@ -1,0 +1,87 @@
+{
+    "title": "Divrey Chamudot on Berakhot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Divrey Chamudot",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Siman"
+        ],
+        "sectionNames": [
+            "Siman"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": " דברי חמודות על ברכות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Divrey Chamudot on Berakhot",
+                "primary": true
+            }
+        ],
+        "title": "Divrey Chamudot on Berakhot",
+        "heTitle": " דברי חמודות על ברכות",
+        "heSectionNames": [
+            "סימן"
+        ],
+        "key": "Divrey Chamudot on Berakhot"
+    },
+    "authors": [
+        "Yom-Tov Lipmann Heller"
+    ],
+    "enDesc": "Commentary on the Rosh by the author of \"Tosafot Yom Tov\".",
+    "heDesc": "פירוש על הרא\"ש במסכת ברכות מבעל ה\"תוספות יום טוב\".",
+    "pubDate": "1628",
+    "compDate": "1615",
+    "compPlace": "Prague",
+    "pubPlace": "Prague",
+    "errorMargin": "13",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Berakhot",
+            "he": "ברכות"
+        }
+    ],
+    "base_text_mapping": null,
+    "collective_title": {
+        "en": "Divrey Chamudot",
+        "he": "דברי חמודות"
+    },
+    "heTitle": " דברי חמודות על ברכות",
+    "titleVariants": [
+        "Divrey Chamudot on Berakhot"
+    ],
+    "heTitleVariants": [
+        " דברי חמודות על ברכות"
+    ],
+    "sectionNames": [
+        "Siman"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "דברי חמודות",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.1602  - c.1628 CE)",
+        "he": " (1602 - 1628 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Prague",
+        "he": "פראג"
+    }
+}

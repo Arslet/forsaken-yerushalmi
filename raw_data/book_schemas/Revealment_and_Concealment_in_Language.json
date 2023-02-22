@@ -1,0 +1,63 @@
+{
+    "title": "Revealment and Concealment in Language",
+    "categories": [
+        "Modern Works"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "גילוי וכיסוי בלשון",
+                "lang": "he"
+            },
+            {
+                "text": "Revealment and Concealment in Language",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Revealment and Concealment in Language",
+        "heTitle": "גילוי וכיסוי בלשון",
+        "heSectionNames": [
+            "פסקה"
+        ],
+        "key": "Revealment and Concealment in Language"
+    },
+    "authors": [
+        "Hayim Nahman Bialik"
+    ],
+    "pubDate": "1915",
+    "compDate": "1915",
+    "compPlace": "Odessa",
+    "era": "CO",
+    "heTitle": "גילוי וכיסוי בלשון",
+    "titleVariants": [
+        "Revealment and Concealment in Language"
+    ],
+    "heTitleVariants": [
+        "גילוי וכיסוי בלשון"
+    ],
+    "sectionNames": [
+        "Paragraph"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "יצירות מודרניות"
+    ],
+    "compDateString": {
+        "en": " (1915 CE)",
+        "he": " (1915 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Odessa",
+        "he": "אודסה"
+    }
+}

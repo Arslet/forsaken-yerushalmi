@@ -1,0 +1,88 @@
+{
+    "title": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property",
+    "categories": [
+        "Halakhah",
+        "Mishneh Torah",
+        "Commentary",
+        "Tzafnat Pa'neach",
+        "Sefer Haflaah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "text": "צפנת פענח על משנה תורה, הלכות ערכים וחרמין",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property",
+        "heTitle": "צפנת פענח על משנה תורה, הלכות ערכים וחרמין",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property"
+    },
+    "authors": [
+        "Joseph Rosen"
+    ],
+    "enDesc": "An analytical commentary almost exclusively discussing the commentaries of Rabbi Ovadia MiBartenura and Rabbi Yom Tov Lipmann Heller (Tosafot Yom Tov) on the Mishnah.",
+    "pubDate": "1902-1903",
+    "compPlace": "Daugavpils / Dvinsk",
+    "pubPlace": "Warsaw",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Mishneh Torah, Appraisals and Devoted Property",
+            "he": "משנה תורה, הלכות ערכים וחרמין"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Tzafnat Pa'neach",
+        "he": "צפנת פענח"
+    },
+    "heTitle": "צפנת פענח על משנה תורה, הלכות ערכים וחרמין",
+    "titleVariants": [
+        "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property"
+    ],
+    "heTitleVariants": [
+        "צפנת פענח על משנה תורה, הלכות ערכים וחרמין"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "הלכה",
+        "משנה תורה",
+        "מפרשים",
+        "צפנת פענח",
+        "ספר הפלאה"
+    ],
+    "compPlaceString": {
+        "en": "Daugavpils / Dvinsk",
+        "he": "דאוגבפילס / דווינסק"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Maggid Devarav leYaakov",
+    "categories": [
+        "Chasidut",
+        "Early Works"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Magid Devarav le-Ya'aqov"
+            },
+            {
+                "lang": "en",
+                "text": "Likutei Amorim"
+            },
+            {
+                "lang": "he",
+                "text": "מגיד דבריו ליעקב",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "לקוטי אמרים"
+            },
+            {
+                "lang": "he",
+                "text": "ליקוטי אמרים"
+            },
+            {
+                "lang": "en",
+                "text": "Maggid Devarav leYaakov",
+                "primary": true
+            }
+        ],
+        "title": "Maggid Devarav leYaakov",
+        "heTitle": "מגיד דבריו ליעקב",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Maggid Devarav leYaakov"
+    },
+    "authors": [
+        "Dov Ber of Mezeritch"
+    ],
+    "enDesc": "Teachings of the Maggid of Mezeritch, compiled by his students. (The last letters of the three words in the title spell the Maggid's name \"Dov\").",
+    "heDesc": "ליקוט של תורות מהמגיד ממעזריטש, נערך על ידי תלמידיו. (סופי תיבות של שם הספר הם אותיות \"דוב\".)",
+    "pubDate": "1781",
+    "compDate": "1770",
+    "compPlace": "",
+    "pubPlace": "Koretz",
+    "errorMargin": "10",
+    "era": "AH",
+    "heTitle": "מגיד דבריו ליעקב",
+    "titleVariants": [
+        "Magid Devarav le-Ya'aqov",
+        "Likutei Amorim",
+        "Maggid Devarav leYaakov"
+    ],
+    "heTitleVariants": [
+        "מגיד דבריו ליעקב",
+        "לקוטי אמרים",
+        "ליקוטי אמרים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "חסידות",
+        "ספרי ראשית"
+    ],
+    "compDateString": {
+        "en": " (c.1760  - c.1780 CE)",
+        "he": " (1760 - 1780 לספירה בקירוב)"
+    }
+}

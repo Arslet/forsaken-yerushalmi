@@ -1,0 +1,87 @@
+{
+    "title": "Daniel",
+    "categories": [
+        "Tanakh",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "lengths": [
+            12,
+            357
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Dan."
+            },
+            {
+                "lang": "en",
+                "text": "Dan"
+            },
+            {
+                "lang": "he",
+                "text": "דניאל",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Daniel",
+                "primary": true
+            }
+        ],
+        "title": "Daniel",
+        "heTitle": "דניאל",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Daniel"
+    },
+    "order": [
+        35,
+        9
+    ],
+    "enDesc": "The Book of Daniel is an \"account of the activities and visions of Daniel a noble Jew exiled in Babylon. It is found in the Ketuvim the last section of Tanakh. The book is written in Hebrew and Aramaic; Chapters 1 and 8-12 are Hebrew whilst Chapter 2-7 is in Aramaic. The book divides into two parts, a set of six court tales in chapters 1–6 followed by four apocalyptic visions in chapters 7–12. Its message is that just as the God of Israel saved Daniel and his friends from their enemies, so he would save all of Israel in their present oppression. The books final vision predicts the fall of four great kingdoms the last which will be before the messianic redemption. This vision became the focus of much interpretation and prediction for Jews in the Middle Ages.",
+    "pubDate": "1488",
+    "compDate": "-300",
+    "compPlace": "Babylon (City)",
+    "pubPlace": "Soncino",
+    "errorMargin": "100",
+    "is_cited": true,
+    "heTitle": "דניאל",
+    "titleVariants": [
+        "Dan.",
+        "Dan",
+        "Daniel"
+    ],
+    "heTitleVariants": [
+        "דניאל"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תנ\"ך",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.400  - c.200 BCE)",
+        "he": " (400 - 200 לפנה\"ס בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Babylon (City)",
+        "he": "בבל (עיר)"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Teshuvot HaRivash",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תשובות הריב\"ש",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "שאלות ותשובות בר ששת"
+            },
+            {
+                "lang": "he",
+                "text": "שו\"ת ריב\"ש"
+            },
+            {
+                "lang": "he",
+                "text": "ריב\"ש"
+            },
+            {
+                "text": "Teshuvot HaRivash",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Teshuvot HaRivash",
+        "heTitle": "תשובות הריב\"ש",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuvot HaRivash"
+    },
+    "authors": [
+        "Isaac ben Sheshet Perfet"
+    ],
+    "enDesc": "Responsa of Rivash, frequently quoted by Shulchan Arukh, who writes that his own teacher (R' Yaakov Bei Rav) relied heavily upon Rivash's rulings and favored him above all other authorities.",
+    "heDesc": "שו\"ת מהריב\"ש, מצוטט הרבה ב\"שלחן ערוך\", שכותב כי רבו ר 'יעקב בי רב הסתמך רבות על פסיקותיו והעדיף אותו מעל כל שאר הפוסקים.",
+    "compDate": "1375",
+    "errorMargin": "25",
+    "era": "RI",
+    "heTitle": "תשובות הריב\"ש",
+    "titleVariants": [
+        "Teshuvot HaRivash"
+    ],
+    "heTitleVariants": [
+        "תשובות הריב\"ש",
+        "שאלות ותשובות בר ששת",
+        "שו\"ת ריב\"ש",
+        "ריב\"ש"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1350  - c.1400 CE)",
+        "he": " (1350 - 1400 לספירה בקירוב)"
+    }
+}

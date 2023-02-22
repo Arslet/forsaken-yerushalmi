@@ -1,0 +1,65 @@
+{
+    "title": "Mahari Bruna",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מהר\"י ברונא",
+                "primary": true
+            },
+            {
+                "text": "Mahari Bruna",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Mahari Bruna",
+        "heTitle": "מהר\"י ברונא",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Mahari Bruna"
+    },
+    "authors": [
+        "Yisrael ben Hayim of Bruno"
+    ],
+    "enDesc": "The responsa that Mahari Bruna wrote to many communities in Europe, it would become one of the main sources for Rabbi Moshe Isserles gloss on the Shulchan Arukh.",
+    "pubDate": "1798",
+    "compDate": "1455",
+    "pubPlace": "Salonica / Thessaloniki ",
+    "errorMargin": "25",
+    "era": "RI",
+    "heTitle": "מהר\"י ברונא",
+    "titleVariants": [
+        "Mahari Bruna"
+    ],
+    "heTitleVariants": [
+        "מהר\"י ברונא"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1430  - c.1480 CE)",
+        "he": " (1430 - 1480 לספירה בקירוב)"
+    }
+}

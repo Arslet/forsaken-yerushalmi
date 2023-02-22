@@ -1,0 +1,79 @@
+{
+    "title": "Keter Shem Tov",
+    "categories": [
+        "Chasidut"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Volume ",
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Kesser Shem Tov"
+            },
+            {
+                "lang": "he",
+                "text": "כתר שם טוב",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "כש\"ט"
+            },
+            {
+                "text": "Keter Shem Tov",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Keter Shem Tov",
+        "heTitle": "כתר שם טוב",
+        "heSectionNames": [
+            "",
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Keter Shem Tov"
+    },
+    "authors": [
+        "Baal Shem Tov"
+    ],
+    "enDesc": "Teachings of the Baal Shem Tov on the parsha.",
+    "pubDate": "1794",
+    "compDate": "1880",
+    "pubPlace": "Zolkva",
+    "errorMargin": "3",
+    "era": "AH",
+    "heTitle": "כתר שם טוב",
+    "titleVariants": [
+        "Kesser Shem Tov",
+        "Keter Shem Tov"
+    ],
+    "heTitleVariants": [
+        "כתר שם טוב",
+        "כש\"ט"
+    ],
+    "sectionNames": [
+        "Volume ",
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "חסידות"
+    ],
+    "compDateString": {
+        "en": " (c.1877  - c.1883 CE)",
+        "he": " (1877 - 1883 לספירה בקירוב)"
+    }
+}

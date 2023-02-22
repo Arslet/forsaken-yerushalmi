@@ -1,0 +1,70 @@
+{
+    "title": "Maaseh Rav",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Siman",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "מעשה רב",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Maaseh Rav",
+                "primary": true
+            }
+        ],
+        "title": "Maaseh Rav",
+        "heTitle": "מעשה רב",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Maaseh Rav"
+    },
+    "authors": [
+        "Sa'adiah ben Natan Neta"
+    ],
+    "enDesc": "A work describing the behavior of the Vilna Gaon.  Written by Rabbi Sa'adya, and edited by Rabbi Yissachar Dov Ber ben Tanchum, one of the great poskim of Vilna. ",
+    "pubDate": "1832",
+    "compDate": "1811",
+    "compPlace": "Safed",
+    "pubPlace": "Vilna",
+    "errorMargin": "2",
+    "era": "AH",
+    "heTitle": "מעשה רב",
+    "titleVariants": [
+        "Maaseh Rav"
+    ],
+    "heTitleVariants": [
+        "מעשה רב"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1809  - c.1813 CE)",
+        "he": " (1809 - 1813 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Safed",
+        "he": "צפת"
+    }
+}

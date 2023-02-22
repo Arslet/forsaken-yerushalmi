@@ -1,0 +1,86 @@
+{
+    "title": "Saadia Gaon on Ezra",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Saadia Gaon",
+        "Writings"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "ר' סעדיה גאון על עזרא",
+                "lang": "he"
+            },
+            {
+                "text": "Saadia Gaon on Ezra",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Saadia Gaon on Ezra",
+        "heTitle": "ר' סעדיה גאון על עזרא",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Saadia Gaon on Ezra"
+    },
+    "authors": [
+        "Saadia Gaon"
+    ],
+    "pubDate": "1882",
+    "compDate": "930",
+    "pubPlace": "Oxford",
+    "errorMargin": "12",
+    "era": "GN",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Ezra",
+            "he": "עזרא"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Saadia Gaon",
+        "he": "ר' סעדיה גאון"
+    },
+    "heTitle": "ר' סעדיה גאון על עזרא",
+    "titleVariants": [
+        "Saadia Gaon on Ezra"
+    ],
+    "heTitleVariants": [
+        "ר' סעדיה גאון על עזרא"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "ר' סעדיה גאון",
+        "כתובים"
+    ],
+    "compDateString": {
+        "en": " (c.918  - c.942 CE)",
+        "he": " (918 - 942 לספירה בקירוב)"
+    }
+}

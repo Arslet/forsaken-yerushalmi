@@ -1,0 +1,66 @@
+{
+    "title": "Yaarot Devash I",
+    "categories": [
+        "Musar"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Drush",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "יערות דבש",
+                "primary": true
+            },
+            {
+                "text": "Yaarot Devash I",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Yaarot Devash I",
+        "heTitle": "יערות דבש",
+        "heSectionNames": [
+            "דרוש",
+            "פסקה"
+        ],
+        "key": "Yaarot Devash I"
+    },
+    "authors": [
+        "Jonathan Eybeschutz"
+    ],
+    "enDesc": "Collection of sermons on ethical matters delivered by R' Yonatan Eybeschutz",
+    "heDesc": "דרשות ותוכחות מוסר מהרב יהונתן אייבשיץ",
+    "pubDate": "1779",
+    "compDate": "1739",
+    "pubPlace": "Karlsruhe",
+    "errorMargin": "25",
+    "era": "AH",
+    "heTitle": "יערות דבש",
+    "titleVariants": [
+        "Yaarot Devash I"
+    ],
+    "heTitleVariants": [
+        "יערות דבש"
+    ],
+    "sectionNames": [
+        "Drush",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרי מוסר"
+    ],
+    "compDateString": {
+        "en": " (c.1714  - c.1764 CE)",
+        "he": " (1714 - 1764 לספירה בקירוב)"
+    }
+}

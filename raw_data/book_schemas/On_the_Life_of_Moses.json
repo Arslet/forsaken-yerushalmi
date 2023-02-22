@@ -1,0 +1,72 @@
+{
+    "title": "On the Life of Moses",
+    "categories": [
+        "Philosophy"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Book",
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "על חיי משה",
+                "lang": "he"
+            },
+            {
+                "text": "On the Life of Moses",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "On the Life of Moses",
+        "heTitle": "על חיי משה",
+        "heSectionNames": [
+            "ספר",
+            "פרק",
+            "פסקה"
+        ],
+        "key": "On the Life of Moses"
+    },
+    "authors": [
+        "Philo of Alexandria"
+    ],
+    "enDesc": "A section of an apologetic explanation of Judaism in light of the anti- Jewish riots and persecutions in Egypt at the time.",
+    "compDate": "20",
+    "compPlace": "Alexandria",
+    "errorMargin": "25",
+    "era": "T",
+    "heTitle": "על חיי משה",
+    "titleVariants": [
+        "On the Life of Moses"
+    ],
+    "heTitleVariants": [
+        "על חיי משה"
+    ],
+    "sectionNames": [
+        "Book",
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "מחשבת ישראל"
+    ],
+    "compDateString": {
+        "en": " (c.5 BCE  - c.45 CE)",
+        "he": " (5 לפנה\"ס  - 45 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Alexandria",
+        "he": "אלכסנדריה"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Tosefta Chagigah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            3
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tosefta Hagigah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Chagigah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Hagigah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Chagigah"
+            },
+            {
+                "lang": "en",
+                "text": "Tos. Hagigah"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא חגיגה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Ḥag."
+            },
+            {
+                "text": "Tosefta Chagigah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Chagigah",
+        "heTitle": "תוספתא חגיגה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Chagigah"
+    },
+    "order": [
+        12
+    ],
+    "authors": [],
+    "enDesc": "Chagigah (Festival Offering) belongs to the second order, Moed (Festivals) and the Three Pilgrimage Festivals (Passover, Shavuot, Sukkot) and the pilgrimage offering that men were supposed to bring in Jerusalem. It has three chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא חגיגה",
+    "titleVariants": [
+        "Tosefta Hagigah",
+        "Tos. Chagigah",
+        "T. Hagigah",
+        "T. Chagigah",
+        "Tos. Hagigah",
+        "Tosef. Ḥag.",
+        "Tosefta Chagigah"
+    ],
+    "heTitleVariants": [
+        "תוספתא חגיגה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "title": "Shemot Rabbah",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash",
+        "Midrash Rabbah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Exodus Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Shemoth Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Shmot Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Exodus Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Shemoth Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Shmot Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Shemot Rabba"
+            },
+            {
+                "lang": "en",
+                "text": "Midrash Rabbah Shemot"
+            },
+            {
+                "lang": "en",
+                "text": "Exod. R."
+            },
+            {
+                "lang": "en",
+                "text": "Ex. R."
+            },
+            {
+                "lang": "en",
+                "text": "Sh’mot Rabbah"
+            },
+            {
+                "lang": "en",
+                "text": "Sh’mot ‎Rabbah"
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "שמות רבה"
+            },
+            {
+                "lang": "he",
+                "text": "שמו\"ר"
+            },
+            {
+                "lang": "he",
+                "text": "מדרש רבה שמות"
+            },
+            {
+                "lang": "he",
+                "text": "שמו''ר"
+            },
+            {
+                "lang": "he",
+                "text": "שמו״ר"
+            },
+            {
+                "lang": "he",
+                "text": "שמ\"ר"
+            },
+            {
+                "lang": "he",
+                "text": "שמ״ר"
+            },
+            {
+                "text": "Shemot Rabbah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Shemot Rabbah",
+        "heTitle": "שמות רבה",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Shemot Rabbah"
+    },
+    "order": [
+        2.0
+    ],
+    "authors": [],
+    "enDesc": "Shemot Rabbah (The Great Exodus) is the midrash to the book of Shemot, containing in the printed editions 52 parshiyot. It is not uniform in its composition. In parshiyot 1-14 the proems are almost invariably followed by the running commentary on the entire seder or other Scriptural division. The author includes sources Tanhuma as well as others. Zunz ascribes the composition of the entire work to the 11th or 12th century",
+    "heDesc": "שמות רבה הינו מדרש לספר שמות הכולל, בגרסאות המודפסות שלו, 52 פרשיות. המדרש אינו אחיד מבחינה סגנונית. בפרשיות 14-1 ההקדמות כמעט תמיד מקדימות דרשות המפרשות, באופן רציף ומסודר, את פסוקי הסדר או הקטע המקראי הכלול בפרשה. החלק השני, פרשיות 52-15, הינו בעל אופי דרשני שונה, ובנוי סביב נושאים שונים הקשורים לפסוקים הפותחים את סדרי הקריאה בתורה. המחבר כולל בחלק זה מקורות אחרים, למשל התנחומא. צונץ ייחס את יצירת החיבור המאוגד למאות ה-11 או ה-12.",
+    "pubDate": "1512",
+    "compDate": "1200",
+    "compPlace": "Talmudic Israel/Babylon",
+    "pubPlace": "Istanbul",
+    "era": "RI",
+    "is_cited": true,
+    "heTitle": "שמות רבה",
+    "titleVariants": [
+        "Exodus Rabbah",
+        "Shemoth Rabbah",
+        "Shmot Rabbah",
+        "Exodus Rabba",
+        "Shemoth Rabba",
+        "Shmot Rabba",
+        "Shemot Rabba",
+        "Midrash Rabbah Shemot",
+        "Exod. R.",
+        "Ex. R.",
+        "Sh’mot Rabbah",
+        "Sh’mot ‎Rabbah",
+        "Shemot Rabbah"
+    ],
+    "heTitleVariants": [
+        "שמות רבה",
+        "שמו\"ר",
+        "מדרש רבה שמות",
+        "שמו''ר",
+        "שמו״ר",
+        "שמ\"ר",
+        "שמ״ר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה",
+        "מדרש רבה"
+    ],
+    "compDateString": {
+        "en": " (1200 CE)",
+        "he": " (1200 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon",
+        "he": "ישראל / בבל התלמודית"
+    }
+}

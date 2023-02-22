@@ -1,0 +1,105 @@
+{
+    "title": "Jerusalem Talmud Megillah",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            67,
+            137
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "JT Megillah"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Megillah"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי מגילה",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי מגילה"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Meg."
+            },
+            {
+                "text": "Jerusalem Talmud Megillah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Megillah",
+        "heTitle": "תלמוד ירושלמי מגילה",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Megillah"
+    },
+    "order": [
+        21
+    ],
+    "authors": [],
+    "enDesc": "Megillah (Scroll) belongs to the second order, Moed (Festivals) and discusses regulations and prescriptions regarding the reading of the scroll of Esther at Purim, and the reading of other passages from the Torah and Neviim in the synagogue. It has four chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי מגילה",
+    "titleVariants": [
+        "Talmud Yerushalmi Megillah",
+        "JT Megillah",
+        "Yerushalmi Megillah",
+        "Y. Meg.",
+        "Jerusalem Talmud Megillah"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי מגילה",
+        "ירושלמי מגילה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

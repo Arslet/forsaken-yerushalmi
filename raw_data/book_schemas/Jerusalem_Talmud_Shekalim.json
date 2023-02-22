@@ -1,0 +1,120 @@
+{
+    "title": "Jerusalem Talmud Shekalim",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            66,
+            119
+        ],
+        "titles": [
+            {
+                "text": "JT Shekalim",
+                "lang": "en"
+            },
+            {
+                "text": "Yerushalmi Shkalim",
+                "lang": "en"
+            },
+            {
+                "text": "Yerushalmi Shekalim",
+                "lang": "en"
+            },
+            {
+                "text": "JT Shkalim",
+                "lang": "en"
+            },
+            {
+                "text": "Talmud Yerushalmi Shekalim",
+                "lang": "en"
+            },
+            {
+                "text": "Y. Shek.",
+                "lang": "en"
+            },
+            {
+                "text": "Shekalim",
+                "lang": "en"
+            },
+            {
+                "text": "תלמוד ירושלמי שקלים",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "ירושלמי שקלים",
+                "lang": "he"
+            },
+            {
+                "text": "Jerusalem Talmud Shekalim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Shekalim",
+        "heTitle": "תלמוד ירושלמי שקלים",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Shekalim"
+    },
+    "order": [
+        16
+    ],
+    "authors": [],
+    "enDesc": "Sheqalim (Shekels) belongs to the second order, Moed (Festivals) and discusses the collection of the half-Shekel as well as the expenses and expenditure of the Temple. It has eight chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי שקלים",
+    "titleVariants": [
+        "JT Shekalim",
+        "Yerushalmi Shkalim",
+        "Yerushalmi Shekalim",
+        "JT Shkalim",
+        "Talmud Yerushalmi Shekalim",
+        "Y. Shek.",
+        "Shekalim",
+        "Jerusalem Talmud Shekalim"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי שקלים",
+        "ירושלמי שקלים"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר מועד"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

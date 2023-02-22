@@ -1,0 +1,113 @@
+{
+    "title": "Kitzur Baal Haturim on Numbers",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Kitzur Baal Haturim",
+        "Torah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "text": "Kitzur Baal Haturim on Num.",
+                "lang": "en"
+            },
+            {
+                "text": "Kitzur Baal Haturim on Num",
+                "lang": "en"
+            },
+            {
+                "text": "Kitzur Baal Haturim on Bamidbar",
+                "lang": "en"
+            },
+            {
+                "text": "Kitzur Baal Haturim on Bemidbar",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "קיצור בעל הטורים על במדבר",
+                "lang": "he"
+            },
+            {
+                "text": "Kitzur Baal Haturim on Numbers",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Kitzur Baal Haturim on Numbers",
+        "heTitle": "קיצור בעל הטורים על במדבר",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פירוש"
+        ],
+        "key": "Kitzur Baal Haturim on Numbers"
+    },
+    "authors": [
+        "Jacob ben Asher"
+    ],
+    "enDesc": "Abridgement of the Torah commentary written by Jacob ben Asher, Ba’al HaTurim. The author was a halakhic scholar and biblical commentator in Medieval Spain.",
+    "pubDate": "1514",
+    "compDate": "1310",
+    "compPlace": "Toledo, Spain",
+    "pubPlace": "Istanbul",
+    "errorMargin": "30",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Numbers",
+            "he": "במדבר"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Kitzur Baal Haturim",
+        "he": "קיצור בעל הטורים"
+    },
+    "is_cited": true,
+    "heTitle": "קיצור בעל הטורים על במדבר",
+    "titleVariants": [
+        "Kitzur Baal Haturim on Num.",
+        "Kitzur Baal Haturim on Num",
+        "Kitzur Baal Haturim on Bamidbar",
+        "Kitzur Baal Haturim on Bemidbar",
+        "Kitzur Baal Haturim on Numbers"
+    ],
+    "heTitleVariants": [
+        "קיצור בעל הטורים על במדבר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "קיצור בעל הטורים",
+        "תורה"
+    ],
+    "compDateString": {
+        "en": " (c.1280  - c.1340 CE)",
+        "he": " (1280 - 1340 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Toledo, Spain",
+        "he": "טולדו, ספרד"
+    }
+}

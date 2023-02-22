@@ -1,0 +1,77 @@
+{
+    "title": "Gra's Nuschah on Tractate Semachot",
+    "categories": [
+        "Tanaitic",
+        "Commentary",
+        "Gra's Nuschah",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "נוסחת הגר״א על מסכת שמחות",
+                "lang": "he"
+            },
+            {
+                "text": "Gra's Nuschah on Tractate Semachot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Gra's Nuschah on Tractate Semachot",
+        "heTitle": "נוסחת הגר״א על מסכת שמחות",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Gra's Nuschah on Tractate Semachot"
+    },
+    "authors": [
+        "Vilna Gaon"
+    ],
+    "era": "T",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Tractate Semachot",
+            "he": "מסכת שמחות"
+        }
+    ],
+    "collective_title": {
+        "en": "Gra's Nuschah",
+        "he": "נוסחת הגר״א"
+    },
+    "heTitle": "נוסחת הגר״א על מסכת שמחות",
+    "titleVariants": [
+        "Gra's Nuschah on Tractate Semachot"
+    ],
+    "heTitleVariants": [
+        "נוסחת הגר״א על מסכת שמחות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "ספרות תנאית",
+        "מפרשים",
+        "נוסחת הגר״א",
+        "מסכתות קטנות"
+    ]
+}

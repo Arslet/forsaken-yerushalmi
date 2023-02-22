@@ -1,0 +1,65 @@
+{
+    "title": "Teshuva MeAhava Part I",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Teshuva",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "תשובה מאהבה חלק א",
+                "primary": true
+            },
+            {
+                "text": "Teshuva MeAhava Part I",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Teshuva MeAhava Part I",
+        "heTitle": "תשובה מאהבה חלק א",
+        "heSectionNames": [
+            "",
+            "פסקה"
+        ],
+        "key": "Teshuva MeAhava Part I"
+    },
+    "authors": [
+        "Elazar Fleckeles"
+    ],
+    "enDesc": "A three-volume work of responsa.",
+    "pubDate": "1809",
+    "compDate": "1800",
+    "pubPlace": "Prague",
+    "errorMargin": "25",
+    "era": "AH",
+    "heTitle": "תשובה מאהבה חלק א",
+    "titleVariants": [
+        "Teshuva MeAhava Part I"
+    ],
+    "heTitleVariants": [
+        "תשובה מאהבה חלק א"
+    ],
+    "sectionNames": [
+        "Teshuva",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1775  - c.1825 CE)",
+        "he": " (1775 - 1825 לספירה בקירוב)"
+    }
+}

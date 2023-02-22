@@ -1,0 +1,71 @@
+{
+    "title": "Kaf Achat",
+    "categories": [
+        "Halakhah",
+        "Avodat HaKodesh (Chida)"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Siman",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "כף אחת"
+            },
+            {
+                "text": "Kaf Achat",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Kaf Achat",
+        "heTitle": "כף אחת",
+        "heSectionNames": [
+            "סימן",
+            "פסקה"
+        ],
+        "key": "Kaf Achat"
+    },
+    "order": [
+        4
+    ],
+    "authors": [
+        "Hayyim Joseph David Azulay"
+    ],
+    "enDesc": "Prayers for various occasions, compiled by Chida.",
+    "heDesc": "תפילות לזמנים ומצבים שונים, מלוקט על ידי ר' חיים יוסף דוד אזולאי (חיד\"א).",
+    "pubDate": "1815",
+    "compDate": "1780",
+    "pubPlace": "Pisa, Italy",
+    "errorMargin": "12",
+    "era": "AH",
+    "heTitle": "כף אחת",
+    "titleVariants": [
+        "Kaf Achat"
+    ],
+    "heTitleVariants": [
+        "כף אחת"
+    ],
+    "sectionNames": [
+        "Siman",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "עבודת הקודש - חיד“א"
+    ],
+    "compDateString": {
+        "en": " (c.1768  - c.1792 CE)",
+        "he": " (1768 - 1792 לספירה בקירוב)"
+    }
+}

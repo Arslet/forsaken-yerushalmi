@@ -1,0 +1,130 @@
+{
+    "title": "Gevurat Anashim",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Siman",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Siman",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "סימן",
+                    "פסקה"
+                ],
+                "key": "default"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "primary": true,
+                        "text": "Summary",
+                        "lang": "en"
+                    },
+                    {
+                        "primary": true,
+                        "text": "כללי הדינים",
+                        "lang": "he"
+                    }
+                ],
+                "title": "Summary",
+                "heTitle": "כללי הדינים",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Summary"
+            }
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "גבורת אנשים",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Gevurat Anashim",
+                "lang": "en"
+            }
+        ],
+        "title": "Gevurat Anashim",
+        "heTitle": "גבורת אנשים",
+        "key": "Gevurat Anashim"
+    },
+    "authors": [
+        "Shabbatai ben Meir Hakohen"
+    ],
+    "enDesc": "Halakhic Work dealing with the circumstances and conditions under which a man can be compelled to grant his wife a divorce. Authored by one of the prime commentators on Shulchan Arukh, R' Shabbetai ben Meir haKohen (Shach). ",
+    "heDesc": "חובר על ידי ר' שבתי הכהן (בעל הש\"ך). עוסק בנסיבות ובתנאים שבהם ניתן לאלץ גבר להעניק גט לאשתו. ",
+    "pubDate": "1697",
+    "compDate": "1850",
+    "pubPlace": "Dessau, Germany",
+    "errorMargin": "10",
+    "era": "AH",
+    "heTitle": "גבורת אנשים",
+    "titleVariants": [
+        "Gevurat Anashim"
+    ],
+    "heTitleVariants": [
+        "גבורת אנשים"
+    ],
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (c.1840  - c.1860 CE)",
+        "he": " (1840 - 1860 לספירה בקירוב)"
+    }
+}

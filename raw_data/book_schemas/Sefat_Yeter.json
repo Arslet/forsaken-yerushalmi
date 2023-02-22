@@ -1,0 +1,67 @@
+{
+    "title": "Sefat Yeter",
+    "categories": [
+        "Grammar"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "text": "שפת יתר",
+                "lang": "he"
+            },
+            {
+                "primary": true,
+                "text": "Sefat Yeter",
+                "lang": "en"
+            }
+        ],
+        "title": "Sefat Yeter",
+        "heTitle": "שפת יתר",
+        "heSectionNames": [
+            "פסקה"
+        ],
+        "key": "Sefat Yeter"
+    },
+    "authors": [
+        "Ibn Ezra"
+    ],
+    "enDesc": "Grammatical work by R' Avraham Ibn Ezra, which contains a defense of Rav Saadia Gaon from the criticisms of Dunash ben Labrat.",
+    "heDesc": "ספר בעניני דקדוק מהאבן עזרא, בו הוא מגין על רב סעדיה גאון מהשגותיו של דונש בן לברט.",
+    "pubDate": "1730",
+    "compDate": "1141",
+    "compPlace": "Lucca, Italy",
+    "pubPlace": "Pressburg",
+    "errorMargin": "1",
+    "era": "RI",
+    "heTitle": "שפת יתר",
+    "titleVariants": [
+        "Sefat Yeter"
+    ],
+    "heTitleVariants": [
+        "שפת יתר"
+    ],
+    "sectionNames": [
+        "Paragraph"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "דקדוק"
+    ],
+    "compDateString": {
+        "en": " (c.1140  - c.1142 CE)",
+        "he": " (1140 - 1142 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Lucca, Italy",
+        "he": "לוקה, איטליה"
+    }
+}

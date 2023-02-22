@@ -1,0 +1,135 @@
+{
+    "title": "Tosafot on Bava Kamma",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Tosafot",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Talmud",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tosafot on Talmud Bava Kamma"
+            },
+            {
+                "lang": "en",
+                "text": "Tosafot on Masekhet Bava Kamma"
+            },
+            {
+                "lang": "en",
+                "text": "Tosafot on Tractate Bava Kamma"
+            },
+            {
+                "lang": "en",
+                "text": "Tosafot on Bava Kama"
+            },
+            {
+                "lang": "en",
+                "text": "Tosafot on Baba Kama"
+            },
+            {
+                "lang": "en",
+                "text": "Tosafot on Baba Kamma"
+            },
+            {
+                "lang": "he",
+                "text": "תוספות על בבא קמא",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "תוספות על ב\"ק"
+            },
+            {
+                "lang": "he",
+                "text": "תוספות על ב״ק"
+            },
+            {
+                "text": "Tosafot on Bava Kamma",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Tosafot on Bava Kamma",
+        "heTitle": "תוספות על בבא קמא",
+        "heSectionNames": [
+            "דף",
+            "שורה",
+            "פירוש"
+        ],
+        "key": "Tosafot on Bava Kamma"
+    },
+    "authors": [
+        "Tosafot"
+    ],
+    "enDesc": "The Tosafists - Ba'alei Tosafot - were members of a school of Torah and Talmudic interpretation which flourished in 12th and 13th century France and Germany. Their roots are in the work of Rashi – in fact Rashi's sons-in-law and grandsons are counted amongst the founders and most influential members of the school of Tosafot. Their comments on almost every tractate of the Talmud were collected, edited, augmented and passed on for generations, with certain collections gaining more prominence (depending on tractate and locale). Their approach is analytical, comparative and incisive, and many times takes a critical stance regarding Rashi's commentary. They were amongst the first French and German rabbis to quote extensively the Jerusalem Talmud and the Talmud commentary of Rabbenu Chananel (of North Africa). Other works also emerged from their school, most notably Machzor Vitri and the Torah commentary, Da'at Z'kenim.",
+    "heDesc": "",
+    "pubDate": "1520",
+    "compDate": "1250",
+    "compPlace": "Middle-Age France / Germany / Italy / England",
+    "pubPlace": "Venice",
+    "errorMargin": "100",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Bava Kamma",
+            "he": "בבא קמא"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Tosafot",
+        "he": "תוספות"
+    },
+    "heTitle": "תוספות על בבא קמא",
+    "titleVariants": [
+        "Tosafot on Talmud Bava Kamma",
+        "Tosafot on Masekhet Bava Kamma",
+        "Tosafot on Tractate Bava Kamma",
+        "Tosafot on Bava Kama",
+        "Tosafot on Baba Kama",
+        "Tosafot on Baba Kamma",
+        "Tosafot on Bava Kamma"
+    ],
+    "heTitleVariants": [
+        "תוספות על בבא קמא",
+        "תוספות על ב\"ק",
+        "תוספות על ב״ק"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "תוספות",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.1150  - c.1350 CE)",
+        "he": " (1150 - 1350 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Middle-Age France / Germany / Italy / England",
+        "he": "צרפת / גרמניה / איטליה / אנגליה של ימי הביניים"
+    }
+}

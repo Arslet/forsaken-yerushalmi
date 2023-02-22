@@ -1,0 +1,349 @@
+{
+    "title": "Makkot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line"
+        ],
+        "lengths": [
+            46,
+            2355
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tractate Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Masekhet Makkot"
+            },
+            {
+                "lang": "en",
+                "text": "Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Tractate Makkos"
+            },
+            {
+                "lang": "en",
+                "text": "Makot"
+            },
+            {
+                "lang": "en",
+                "text": "Makkoth"
+            },
+            {
+                "lang": "en",
+                "text": "Macc."
+            },
+            {
+                "lang": "en",
+                "text": "Maccoth"
+            },
+            {
+                "lang": "en",
+                "text": "T.B. Maccoth"
+            },
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "מכות"
+            },
+            {
+                "text": "BT Makkot",
+                "lang": "en"
+            },
+            {
+                "text": "Makkot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Makkot",
+        "heTitle": "מכות",
+        "heSectionNames": [
+            "דף",
+            "שורה"
+        ],
+        "key": "Makkot",
+        "checkFirst": {
+            "he": "משנה מכות",
+            "en": "Mishnah Makkot"
+        }
+    },
+    "default_struct": "Chapters",
+    "order": [
+        24,
+        5
+    ],
+    "authors": [],
+    "enDesc": "Makkot (Lashes) belongs to the fourth order, Nezikin (The Order of Damages) and discusses collusive witnesses, cities of refuge and the punishment of lashes. It has three chapters.",
+    "pubDate": "1523",
+    "compDate": "500",
+    "compPlace": "Talmudic Babylon",
+    "pubPlace": "Venice",
+    "errorMargin": "50",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "מכות",
+    "titleVariants": [
+        "Tractate Makkot",
+        "Talmud Makkot",
+        "Masekhet Makkot",
+        "Makkos",
+        "Talmud Makkos",
+        "Tractate Makkos",
+        "Makot",
+        "Makkoth",
+        "Macc.",
+        "Maccoth",
+        "T.B. Maccoth",
+        "BT Makkot",
+        "Makkot"
+    ],
+    "heTitleVariants": [
+        "מכות"
+    ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Makkot 2a:1-7a:13",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "Makkot 2a:1-7",
+                        "Makkot 2b",
+                        "Makkot 3a",
+                        "Makkot 3b",
+                        "Makkot 4a",
+                        "Makkot 4b",
+                        "Makkot 5a",
+                        "Makkot 5b",
+                        "Makkot 6a",
+                        "Makkot 6b",
+                        "Makkot 7a:1-13"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Makkot 7a:14-13a:7",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הגולין"
+                        }
+                    ],
+                    "title": "Chapter 2",
+                    "heTitle": "אלו הן הגולין",
+                    "refs": [
+                        "Makkot 7a:14",
+                        "Makkot 7b",
+                        "Makkot 8a",
+                        "Makkot 8b",
+                        "Makkot 9a",
+                        "Makkot 9b",
+                        "Makkot 10a",
+                        "Makkot 10b",
+                        "Makkot 11a",
+                        "Makkot 11b",
+                        "Makkot 12a",
+                        "Makkot 12b",
+                        "Makkot 13a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 12
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Makkot 13a:8-24b:5",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הלוקין"
+                        }
+                    ],
+                    "title": "Chapter 3",
+                    "heTitle": "אלו הן הלוקין",
+                    "refs": [
+                        "Makkot 13a:8-14",
+                        "Makkot 13b",
+                        "Makkot 14a",
+                        "Makkot 14b",
+                        "Makkot 15a",
+                        "Makkot 15b",
+                        "Makkot 16a",
+                        "Makkot 16b",
+                        "Makkot 17a",
+                        "Makkot 17b",
+                        "Makkot 18a",
+                        "Makkot 18b",
+                        "Makkot 19a",
+                        "Makkot 19b",
+                        "Makkot 20a",
+                        "Makkot 20b",
+                        "Makkot 21a",
+                        "Makkot 21b",
+                        "Makkot 22a",
+                        "Makkot 22b",
+                        "Makkot 23a",
+                        "Makkot 23b",
+                        "Makkot 24a",
+                        "Makkot 24b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 24
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Tractate Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Talmud Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Masekhet Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Talmud Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Tractate Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Makot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Makkoth"
+                },
+                {
+                    "lang": "en",
+                    "text": "Macc."
+                },
+                {
+                    "lang": "en",
+                    "text": "Maccoth"
+                },
+                {
+                    "lang": "en",
+                    "text": "T.B. Maccoth"
+                },
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "מכות"
+                },
+                {
+                    "text": "BT Makkot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Makkot",
+            "heTitle": "מכות"
+        }
+    },
+    "sectionNames": [
+        "Daf",
+        "Line"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)",
+        "he": " (450 - 550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Babylon",
+        "he": "בבל התלמודית"
+    }
+}

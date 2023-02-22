@@ -1,0 +1,114 @@
+{
+    "title": "Midrash Lekach Tov on Ruth",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash",
+        "Midrash Lekach Tov"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "intro"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Perek",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "default"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "primary": true,
+                "text": "מדרש לקח טוב על רות"
+            },
+            {
+                "lang": "he",
+                "text": "פסיקתא זוטרתא על רות"
+            },
+            {
+                "lang": "en",
+                "primary": true,
+                "text": "Midrash Lekach Tov on Ruth"
+            }
+        ],
+        "title": "Midrash Lekach Tov on Ruth",
+        "heTitle": "מדרש לקח טוב על רות",
+        "key": "Midrash Lekach Tov on Ruth"
+    },
+    "authors": [
+        "Tobiah ben Eliezer"
+    ],
+    "enDesc": "Midrashic commentary on the Torah and Megilot. The title of the work alludes to the author's name, Toviah, in addition to his practice of introducing each portion in the Torah commentary with a short exposition on a verse containing the word 'Tov'.",
+    "heDesc": "מדרש לקח טוב, המכונה גם פסיקתא זוטרתא, הוא פירוש מדרשי על חמשת חומשי תורה וחמש מגילות. שם הספר מרמז לשם המחבר, טוביה, וגם למנהגו להתחיל כל פרשה עם ביאור קצר על פסוק שיש בו המילה 'טוב'. הפתיחה לפרשת בראשית הוא פירוש על הפסוק 'כי לקח טוב נתתי לכם'.",
+    "pubDate": "1887",
+    "compDate": "1110",
+    "pubPlace": "Mainz, Germany",
+    "errorMargin": "5",
+    "era": "RI",
+    "heTitle": "מדרש לקח טוב על רות",
+    "titleVariants": [
+        "Midrash Lekach Tov on Ruth"
+    ],
+    "heTitleVariants": [
+        "מדרש לקח טוב על רות",
+        "פסיקתא זוטרתא על רות"
+    ],
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה",
+        "מדרש לקח טוב"
+    ],
+    "compDateString": {
+        "en": " (c.1105  - c.1115 CE)",
+        "he": " (1105 - 1115 לספירה בקירוב)"
+    }
+}

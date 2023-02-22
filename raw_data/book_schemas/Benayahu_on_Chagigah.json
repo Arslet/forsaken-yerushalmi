@@ -1,0 +1,88 @@
+{
+    "title": "Benayahu on Chagigah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Commentary",
+        "Benayahu"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line"
+        ],
+        "titles": [
+            {
+                "text": "בניהו על חגיגה",
+                "primary": true,
+                "lang": "he"
+            },
+            {
+                "text": "Benayahu on Chagigah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Benayahu on Chagigah",
+        "heTitle": "בניהו על חגיגה",
+        "heSectionNames": [
+            "דף",
+            "שורה"
+        ],
+        "key": "Benayahu on Chagigah"
+    },
+    "authors": [
+        "Yosef Hayyim"
+    ],
+    "enDesc": "The shorter of Rabbi Yosef Hayyim (Ben Ish Chai)'s two works on aggadah, it offers analytic as well as kabbalistic interpretations of the Talmud's narrative sections.",
+    "pubDate": "1905",
+    "compDate": "1875",
+    "compPlace": "Baghdad, Iraq",
+    "pubPlace": "Jerusalem",
+    "errorMargin": "20",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Chagigah",
+            "he": "חגיגה"
+        }
+    ],
+    "base_text_mapping": "",
+    "collective_title": {
+        "en": "Benayahu",
+        "he": "בניהו"
+    },
+    "heTitle": "בניהו על חגיגה",
+    "titleVariants": [
+        "Benayahu on Chagigah"
+    ],
+    "heTitleVariants": [
+        "בניהו על חגיגה"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Line"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "מפרשים",
+        "בניהו"
+    ],
+    "compDateString": {
+        "en": " (c.1855  - c.1895 CE)",
+        "he": " (1855 - 1895 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Baghdad, Iraq",
+        "he": "בגדד, עירק"
+    }
+}

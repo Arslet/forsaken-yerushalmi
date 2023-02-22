@@ -1,0 +1,74 @@
+{
+    "title": "Ein Ayah",
+    "categories": [
+        "Philosophy"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Section",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Eyn Aya"
+            },
+            {
+                "lang": "he",
+                "text": "עין אי\"ה",
+                "primary": true
+            },
+            {
+                "text": "Ein Ayah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Ein Ayah",
+        "heTitle": "עין אי\"ה",
+        "heSectionNames": [
+            "פרק",
+            "חלק",
+            "פירוש"
+        ],
+        "key": "Ein Ayah"
+    },
+    "authors": [
+        "Avraham Yitzchak HaCohen Kook"
+    ],
+    "enDesc": "Ein Ayah is a commentary, written by Avraham Yitzchak HaCohen, on Ein Yaakov - a compilation of all the Aggadic material in the Talmud together with commentaries. The author began working on it at the age of 18 and completed it many years later.",
+    "pubDate": "1986",
+    "compDate": "1910",
+    "pubPlace": "Jerusalem, Israel",
+    "errorMargin": "25",
+    "era": "AH",
+    "heTitle": "עין אי\"ה",
+    "titleVariants": [
+        "Eyn Aya",
+        "Ein Ayah"
+    ],
+    "heTitleVariants": [
+        "עין אי\"ה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Section",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "מחשבת ישראל"
+    ],
+    "compDateString": {
+        "en": " (c.1885  - c.1935 CE)",
+        "he": " (1885 - 1935 לספירה בקירוב)"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "The Book of Susanna",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "ספר שושנה",
+                "primary": true
+            },
+            {
+                "text": "The Book of Susanna",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "The Book of Susanna",
+        "heTitle": "ספר שושנה",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "The Book of Susanna"
+    },
+    "authors": [],
+    "enDesc": "An apocryphal addition to the Book of Daniel.",
+    "heDesc": "הוספה אפוקריפי לספר דניאל.",
+    "compDate": "250 BCE",
+    "errorMargin": "100",
+    "heTitle": "ספר שושנה",
+    "titleVariants": [
+        "The Book of Susanna"
+    ],
+    "heTitleVariants": [
+        "ספר שושנה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרים חיצונים"
+    ]
+}

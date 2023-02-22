@@ -1,0 +1,82 @@
+{
+    "title": "Book of Tobit",
+    "categories": [
+        "Apocrypha"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "text": "The Book of Tobit",
+                "lang": "en"
+            },
+            {
+                "text": "Tobit",
+                "lang": "en"
+            },
+            {
+                "primary": true,
+                "text": "מעשה טוביה",
+                "lang": "he"
+            },
+            {
+                "text": "ספר טובי",
+                "lang": "he"
+            },
+            {
+                "text": "ספר טוביה",
+                "lang": "he"
+            },
+            {
+                "text": "Book of Tobit",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Book of Tobit",
+        "heTitle": "מעשה טוביה",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Book of Tobit"
+    },
+    "authors": [],
+    "enDesc": "Apocryphal work, believed to have been written early in the second century, is named after its principal character.",
+    "heDesc": "חיבור יהודי מתקופת בית שני הנכלל במסגרת הספרים החיצוניים.",
+    "compDate": "200",
+    "errorMargin": "50",
+    "era": "T",
+    "heTitle": "מעשה טוביה",
+    "titleVariants": [
+        "The Book of Tobit",
+        "Tobit",
+        "Book of Tobit"
+    ],
+    "heTitleVariants": [
+        "מעשה טוביה",
+        "ספר טובי",
+        "ספר טוביה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרים חיצונים"
+    ],
+    "compDateString": {
+        "en": " (c.150  - c.250 CE)",
+        "he": " (150 - 250 לספירה בקירוב)"
+    }
+}

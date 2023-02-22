@@ -1,0 +1,116 @@
+{
+    "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Zuta",
+    "categories": [
+        "Tanaitic",
+        "Commentary",
+        "Haggahot Ya'avetz",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Perek",
+                    "Halakhah",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Halakhah",
+                    "Comment"
+                ],
+                "default": true,
+                "title": "",
+                "heTitle": "",
+                "heSectionNames": [
+                    "פרק",
+                    "הלכה",
+                    "פירוש"
+                ],
+                "key": "default"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Halakhah",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Halakhah",
+                    "Comment"
+                ],
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Section on Peace",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "פרק השלום",
+                        "primary": true
+                    }
+                ],
+                "title": "Section on Peace",
+                "heTitle": "פרק השלום",
+                "heSectionNames": [
+                    "הלכה",
+                    "פירוש"
+                ],
+                "key": "Section on Peace"
+            }
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "הגהות מהריעב״ץ על מסכת דרך ארץ זוטא",
+                "primary": true
+            },
+            {
+                "text": "Haggahot Ya'avetz on Tractate Derekh Eretz Zuta",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Zuta",
+        "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ זוטא",
+        "key": "Haggahot Ya'avetz on Tractate Derekh Eretz Zuta"
+    },
+    "authors": [
+        "Yaakov Emden"
+    ],
+    "compDate": "1750",
+    "errorMargin": "23",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Tractate Derekh Eretz Zuta",
+            "he": "מסכת דרך ארץ זוטא"
+        }
+    ],
+    "collective_title": {
+        "en": "Haggahot Ya'avetz",
+        "he": "הגהות מהריעב״ץ"
+    },
+    "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ זוטא",
+    "titleVariants": [
+        "Haggahot Ya'avetz on Tractate Derekh Eretz Zuta"
+    ],
+    "heTitleVariants": [
+        "הגהות מהריעב״ץ על מסכת דרך ארץ זוטא"
+    ],
+    "heCategories": [
+        "ספרות תנאית",
+        "מפרשים",
+        "הגהות מהריעב״ץ",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.1727  - c.1773 CE)",
+        "he": " (1727 - 1773 לספירה בקירוב)"
+    }
+}

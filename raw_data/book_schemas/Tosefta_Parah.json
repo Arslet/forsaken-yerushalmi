@@ -1,0 +1,94 @@
+{
+    "title": "Tosefta Parah",
+    "categories": [
+        "Tanaitic",
+        "Tosefta",
+        "Seder Tahorot"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Tosefta"
+        ],
+        "lengths": [
+            12
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Tos. Parah"
+            },
+            {
+                "lang": "en",
+                "text": "T. Parah"
+            },
+            {
+                "lang": "he",
+                "text": "תוספתא פרה",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Tosef. Par."
+            },
+            {
+                "lang": "en",
+                "text": "Tosefta Parah",
+                "primary": true
+            }
+        ],
+        "title": "Tosefta Parah",
+        "heTitle": "תוספתא פרה",
+        "heSectionNames": [
+            "פרק",
+            "תוספתא"
+        ],
+        "key": "Tosefta Parah"
+    },
+    "order": [
+        6
+    ],
+    "authors": [],
+    "enDesc": "Parah (Cow) belongs to the sixth order, Tahorot (Purities) and discusses the laws of the Red Heifer (Para Adumah). It has twelve chapters.",
+    "pubDate": "1521",
+    "compDate": "210",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "20",
+    "era": "T",
+    "is_cited": true,
+    "heTitle": "תוספתא פרה",
+    "titleVariants": [
+        "Tos. Parah",
+        "T. Parah",
+        "Tosef. Par.",
+        "Tosefta Parah"
+    ],
+    "heTitleVariants": [
+        "תוספתא פרה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Tosefta"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "ספרות תנאית",
+        "תוספתא",
+        "סדר טהרות"
+    ],
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)",
+        "he": " (190 - 230 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

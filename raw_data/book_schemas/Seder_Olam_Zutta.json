@@ -1,0 +1,68 @@
+{
+    "title": "Seder Olam Zutta",
+    "categories": [
+        "Midrash"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "סדר עולם זוטא"
+            },
+            {
+                "text": "Seder Olam Zutta",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Seder Olam Zutta",
+        "heTitle": "סדר עולם זוטא",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
+        "key": "Seder Olam Zutta"
+    },
+    "authors": [],
+    "enDesc": "A midrashic genealogy from Adam through to the times of the exilarchs, it was written long after Seder Olam Rabbah as a type of expansion especially regarding the exilarchs.",
+    "pubDate": "1514",
+    "compDate": "804",
+    "compPlace": "Babylonia",
+    "pubPlace": "Mantua",
+    "errorMargin": "300",
+    "era": "GN",
+    "heTitle": "סדר עולם זוטא",
+    "titleVariants": [
+        "Seder Olam Zutta"
+    ],
+    "heTitleVariants": [
+        "סדר עולם זוטא"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "מדרש"
+    ],
+    "compDateString": {
+        "en": " (c.504  - c.1104 CE)",
+        "he": " (504 - 1104 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Babylonia",
+        "he": "בבל"
+    }
+}

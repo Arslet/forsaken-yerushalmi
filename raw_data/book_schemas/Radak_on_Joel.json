@@ -1,0 +1,91 @@
+{
+    "title": "Radak on Joel",
+    "categories": [
+        "Tanakh",
+        "Commentary",
+        "Radak",
+        "Prophets"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+        ],
+        "toc_zoom": 2,
+        "titles": [
+            {
+                "lang": "he",
+                "text": "רד\"ק על יואל",
+                "primary": true
+            },
+            {
+                "text": "Radak on Joel",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Radak on Joel",
+        "heTitle": "רד\"ק על יואל",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פסקה"
+        ],
+        "key": "Radak on Joel"
+    },
+    "authors": [
+        "Radak"
+    ],
+    "enDesc": "A commentary on the Tanakh written by Rabbi David Kimchi, Radak (1160–1236). Radak, one of the the most famous Bible commentators of his time, was a grammarian, which is reflected in his commentary. ",
+    "compDate": "1210",
+    "compPlace": "Provence, France",
+    "errorMargin": "25",
+    "era": "RI",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Joel",
+            "he": "יואל"
+        }
+    ],
+    "base_text_mapping": "many_to_one",
+    "collective_title": {
+        "en": "Radak",
+        "he": "רד\"ק"
+    },
+    "heTitle": "רד\"ק על יואל",
+    "titleVariants": [
+        "Radak on Joel"
+    ],
+    "heTitleVariants": [
+        "רד\"ק על יואל"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Paragraph"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "תנ\"ך",
+        "מפרשים",
+        "רד\"ק",
+        "נביאים"
+    ],
+    "compDateString": {
+        "en": " (c.1185  - c.1235 CE)",
+        "he": " (1185 - 1235 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Provence, France",
+        "he": "פרובנס, צרפת"
+    }
+}

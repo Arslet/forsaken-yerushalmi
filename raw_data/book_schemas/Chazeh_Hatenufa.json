@@ -1,0 +1,60 @@
+{
+    "title": "Chazeh Hatenufa",
+    "categories": [
+        "Responsa"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Siman"
+        ],
+        "sectionNames": [
+            "Siman"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "חזה התנופה",
+                "primary": true
+            },
+            {
+                "text": "Chazeh Hatenufa",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Chazeh Hatenufa",
+        "heTitle": "חזה התנופה",
+        "heSectionNames": [
+            "סימן"
+        ],
+        "key": "Chazeh Hatenufa"
+    },
+    "authors": [
+        "Moshe of Brussels"
+    ],
+    "enDesc": "An abridgement of Responsa of the Rosh, printed by Chida together with his responsa \"Chaim Sha'al.\"",
+    "heDesc": "קיצור של תשובות הרא\"ש, נדפס על ידי החיד\"א בספר השו\"ת שלו \"חיים שאל\".",
+    "compDate": "1340",
+    "errorMargin": "30",
+    "era": "RI",
+    "heTitle": "חזה התנופה",
+    "titleVariants": [
+        "Chazeh Hatenufa"
+    ],
+    "heTitleVariants": [
+        "חזה התנופה"
+    ],
+    "sectionNames": [
+        "Siman"
+    ],
+    "depth": 1,
+    "heCategories": [
+        "שו\"ת"
+    ],
+    "compDateString": {
+        "en": " (c.1310  - c.1370 CE)",
+        "he": " (1310 - 1370 לספירה בקירוב)"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Moreh BeEtzba",
+    "categories": [
+        "Halakhah",
+        "Avodat HaKodesh (Chida)"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Seif",
+            "Paragraph"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "מורה באצבע"
+            },
+            {
+                "text": "Moreh BeEtzba",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Moreh BeEtzba",
+        "heTitle": "מורה באצבע",
+        "heSectionNames": [
+            "סעיף",
+            "פסקה"
+        ],
+        "key": "Moreh BeEtzba"
+    },
+    "order": [
+        1
+    ],
+    "authors": [
+        "Hayyim Joseph David Azulay"
+    ],
+    "enDesc": "Laws of prayer and daily conduct, compiled by Chida.",
+    "heDesc": "דיני תפילה והנהגות מוסריות לכל השנה מאת ר' חיים יוסף דוד אזולאי (חיד\"א).",
+    "pubDate": "1781",
+    "compDate": "1766",
+    "pubPlace": "Livorno, Italy",
+    "errorMargin": "15",
+    "era": "AH",
+    "heTitle": "מורה באצבע",
+    "titleVariants": [
+        "Moreh BeEtzba"
+    ],
+    "heTitleVariants": [
+        "מורה באצבע"
+    ],
+    "sectionNames": [
+        "Seif",
+        "Paragraph"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה",
+        "עבודת הקודש - חיד“א"
+    ],
+    "compDateString": {
+        "en": " (c.1751  - c.1781 CE)",
+        "he": " (1751 - 1781 לספירה בקירוב)"
+    }
+}

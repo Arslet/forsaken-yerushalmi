@@ -1,0 +1,110 @@
+{
+    "title": "Jerusalem Talmud Yevamot",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            169,
+            422
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Yevamot,Yerushalmi Yevamot"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Yevamot"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Yevamos"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי יבמות",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי יבמות"
+            },
+            {
+                "lang": "en",
+                "text": "Y. Yeb."
+            },
+            {
+                "text": "JT Yevamot",
+                "lang": "en"
+            },
+            {
+                "text": "Jerusalem Talmud Yevamot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Yevamot",
+        "heTitle": "תלמוד ירושלמי יבמות",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Yevamot"
+    },
+    "order": [
+        24
+    ],
+    "authors": [],
+    "enDesc": "Yevamot (Levirate marriage) belongs to the third order, Nashim (Women) and discusses the mandated marriage of a widow to her brother-in-law, deals with the Jewish law of levirate marriage (Deut. 25:5–10) and other topics, such as the status of minors. It has sixteen chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי יבמות",
+    "titleVariants": [
+        "JT Yevamot,Yerushalmi Yevamot",
+        "Talmud Yerushalmi Yevamot",
+        "Yerushalmi Yevamos",
+        "Y. Yeb.",
+        "JT Yevamot",
+        "Jerusalem Talmud Yevamot"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי יבמות",
+        "ירושלמי יבמות"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר נשים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

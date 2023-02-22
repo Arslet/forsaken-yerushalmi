@@ -1,0 +1,83 @@
+{
+    "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah",
+    "categories": [
+        "Tanaitic",
+        "Commentary",
+        "Haggahot Ya'avetz",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "lang": "he",
+                "text": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה",
+                "primary": true
+            },
+            {
+                "text": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah",
+        "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah"
+    },
+    "authors": [
+        "Yaakov Emden"
+    ],
+    "compDate": "1750",
+    "errorMargin": "23",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Tractate Derekh Eretz Rabbah",
+            "he": "מסכת דרך ארץ רבה"
+        }
+    ],
+    "collective_title": {
+        "en": "Haggahot Ya'avetz",
+        "he": "הגהות מהריעב״ץ"
+    },
+    "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה",
+    "titleVariants": [
+        "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah"
+    ],
+    "heTitleVariants": [
+        "הגהות מהריעב״ץ על מסכת דרך ארץ רבה"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "ספרות תנאית",
+        "מפרשים",
+        "הגהות מהריעב״ץ",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.1727  - c.1773 CE)",
+        "he": " (1727 - 1773 לספירה בקירוב)"
+    }
+}

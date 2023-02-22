@@ -1,0 +1,283 @@
+{
+    "title": "Horayot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Line"
+        ],
+        "lengths": [
+            25,
+            1685
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Masekhet Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Tractate Horayot"
+            },
+            {
+                "lang": "en",
+                "text": "Horiyot"
+            },
+            {
+                "lang": "he",
+                "text": "הוריות",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Hor."
+            },
+            {
+                "lang": "en",
+                "text": "Horayoth"
+            },
+            {
+                "text": "BT Horayot",
+                "lang": "en"
+            },
+            {
+                "text": "Horayot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Horayot",
+        "heTitle": "הוריות",
+        "heSectionNames": [
+            "דף",
+            "שורה"
+        ],
+        "key": "Horayot",
+        "checkFirst": {
+            "en": "Mishnah Horayot",
+            "he": "משנה הוריות"
+        }
+    },
+    "default_struct": "Chapters",
+    "order": [
+        27,
+        8
+    ],
+    "authors": [],
+    "enDesc": "Horayot (Decisions) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the communal sin-offering brought for major errors by the Sanhedrin. It has three chapters.",
+    "pubDate": "1523",
+    "compDate": "500",
+    "compPlace": "Talmudic Babylon",
+    "pubPlace": "Venice",
+    "errorMargin": "50",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "הוריות",
+    "titleVariants": [
+        "Masekhet Horayot",
+        "Talmud Horayot",
+        "Tractate Horayot",
+        "Horiyot",
+        "Hor.",
+        "Horayoth",
+        "BT Horayot",
+        "Horayot"
+    ],
+    "heTitleVariants": [
+        "הוריות"
+    ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Horayot 2a:1-6b:10",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הורו בית דין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1",
+                    "heTitle": "הורו בית דין",
+                    "refs": [
+                        "Horayot 2a:1-20",
+                        "Horayot 2b",
+                        "Horayot 3a",
+                        "Horayot 3b",
+                        "Horayot 4a",
+                        "Horayot 4b",
+                        "Horayot 5a",
+                        "Horayot 5b",
+                        "Horayot 6a",
+                        "Horayot 6b:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Horayot 6b:11-9b:10",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הורה כהן משיח",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2",
+                    "heTitle": "הורה כהן משיח",
+                    "refs": [
+                        "Horayot 6b:11-14",
+                        "Horayot 7a",
+                        "Horayot 7b",
+                        "Horayot 8a",
+                        "Horayot 8b",
+                        "Horayot 9a",
+                        "Horayot 9b:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 11
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Horayot 9b:11-14a:7",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כהן משיח",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3",
+                    "heTitle": "כהן משיח",
+                    "refs": [
+                        "Horayot 9b:11-12",
+                        "Horayot 10a",
+                        "Horayot 10b",
+                        "Horayot 11a",
+                        "Horayot 11b",
+                        "Horayot 12a",
+                        "Horayot 12b",
+                        "Horayot 13a",
+                        "Horayot 13b",
+                        "Horayot 14a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 17
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Masekhet Horayot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Talmud Horayot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Tractate Horayot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Horiyot"
+                },
+                {
+                    "lang": "he",
+                    "text": "הוריות",
+                    "primary": true
+                },
+                {
+                    "lang": "en",
+                    "text": "Hor."
+                },
+                {
+                    "lang": "en",
+                    "text": "Horayoth"
+                },
+                {
+                    "text": "BT Horayot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Horayot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Horayot",
+            "heTitle": "הוריות"
+        }
+    },
+    "sectionNames": [
+        "Daf",
+        "Line"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "סדר נזיקין"
+    ],
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)",
+        "he": " (450 - 550 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Babylon",
+        "he": "בבל התלמודית"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Jerusalem Talmud Bikkurim",
+    "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Halakhah"
+        ],
+        "lengths": [
+            25,
+            62
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "JT Bikurim"
+            },
+            {
+                "lang": "en",
+                "text": "JT Bikkurim"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Bikurim"
+            },
+            {
+                "lang": "en",
+                "text": "Talmud Yerushalmi Bikkurim"
+            },
+            {
+                "lang": "en",
+                "text": "Yerushalmi Bikkurim"
+            },
+            {
+                "lang": "he",
+                "text": "תלמוד ירושלמי בכורים",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "ירושלמי בכורים"
+            },
+            {
+                "text": "Jerusalem Talmud Bikkurim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Jerusalem Talmud Bikkurim",
+        "heTitle": "תלמוד ירושלמי בכורים",
+        "heSectionNames": [
+            "דף",
+            "הלכה"
+        ],
+        "key": "Jerusalem Talmud Bikkurim"
+    },
+    "order": [
+        11
+    ],
+    "authors": [],
+    "enDesc": "Bikkurim (First-Fruits) belongs to the first order, Zera'im (seeds) and discusses the prohibition of the immediate use of a tree after it has been planted, as stated in Leviticus 19:23-25. It consists of three chapters.",
+    "pubDate": "1523",
+    "compDate": "400",
+    "compPlace": "Talmudic Israel",
+    "pubPlace": "Venice",
+    "errorMargin": "25",
+    "era": "A",
+    "is_cited": true,
+    "heTitle": "תלמוד ירושלמי בכורים",
+    "titleVariants": [
+        "JT Bikurim",
+        "JT Bikkurim",
+        "Yerushalmi Bikurim",
+        "Talmud Yerushalmi Bikkurim",
+        "Yerushalmi Bikkurim",
+        "Jerusalem Talmud Bikkurim"
+    ],
+    "heTitleVariants": [
+        "תלמוד ירושלמי בכורים",
+        "ירושלמי בכורים"
+    ],
+    "sectionNames": [
+        "Daf",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "ירושלמי",
+        "סדר זרעים"
+    ],
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)",
+        "he": " (375 - 425 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

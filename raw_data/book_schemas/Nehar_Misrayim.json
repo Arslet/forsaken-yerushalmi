@@ -1,0 +1,95 @@
+{
+    "title": "Nehar Misrayim",
+    "categories": [
+        "Halakhah"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Halakhah"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Nehar Misraim"
+            },
+            {
+                "lang": "en",
+                "text": "Nehar Mitzraim"
+            },
+            {
+                "lang": "en",
+                "text": "Nahar Misrayim"
+            },
+            {
+                "lang": "en",
+                "text": "Nahar Mitzraim"
+            },
+            {
+                "lang": "en",
+                "text": "Nehar Mitzrayim"
+            },
+            {
+                "lang": "he",
+                "text": "נהר מצרים",
+                "primary": true
+            },
+            {
+                "lang": "en",
+                "text": "Nehar Misrayim",
+                "primary": true
+            }
+        ],
+        "title": "Nehar Misrayim",
+        "heTitle": "נהר מצרים",
+        "heSectionNames": [
+            "פרק",
+            "הלכה"
+        ],
+        "key": "Nehar Misrayim"
+    },
+    "authors": [
+        "Raphael Aharon ben Shimon"
+    ],
+    "enDesc": "Nehar Misrayim was written by Rabbi Raphael Aaron ben Simeon. Published between 1891 and 1920, it contains many laws, customs ‎and decrees that were issued by Egyptian Jewry's rabbinic leadership in Cairo.‎",
+    "heDesc": "אוסף של מנהגי מצרים ותקנותיה, נכתב ע\"י רב רפאל אהרן בן שמעון, שהיה רבה הראשי של קהיר במצרים.",
+    "pubDate": "1908",
+    "compDate": "1908",
+    "compPlace": "Alexandria",
+    "pubPlace": "Alexandria",
+    "era": "AH",
+    "heTitle": "נהר מצרים",
+    "titleVariants": [
+        "Nehar Misraim",
+        "Nehar Mitzraim",
+        "Nahar Misrayim",
+        "Nahar Mitzraim",
+        "Nehar Mitzrayim",
+        "Nehar Misrayim"
+    ],
+    "heTitleVariants": [
+        "נהר מצרים"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "הלכה"
+    ],
+    "compDateString": {
+        "en": " (1908 CE)",
+        "he": " (1908 לספירה)"
+    },
+    "compPlaceString": {
+        "en": "Alexandria",
+        "he": "אלכסנדריה"
+    }
+}

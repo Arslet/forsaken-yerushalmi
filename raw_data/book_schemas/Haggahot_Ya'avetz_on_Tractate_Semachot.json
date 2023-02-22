@@ -1,0 +1,83 @@
+{
+    "title": "Haggahot Ya'avetz on Tractate Semachot",
+    "categories": [
+        "Tanaitic",
+        "Commentary",
+        "Haggahot Ya'avetz",
+        "Minor Tractates"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Perek",
+            "Halakhah",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Halakhah",
+            "Comment"
+        ],
+        "titles": [
+            {
+                "primary": true,
+                "lang": "he",
+                "text": "הגהות מהריעב״ץ על מסכת שמחות"
+            },
+            {
+                "text": "Haggahot Ya'avetz on Tractate Semachot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Haggahot Ya'avetz on Tractate Semachot",
+        "heTitle": "הגהות מהריעב״ץ על מסכת שמחות",
+        "heSectionNames": [
+            "פרק",
+            "הלכה",
+            "פירוש"
+        ],
+        "key": "Haggahot Ya'avetz on Tractate Semachot"
+    },
+    "authors": [
+        "Yaakov Emden"
+    ],
+    "compDate": "1750",
+    "errorMargin": "25",
+    "era": "AH",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Tractate Semachot",
+            "he": "מסכת שמחות"
+        }
+    ],
+    "collective_title": {
+        "en": "Haggahot Ya'avetz",
+        "he": "הגהות מהריעב״ץ"
+    },
+    "heTitle": "הגהות מהריעב״ץ על מסכת שמחות",
+    "titleVariants": [
+        "Haggahot Ya'avetz on Tractate Semachot"
+    ],
+    "heTitleVariants": [
+        "הגהות מהריעב״ץ על מסכת שמחות"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Comment"
+    ],
+    "depth": 3,
+    "heCategories": [
+        "ספרות תנאית",
+        "מפרשים",
+        "הגהות מהריעב״ץ",
+        "מסכתות קטנות"
+    ],
+    "compDateString": {
+        "en": " (c.1725  - c.1775 CE)",
+        "he": " (1725 - 1775 לספירה בקירוב)"
+    }
+}

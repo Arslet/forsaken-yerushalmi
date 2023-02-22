@@ -1,0 +1,88 @@
+{
+    "title": "Pesikta Rabbati",
+    "categories": [
+        "Midrash",
+        "Aggadic Midrash"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Section"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Pesik. R."
+            },
+            {
+                "lang": "en",
+                "text": "P’siḳta Rabbathi"
+            },
+            {
+                "lang": "en",
+                "text": "Pesiḳta Rabbathi"
+            },
+            {
+                "lang": "he",
+                "primary": true,
+                "text": "פסיקתא רבתי"
+            },
+            {
+                "lang": "he",
+                "text": "פסי\"ר"
+            },
+            {
+                "text": "Pesikta Rabbati",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Pesikta Rabbati",
+        "heTitle": "פסיקתא רבתי",
+        "heSectionNames": [
+            "פרק",
+            "חלק"
+        ],
+        "key": "Pesikta Rabbati"
+    },
+    "authors": [],
+    "enDesc": "A book of midrash arranged according to the weekly and special parsha readings of the Torah.",
+    "compDate": "750",
+    "compPlace": "Talmudic Israel",
+    "errorMargin": "150",
+    "is_cited": true,
+    "heTitle": "פסיקתא רבתי",
+    "titleVariants": [
+        "Pesik. R.",
+        "P’siḳta Rabbathi",
+        "Pesiḳta Rabbathi",
+        "Pesikta Rabbati"
+    ],
+    "heTitleVariants": [
+        "פסיקתא רבתי",
+        "פסי\"ר"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Section"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "מדרש",
+        "מדרש אגדה"
+    ],
+    "compDateString": {
+        "en": " (c.600  - c.900 CE)",
+        "he": " (600 - 900 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Chayei Moharan",
+    "categories": [
+        "Chasidut",
+        "Breslov"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Perek",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse"
+        ],
+        "titles": [
+            {
+                "lang": "en",
+                "text": "Hayyei Moharan"
+            },
+            {
+                "lang": "he",
+                "text": "חיי מוהר\"ן",
+                "primary": true
+            },
+            {
+                "lang": "he",
+                "text": "חיי מוהרן"
+            },
+            {
+                "lang": "he",
+                "text": "חיי מוהר\"נ"
+            },
+            {
+                "lang": "he",
+                "text": "חיי מוהר״ן"
+            },
+            {
+                "lang": "he",
+                "text": "חיי מוהר״נ"
+            },
+            {
+                "lang": "en",
+                "text": "Chayei Moharan",
+                "primary": true
+            }
+        ],
+        "title": "Chayei Moharan",
+        "heTitle": "חיי מוהר\"ן",
+        "heSectionNames": [
+            "פרק",
+            "פסוק"
+        ],
+        "key": "Chayei Moharan"
+    },
+    "authors": [
+        "Nathan Sternhartz"
+    ],
+    "enDesc": "Biography of R' Nachman of Breslov, written by his student R' Natan.",
+    "heDesc": "תורות וקורות חייו של ר' נחמן מברסלב, נכתב ע\"י תלמידו ר' נתן.",
+    "pubDate": "1874",
+    "compDate": "1820",
+    "pubPlace": "Lemberg",
+    "errorMargin": "10",
+    "era": "AH",
+    "heTitle": "חיי מוהר\"ן",
+    "titleVariants": [
+        "Hayyei Moharan",
+        "Chayei Moharan"
+    ],
+    "heTitleVariants": [
+        "חיי מוהר\"ן",
+        "חיי מוהרן",
+        "חיי מוהר\"נ",
+        "חיי מוהר״ן",
+        "חיי מוהר״נ"
+    ],
+    "sectionNames": [
+        "Chapter",
+        "Verse"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "חסידות",
+        "ברסלב"
+    ],
+    "compDateString": {
+        "en": " (c.1810  - c.1830 CE)",
+        "he": " (1810 - 1830 לספירה בקירוב)"
+    }
+}
