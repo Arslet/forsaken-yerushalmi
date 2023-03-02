@@ -1,9 +1,9 @@
 from confluent_kafka import Consumer
 from schema_transformation import process_book_schema_dict_list
-from link_transformation import process_book_links_dict_list
+from link_transformation import process_book_links_dict_list, processed_leftover_book_links_dataframe
 import pandas as pd
 import json, time, random, itertools
-from backup_restore import backup_schemas, backup_links, restore_schemas, restore_links
+from backup_restore import backup_schemas, backup_processed_links, backup_leftover_links, restore_schemas, restore_leftover_links, restore_processed_links
 
 def poll(consumer):
   TIMEOUT = 5
@@ -39,14 +39,20 @@ def drop_duplicates_schemas(schemas_dataframe):
   if schemas_dataframe is None:
     return None
   
-  return schemas_dataframe.drop_duplicates(subset=["title"], keep="last")
+  return schemas_dataframe.drop_duplicates(subset=["title"], keep="first")
 
-def drop_duplicates_links(links_dataframe):
+def drop_duplicates_processed_links(links_dataframe):
   if links_dataframe is None:
     return None
   
   # Order of Text and Cited Text shouldn't be reversed!
-  return links_dataframe.drop_duplicates(subset=["Text Title", "Cited Text Title"], keep="last")
+  return links_dataframe.drop_duplicates(subset=["Text Title", "Cited Text Title"], keep="first")
+
+def drop_duplicates_leftover_links(leftover_links_dataframe):
+  if leftover_links_dataframe is None:
+    return None
+  
+  return leftover_links_dataframe.drop_duplicates(subset=["Text 1", "Text 2"], keep="first")
 
 def continuously_consume():
   LOOP_TIMEOUT = 1
@@ -58,7 +64,8 @@ def continuously_consume():
   links_consumer.subscribe(['book_links'])
 
   schemas_dataframe = restore_schemas()
-  links_dataframe = restore_links()
+  links_dataframe = restore_processed_links()
+  leftover_links_dataframe = restore_leftover_links()
 
   try:
     while True:
@@ -67,21 +74,38 @@ def continuously_consume():
       schemas_dataframe = concat_dataframes(schemas_dataframe, new_schemas_dataframe)
       schemas_dataframe = drop_duplicates_schemas(schemas_dataframe)
       
-      print(schemas_dataframe)
+      print(f"{schemas_dataframe=}")
 
       if schemas_dataframe is not None:
-        links_dict_list = poll(links_consumer)
-        new_links_dataframe = process_book_links_dict_list(links_dict_list, schemas_dataframe)
-        links_dataframe = concat_dataframes(links_dataframe, new_links_dataframe)
-        links_dataframe = drop_duplicates_links(links_dataframe)
+        new_leftover_links_transformation_datas = processed_leftover_book_links_dataframe(leftover_links_dataframe, schemas_dataframe)
+        matched_leftover_links = new_leftover_links_transformation_datas.links
+        leftover_links_dataframe = new_leftover_links_transformation_datas.leftovers
         
-        print(links_dataframe)
+        links_dict_list = poll(links_consumer)
+        new_links_transformation_datas = process_book_links_dict_list(links_dict_list, schemas_dataframe)
+        new_links_dataframe = new_links_transformation_datas.links
+        new_leftover_links_dataframe = new_links_transformation_datas.leftovers
+
+        links_dataframe = concat_dataframes(links_dataframe, new_links_dataframe)
+        links_dataframe = concat_dataframes(links_dataframe, matched_leftover_links)
+        links_dataframe = drop_duplicates_processed_links(links_dataframe)
+        
+        leftover_links_dataframe = concat_dataframes(leftover_links_dataframe, new_leftover_links_dataframe)
+        leftover_links_dataframe = drop_duplicates_leftover_links(leftover_links_dataframe)
+
+
+        print(f"{links_dataframe=}")
+        print(f"{leftover_links_dataframe=}")
 
       time.sleep(LOOP_TIMEOUT)
   
-  except (Exception, KeyboardInterrupt):
+  except (Exception, KeyboardInterrupt) as e:
+    print(f"Backing up, exception occured: {e}")
     backup_schemas(schemas_dataframe)
-    backup_links(links_dataframe)
+    backup_processed_links(links_dataframe)
+    backup_leftover_links(leftover_links_dataframe)
+
+    raise
     
 if __name__ == '__main__':
   continuously_consume()
